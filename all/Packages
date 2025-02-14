@@ -2996,6 +2996,100 @@ OE: enigma2-plugin-drivers-network-usb-rtl8822cu
 License: GPL-2.0-or-later
 Priority: optional
 
+Package: enigma2-plugin-drivers-network-usb-rtl8852cu-dbg
+Version: 1.0-r0
+Section: devel
+Architecture: all
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 21962ed76795ee63ef2169e1a2d819f6
+SHA256sum: f821347500d1c00e58751a50a18882c960585b10df3dc3b9c486040c73502a99
+Size: 618
+Filename: enigma2-plugin-drivers-network-usb-rtl8852cu-dbg_1.0-r0_all.ipk
+Source: enigma2-plugin-drivers-network-usb-rtl8852cu.bb
+Description: WiFi devices for Realtek 8852CU chipsets. - Debugging files
+OE: enigma2-plugin-drivers-network-usb-rtl8852cu
+License: GPL-2.0-or-later
+Priority: optional
+
+Package: enigma2-plugin-drivers-network-usb-rtl8852cu-dev
+Version: 1.0-r0
+Recommends: enigma2-plugin-drivers-network-usb-rtl8852cu (= 1.0-r0)
+Section: devel
+Architecture: all
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 60a35bf4a38c191cae57e1e7c30b8a52
+SHA256sum: 7fb46edea186aa9cdd3bbf0bd12f5a8ead8d64450d1948179b55975ff090bbd4
+Size: 652
+Filename: enigma2-plugin-drivers-network-usb-rtl8852cu-dev_1.0-r0_all.ipk
+Source: enigma2-plugin-drivers-network-usb-rtl8852cu.bb
+Description: WiFi devices for Realtek 8852CU chipsets. - Development files
+OE: enigma2-plugin-drivers-network-usb-rtl8852cu
+License: GPL-2.0-or-later
+Priority: optional
+
+Package: enigma2-plugin-drivers-network-usb-rtl8852cu
+Version: 1.0-r0
+Recommends: rtl8852cu
+Section: base
+Architecture: all
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 8c7ba4a2551afd3d73cce8597e59a724
+SHA256sum: 5371a78d31358fcdb3b20297088991a497313b57ca165e3a3a08b3860c819a2a
+Size: 564
+Filename: enigma2-plugin-drivers-network-usb-rtl8852cu_1.0-r0_all.ipk
+Source: enigma2-plugin-drivers-network-usb-rtl8852cu.bb
+Description: WiFi devices for Realtek 8852CU chipsets.
+OE: enigma2-plugin-drivers-network-usb-rtl8852cu
+License: GPL-2.0-or-later
+Priority: optional
+
+Package: enigma2-plugin-drivers-network-usb-rtl88xxau-dbg
+Version: 1.0-r0
+Section: devel
+Architecture: all
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 6da44f395d2ee2f3cd757d0bde4e05aa
+SHA256sum: 5077719b44e8f06397c180e13f3523f0d3a100618e2fe1df85ca2e6c8fe351af
+Size: 618
+Filename: enigma2-plugin-drivers-network-usb-rtl88xxau-dbg_1.0-r0_all.ipk
+Source: enigma2-plugin-drivers-network-usb-rtl88xxau.bb
+Description: WiFi devices for Realtek 88xxAU chipsets. - Debugging files
+OE: enigma2-plugin-drivers-network-usb-rtl88xxau
+License: GPL-2.0-or-later
+Priority: optional
+
+Package: enigma2-plugin-drivers-network-usb-rtl88xxau-dev
+Version: 1.0-r0
+Recommends: enigma2-plugin-drivers-network-usb-rtl88xxau (= 1.0-r0)
+Section: devel
+Architecture: all
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 1f1472a901caf8217143d372cde2e808
+SHA256sum: 5aa183b92d5fc23374053ff6923df7af0b27472acf37ac5334aeb35e8cd9189f
+Size: 652
+Filename: enigma2-plugin-drivers-network-usb-rtl88xxau-dev_1.0-r0_all.ipk
+Source: enigma2-plugin-drivers-network-usb-rtl88xxau.bb
+Description: WiFi devices for Realtek 88xxAU chipsets. - Development files
+OE: enigma2-plugin-drivers-network-usb-rtl88xxau
+License: GPL-2.0-or-later
+Priority: optional
+
+Package: enigma2-plugin-drivers-network-usb-rtl88xxau
+Version: 1.0-r0
+Recommends: rtl88xxau
+Section: base
+Architecture: all
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 4d46c335f3e911644e026c4714973902
+SHA256sum: b14315272e4d5217eb8a8673847b6f7b8c2a178afce1253b9f0c33c98c82ed81
+Size: 564
+Filename: enigma2-plugin-drivers-network-usb-rtl88xxau_1.0-r0_all.ipk
+Source: enigma2-plugin-drivers-network-usb-rtl88xxau.bb
+Description: WiFi devices for Realtek 88xxAU chipsets.
+OE: enigma2-plugin-drivers-network-usb-rtl88xxau
+License: GPL-2.0-or-later
+Priority: optional
+
 Package: enigma2-plugin-drivers-network-usb-smsc75xx-dbg
 Version: 1.0-r0
 Section: devel
@@ -3586,14 +3680,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-xklass-dbg
-Version: 1.34-20250204-git79+458b73e0+458b73e88d-r1
+Version: 1.34-20250204-git80+cf40deb0+cf40debd24-r1
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 4599bed6e61423a1f2cfe771ba56161c
-SHA256sum: 08534d059cc43fe4d04fa3347ea3ad123d29697af7035d6248334d7b1866dc7c
-Size: 644
-Filename: enigma2-plugin-extensions-xklass-dbg_1.34-20250204-git79+458b73e0+458b73e88d-r1_all.ipk
+MD5Sum: 5c8c7dde31e57fb0723b2d75e4a68603
+SHA256sum: b36577525b9ae9b15bab4a641046dd4dddc443e170128c69f4f804d4fe893999
+Size: 642
+Filename: enigma2-plugin-extensions-xklass-dbg_1.34-20250204-git80+cf40deb0+cf40debd24-r1_all.ipk
 Source: enigma2-plugin-extensions-xklass.bb
 Description: Enigma2 plugin for playing official Xtream Codes IPTV playlists. - Debugging files
 OE: enigma2-plugin-extensions-xklass
@@ -3602,15 +3696,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-xklass-dev
-Version: 1.34-20250204-git79+458b73e0+458b73e88d-r1
-Recommends: enigma2-plugin-extensions-xklass (= 1.34-20250204-git79+458b73e0+458b73e88d-r1), python3-pillow-dev, python3-requests-dev, wget-dev
+Version: 1.34-20250204-git80+cf40deb0+cf40debd24-r1
+Recommends: enigma2-plugin-extensions-xklass (= 1.34-20250204-git80+cf40deb0+cf40debd24-r1), python3-pillow-dev, python3-requests-dev, wget-dev
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: a55f7ff5f8f34fc9baa721e669be7b9b
-SHA256sum: f6fb6d59f03de409d8b65ab8b6ee348e39f02ec490edfe324da06d3b68022afc
+MD5Sum: 4938ece78d231f17c7455aa3288a3b41
+SHA256sum: 62f71249db7bfff0f4a7063ddda08062b77ff2179f0d075b6acaf6a035c314cf
 Size: 708
-Filename: enigma2-plugin-extensions-xklass-dev_1.34-20250204-git79+458b73e0+458b73e88d-r1_all.ipk
+Filename: enigma2-plugin-extensions-xklass-dev_1.34-20250204-git80+cf40deb0+cf40debd24-r1_all.ipk
 Source: enigma2-plugin-extensions-xklass.bb
 Description: Enigma2 plugin for playing official Xtream Codes IPTV playlists. - Development files
 OE: enigma2-plugin-extensions-xklass
@@ -3619,14 +3713,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-xklass-src
-Version: 1.34-20250204-git79+458b73e0+458b73e88d-r1
+Version: 1.34-20250204-git80+cf40deb0+cf40debd24-r1
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: f36a163b45bbb147ae6d65ad7f9bb812
-SHA256sum: 611e94eefff07b1574aab8f81564a8c4ef2a644fb51df9c07667d94cfc88f7b7
-Size: 96898
-Filename: enigma2-plugin-extensions-xklass-src_1.34-20250204-git79+458b73e0+458b73e88d-r1_all.ipk
+MD5Sum: 4210296e32268a1ee1ccd73cce529b65
+SHA256sum: aed4ba671ca9d970ad67f9da84ab4a5574e3f959eb3a45ccc8b16570dd5ce03d
+Size: 97672
+Filename: enigma2-plugin-extensions-xklass-src_1.34-20250204-git80+cf40deb0+cf40debd24-r1_all.ipk
 Source: enigma2-plugin-extensions-xklass.bb
 Description: Enigma2 plugin for playing official Xtream Codes IPTV playlists. - Source files
 OE: enigma2-plugin-extensions-xklass
@@ -3635,15 +3729,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-xklass
-Version: 1.34-20250204-git79+458b73e0+458b73e88d-r1
+Version: 1.34-20250204-git80+cf40deb0+cf40debd24-r1
 Depends: python3-pillow, python3-requests, wget
 Section: base
 Architecture: all
 Maintainer: kiddac
-MD5Sum: ab901a2acd0d3feed737d217559a07c8
-SHA256sum: 1496e268509c0936cd8d487fc71a96bcd8c2d6434abc43a74d949e64e3a06b15
-Size: 5734290
-Filename: enigma2-plugin-extensions-xklass_1.34-20250204-git79+458b73e0+458b73e88d-r1_all.ipk
+MD5Sum: 149052aa6388a5e95dad42f7ed5848af
+SHA256sum: b8f52dc33db158aac21a3359c3cfe700623b2e2c7cb80b8dfc319721e12f0793
+Size: 5735722
+Filename: enigma2-plugin-extensions-xklass_1.34-20250204-git80+cf40deb0+cf40debd24-r1_all.ipk
 Source: enigma2-plugin-extensions-xklass.bb
 Description: Enigma2 plugin for playing official Xtream Codes IPTV playlists.
 OE: enigma2-plugin-extensions-xklass
@@ -5123,9 +5217,9 @@ Version: 0.4-r0
 Section: devel
 Architecture: all
 Maintainer: SatDreamGR
-MD5Sum: da7f5796f028cdf16d3b55947de8153d
-SHA256sum: 7f0bd119b43079189d9f2be36f423115fafaf5136f3dfbf8681a7011f7210250
-Size: 580
+MD5Sum: f3ac2c52bd2277c5303d3c37380ff8ab
+SHA256sum: 8c8cb05d305634d1f4d1269498a25b507f9f69ecf7c8cc00db47b245402166cd
+Size: 584
 Filename: livestreamersrv-dbg_0.4-r0_all.ipk
 Source: livestreamersrv_0.4.bb
 Description: livestreamersrv version 0.4-r0 - Debugging files
@@ -5140,9 +5234,9 @@ Recommends: livestreamersrv (= 0.4-r0), python3-core-dev, streamlink-dev
 Section: devel
 Architecture: all
 Maintainer: SatDreamGR
-MD5Sum: f7d534f773ccb74c99832616ce831b94
-SHA256sum: cecffeb069c07dfed194b4435ea7aa89af23dc673e232946a6d8c9c3d006377d
-Size: 636
+MD5Sum: 6e224ccb6c8927e6f6c6c8a7424d11a0
+SHA256sum: 4972514026979054b587fa53ad63b630bfc4666a4ddd7c8fe35349eb66b9f3be
+Size: 640
 Filename: livestreamersrv-dev_0.4-r0_all.ipk
 Source: livestreamersrv_0.4.bb
 Description: livestreamersrv version 0.4-r0 - Development files
@@ -5157,9 +5251,9 @@ Depends: python3-core, streamlink
 Section: devel/python
 Architecture: all
 Maintainer: SatDreamGR
-MD5Sum: 2ffdceecf2983e05b834ce7bc356be50
-SHA256sum: 74824857e9eba447a1fd61c5f2d13de1d50e9c68faa82f77f54b0c28a1231bc5
-Size: 77076
+MD5Sum: bde081865176baf3deeb50584bcf30f1
+SHA256sum: 752f57e303ccd2b30cd30802beed24493842a8ac5de2910eca30a135ea1d042a
+Size: 77080
 Filename: livestreamersrv_0.4-r0_all.ipk
 Source: livestreamersrv_0.4.bb
 Description: livestreamersrv version 0.4-r0
@@ -5648,8 +5742,8 @@ Version: 1.8.2+git25+c7ae8ab0+c7ae8ab3f8-r0
 Section: devel
 Architecture: all
 Maintainer: SatDreamGR Billy2011
-MD5Sum: 887a4a4ebad1cc0cc4c246fced262ff3
-SHA256sum: f40186302aa2bcc04d585f3914843f60ed1c70eeabd1618277796fcc029945f7
+MD5Sum: 6573ec32de9b955fcce7c5477e351a25
+SHA256sum: fb01ce8dcfcf1cb43651560fd085c0aa5e218b711874ef8b1c4a015c00e7831c
 Size: 608
 Filename: streamlinksrv-dbg_1.8.2+git25+c7ae8ab0+c7ae8ab3f8-r0_all.ipk
 Source: streamlinksrv.bb
@@ -5665,8 +5759,8 @@ Recommends: python3-core-dev, streamlink-dev, streamlinksrv (= 1.8.2+git25+c7ae8
 Section: devel
 Architecture: all
 Maintainer: SatDreamGR Billy2011
-MD5Sum: 579c21c01d3d996db2fcdb684a030fc7
-SHA256sum: 6c54b1f52dd09ac8a4e9d1e4c7b3faf23e29578f0c028339570797d5c9b29db4
+MD5Sum: 01f520e71b36aeaf87293dd6229a8d41
+SHA256sum: d3ba67927b91ad222a5965a301382d76aca745ab069b23befc2cb2291ebcfbc2
 Size: 658
 Filename: streamlinksrv-dev_1.8.2+git25+c7ae8ab0+c7ae8ab3f8-r0_all.ipk
 Source: streamlinksrv.bb
@@ -5682,9 +5776,9 @@ Depends: python3-core, streamlink
 Section: devel/python
 Architecture: all
 Maintainer: SatDreamGR Billy2011
-MD5Sum: d37af9bc2957c748afd30d098222922b
-SHA256sum: a36c03ada828eaaaf234d9f134b144df49f0652212f057860d7f8be585341e73
-Size: 85900
+MD5Sum: a4e1e9595444adc15263510a49daf1db
+SHA256sum: 854b6e4809eff8a66f9eb713c7a1b4dfd1d871cba9b45a5f3994625088fe201e
+Size: 85902
 Filename: streamlinksrv_1.8.2+git25+c7ae8ab0+c7ae8ab3f8-r0_all.ipk
 Source: streamlinksrv.bb
 Description: streamlinksrv version 1.8.2+git-r0
