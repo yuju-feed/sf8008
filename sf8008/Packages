@@ -295,16 +295,16 @@ License: LGPL-2.1-only
 Priority: optional
 
 Package: enigma-info
-Version: 5.9-r20250211-sf8008
+Version: 5.9-r20250214-sf8008
 Replaces: enigma-kernel-module
 Conflicts: enigma-kernel-module
 Section: base
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: c3108a956d73276a65f7d3c22d838be8
-SHA256sum: 0ec8fe0fb6a562d7172151ed4ccc2f10e432844201366b9f2348d68cdaf96eb8
-Size: 1354
-Filename: enigma-info_5.9-r20250211-sf8008_sf8008.ipk
+MD5Sum: cf15cb37fc89329a6e45fe7f089c9639
+SHA256sum: e70813d18e4af2b7afc83b2ac2175ad085be86485516c0df8e7fe59127b08140
+Size: 1348
+Filename: enigma-info_5.9-r20250214-sf8008_sf8008.ipk
 Source: enigma-info.bb
 Description: enigma.info used by BoxInfo
 OE: enigma-info
@@ -1176,8 +1176,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: ce76d5489341ed489d17684780467b52
-SHA256sum: cb0f3b4d8951e55803d320ac8d8821f2eaaa03c90fe8f420922db44e80f77441
+MD5Sum: fb828492231f4a2002dd3bd5a99ee25c
+SHA256sum: cf5a779cb54c59c69a89a519411953a5cd872e44ea6a7947dc36ec2c743d6498
 Size: 71606
 Filename: enigma2-plugin-extensions-advancedmovieselection-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -1208,8 +1208,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: f47765a429133fdf8b7d69b254d577c4
-SHA256sum: 252fa748bc30223d58254b55daf6bc9b29a0b1a16b30d268cdc5161e8d07d8e0
+MD5Sum: 3616ace18151975231db82ce6044c3cc
+SHA256sum: f941b0c5808879325e2e66ea9f44aa5d3f34a782d6966c31b0652b0f57908dab
 Size: 583724
 Filename: enigma2-plugin-extensions-advancedmovieselection_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -1318,8 +1318,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 3d486d54c144db3f1b8b125645ed7788
-SHA256sum: c09c4299e9e9e0b1e21fae981630765c91c768874e1c801d6fd840a2dbe68eb4
+MD5Sum: 6d8455aaa834bef8ea41fc9687aa8765
+SHA256sum: d74fe8fa505bea7813edf496753c43b7bc7756ac0acb8b1452c7e6445b560150
 Size: 4244
 Filename: enigma2-plugin-extensions-audiorestart-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -1349,8 +1349,8 @@ Version: 5.9+gitr7764+123df200+123df20303-r10
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: a26a99cb59cf2f88abd653d0f092b11c
-SHA256sum: 1ac60361b0a88f56bd81079b73527c5602564b311de752c48ccfb05c6301a3a3
+MD5Sum: db0120df7cc67f7c89143e1dbed02131
+SHA256sum: a978d9aff69ffdcf0fa6624b8fc1d4209bb66346ee04c0cab7cbdc9486b0892b
 Size: 17200
 Filename: enigma2-plugin-extensions-audiorestart_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -1365,9 +1365,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 4238980357242868f13f3edc5a1885bf
-SHA256sum: 79a8565ecd414cd79a74e252323f00f7ae7cb6f75b72407294a3b86b86f588f3
-Size: 15442
+MD5Sum: 9ad151fed8a7940c555f67ba49902e39
+SHA256sum: 6a9cd95f0df3ac0dff562c87532d7b6324d636c91f2563d7b48bc94aecf5d04d
+Size: 15444
 Filename: enigma2-plugin-extensions-audiosync-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: extensions-audiosync (translations)
@@ -1397,8 +1397,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 80a416f9137b6500f80232fd414025f1
-SHA256sum: 15e5c2cd0a88a4f06c9eaf8b4ac7b586989d1a1554674bb5995bed62a36d3502
+MD5Sum: 954aab254221ef9e14744ed32b28eead
+SHA256sum: c7f52b743dab8d3f50276578b03795fa7fead1aeff47f610f12c4493adfe27c9
 Size: 51542
 Filename: enigma2-plugin-extensions-audiosync_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -1413,9 +1413,9 @@ Depends: enigma2-oe-alliance-plugins
 Section: base
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: c9a980d22e40660c415759badd7e8dd6
-SHA256sum: 8b31302d74b1e38211710f16c8284183fbd393e0f0d96bcd70ccc3aa5a0c86cd
-Size: 3826
+MD5Sum: a18df7872815672e52404b610eccde04
+SHA256sum: 6fa0a3b3a90611c9b2938e1614c21123442ae85eecd3706122e02d82565202d7
+Size: 3828
 Filename: enigma2-plugin-extensions-autoblchanger-po_5.9+gitr3735+45b4cd10+45b4cd1be2-r2_sf8008.ipk
 Source: enigma2-oe-alliance-plugins.bb
 Description: extensions-autoblchanger (translations)
@@ -1445,9 +1445,9 @@ Depends: enigma2-oe-alliance-plugins
 Section: base
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: 16761e5c42b45187a2c4b2dc3997c590
-SHA256sum: 6994f1843bcb34ee5e68d8e7f7ca10913934857f12365845ffb059f338e772af
-Size: 1951316
+MD5Sum: a504eb935646f802e157995ef84d6c6f
+SHA256sum: d365a705097b3281168898a0472d2ac79fa70e825ea6fb5449ccc34996e77eb6
+Size: 1951318
 Filename: enigma2-plugin-extensions-autoblchanger_5.9+gitr3735+45b4cd10+45b4cd1be2-r2_sf8008.ipk
 Source: enigma2-oe-alliance-plugins.bb
 Description: extensions-autoblchanger
@@ -1461,9 +1461,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: bc45184b177d9ca167da119f0be9bb79
-SHA256sum: d092b7f8dccf777a075afc1f0f9c9c855eb0a9d17fb6e79a16de2031b219c72c
-Size: 167522
+MD5Sum: 7240a1863c32c44b25cd6f1ef276dcf8
+SHA256sum: 9f8bb0f449702e74612e9ce24202b8e357c873d508792b9bd2ae4a8e7abc2451
+Size: 167518
 Filename: enigma2-plugin-extensions-autotimer-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: extensions-autotimer (translations)
@@ -1493,9 +1493,9 @@ Depends: enigma2-plugin-systemplugins-mphelp, enigma2-plugin-systemplugins-toolk
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 7b987dcd89682f2416fdc76db6bb79c9
-SHA256sum: 20d2a3eef980a9076afc756119100e8865294cbe59921caed8e48435705c7420
-Size: 384132
+MD5Sum: dba3a9f06dc32f0b874dfe6c71e7e0e3
+SHA256sum: e209c4c8fb6ba21528f01649bed98fb8e93a2d16b02e5e195f78c82ecbde7989
+Size: 384128
 Filename: enigma2-plugin-extensions-autotimer_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: extensions-autotimer
@@ -1540,8 +1540,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 1cb7f62d1076bf375b7503461d34515f
-SHA256sum: 15cf15afe623e3a91229ee1e7fbe90eb4a483af3101b910c5a6fab7073eb261b
+MD5Sum: 9ffa8909f5d71c2c5c8fcf508cabc33e
+SHA256sum: cb4b60bc53aab6b2812946492fc222b4fd00333551a4622613a9fce8fccbbec0
 Size: 10200
 Filename: enigma2-plugin-extensions-birthdayreminder-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -1571,9 +1571,9 @@ Version: 5.9+gitr7764+123df200+123df20303-r10
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 7c3b2ac03f41f10ede3a4877edf4aa7d
-SHA256sum: be1abcd44cefc00dddec5718d5b26f14f6188cd9451646565a9d41442d963ef4
-Size: 40010
+MD5Sum: 619e5f298ebe2b374b8a4dbe476f0756
+SHA256sum: 9a3a505a496f04eeb3775541dee20bc368cbd7bbe899846a2d828a0ed97952c0
+Size: 40012
 Filename: enigma2-plugin-extensions-birthdayreminder_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: extensions-birthdayreminder
@@ -1587,8 +1587,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 45542a19a7064d367ef37a9018b92791
-SHA256sum: 4dbfb83f28db4943f7c5bba58c9150e365a24f809baf687b97935970e6d9a7bf
+MD5Sum: 688595f9fe2db2243e9af03be9f3c63b
+SHA256sum: 31bb001dfe7ee12db78593b9cf5c672a632edf337b68682c5e05bf6dbf9f7201
 Size: 10538
 Filename: enigma2-plugin-extensions-bmediacenter-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -1619,8 +1619,8 @@ Depends: libshowiframe0, python3-tmdbsimple
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 6c26f0c243ff63106243731a418ac8e2
-SHA256sum: de737e1d0343aa17b62e1074ac03240e8e6cc9d28a9045e85e00cf7ecc15a8b2
+MD5Sum: 49886f173355560a5110fc588427186b
+SHA256sum: b7eb404f95effb57998094a7ce8945b39dee4af25d529f4f574fb7a2cb0ac2d5
 Size: 5537734
 Filename: enigma2-plugin-extensions-bmediacenter_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -1667,8 +1667,8 @@ Depends: enigma2-oe-alliance-plugins
 Section: base
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: ce34f1a76401730121e031842a51a313
-SHA256sum: 8d90629a24cc6f9287083be8907e1778b89eb5cee8c62ed15115221a0b2ffb02
+MD5Sum: 7676b05dd37f260b0b03fda1b4ce4b7c
+SHA256sum: f24370ab4ff61829a07beba9a691d2c3a20c00e448ac62db48ea3a34a03098c3
 Size: 8676
 Filename: enigma2-plugin-extensions-btdevicesmanager-po_5.9+gitr3735+45b4cd10+45b4cd1be2-r2_sf8008.ipk
 Source: enigma2-oe-alliance-plugins.bb
@@ -1699,8 +1699,8 @@ Depends: alsa-utils-aplay, bluez-alsa, bluez-conf, bluez-hcidump, bluez-hidd, bl
 Section: base
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: 64c188c37b38046b2afea4c972b030a4
-SHA256sum: 1c90d0c545e9549dece6a1f0b9e11735c428ef11ba8898754a5cae5222b5a1c4
+MD5Sum: aa47959e55440ce545388e4e44e5c491
+SHA256sum: e4011f6e6b5a453df1a646e614ae38f16d2d424bdf4c5d5c69d5e6069966f936
 Size: 33526
 Filename: enigma2-plugin-extensions-btdevicesmanager_5.9+gitr3735+45b4cd10+45b4cd1be2-r2_sf8008.ipk
 Source: enigma2-oe-alliance-plugins.bb
@@ -1859,8 +1859,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: ea7e6e3ed552d0a2c204f8b40bc6dd01
-SHA256sum: 1f1ffda9fd376a1b7da20915e561c349af50ec41fa3aec29c4c316baf1078412
+MD5Sum: 50e58475a947cd42284b1d71c3d056a2
+SHA256sum: b85c4f6597f012cb40fb37b7171c0b5dd7333b4d63fc8037512bfada91031eae
 Size: 7078
 Filename: enigma2-plugin-extensions-curlytx-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -1891,9 +1891,9 @@ Depends: python3-twisted-web
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 43075941e51596b87299a2a83f40109d
-SHA256sum: a465d3b51fdbc2f602622cb5ffe4cc37ef63547d76891a8f589b226dc0cec229
-Size: 21902
+MD5Sum: 5cf27dd7d7f634c0631b6b2def4ce2e3
+SHA256sum: 20ca9a161d22e0c2ac148456024d3b6b5b47e8ca9ee382764d40cda84ae63002
+Size: 21904
 Filename: enigma2-plugin-extensions-curlytx_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: extensions-curlytx
@@ -1939,8 +1939,8 @@ Depends: enigma2-oe-alliance-plugins
 Section: base
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: 7a0e94e82e74f3855dd375d2c8967e7b
-SHA256sum: 18d9b0012d507560f45e41e4abaddc9c53a42473da4283b2530e383de4043af0
+MD5Sum: 1ff52b103f0a365c967b8eebc79cb84a
+SHA256sum: eac1e2d0ea3b8b6ee63e34b589b5755f664b6ced28633b144e14e59ea1c91cd4
 Size: 6184
 Filename: enigma2-plugin-extensions-dlnabrowser-po_5.9+gitr3735+45b4cd10+45b4cd1be2-r2_sf8008.ipk
 Source: enigma2-oe-alliance-plugins.bb
@@ -1971,9 +1971,9 @@ Depends: djmount, enigma2-oe-alliance-plugins, fuse-utils, libfuse2, libneon27, 
 Section: base
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: d90b938432c85474c4e28799d795ce47
-SHA256sum: df6a1b4640e0b014010256aff6adfff1ca3b843ace9e2b5b24733f11e794a053
-Size: 97154
+MD5Sum: 1dc21885f5577af39254fa5a102361b4
+SHA256sum: 60309b6ef0247b4e90a40ec36ded54c6b008d901767463571f42a8590886d5cb
+Size: 97152
 Filename: enigma2-plugin-extensions-dlnabrowser_5.9+gitr3735+45b4cd10+45b4cd1be2-r2_sf8008.ipk
 Source: enigma2-oe-alliance-plugins.bb
 Description: extensions-dlnabrowser
@@ -1987,8 +1987,8 @@ Depends: enigma2-oe-alliance-plugins
 Section: base
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: 2f03542d89da5fce784e98b16d15a700
-SHA256sum: 60297f3e5ae8ec8f3b78c4a66c3c8729012baa44ca1195d61274ac648793663e
+MD5Sum: e569bdd7144d915684e116b5ecad8959
+SHA256sum: 975faf3284ea53629dca7e7c676f08a26396ef202cb6b9fdf3e9c1e01028efcd
 Size: 5444
 Filename: enigma2-plugin-extensions-dlnaserver-po_5.9+gitr3735+45b4cd10+45b4cd1be2-r2_sf8008.ipk
 Source: enigma2-oe-alliance-plugins.bb
@@ -2019,9 +2019,9 @@ Depends: enigma2-oe-alliance-plugins, minidlna
 Section: base
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: 7f8b11e76d2dfcd1d2ff9f6820e1095f
-SHA256sum: a1249246df90760f1c77b5573696afb04d5594ed4f077fefff71c849604bbc00
-Size: 16728
+MD5Sum: ca9022043668876dded5f99f9e10aeb5
+SHA256sum: d9f97085ce8c0c93258037757bb5e1ecc7384dbadf9b444a178e83ea472af6ee
+Size: 16726
 Filename: enigma2-plugin-extensions-dlnaserver_5.9+gitr3735+45b4cd10+45b4cd1be2-r2_sf8008.ipk
 Source: enigma2-oe-alliance-plugins.bb
 Description: extensions-dlnaserver
@@ -2129,9 +2129,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 6e4126cce2d99f88d0baaffcf35fd4be
-SHA256sum: de4dff186cf6b7084ded4c26afb1a845d849ee689f43b5dda8c9581e4c783595
-Size: 4930
+MD5Sum: b124acd0e67d06200b482227f5c106e3
+SHA256sum: ca83171db69fca89c0efbeb8cb595c26ecc25e8dac3037e49c0d34e364dd11fa
+Size: 4932
 Filename: enigma2-plugin-extensions-dvdbackup-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: extensions-dvdbackup (translations)
@@ -2161,8 +2161,8 @@ Depends: dvdbackup, libdvdread
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: fddaceadbf72b1ed68a1fef656a31f8d
-SHA256sum: c71ac64a26646fc6285ed723d134eebdfd172c37a230742cc666f9e64e290f5a
+MD5Sum: 2b9393ae35de097260705ca9906022ae
+SHA256sum: d0222873abeb727f8cba1a407a38af45ee89709c2914969a6c514b87ffe533e8
 Size: 23006
 Filename: enigma2-plugin-extensions-dvdbackup_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -2274,9 +2274,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 74901f7ad0dc69b9b4a58609587170c8
-SHA256sum: 87e64df3019b004cd54db1c8b1e928570df84fed68a2f8e7eb516303ad836e06
-Size: 7434
+MD5Sum: 5d89eb7f7f34ce4b0f0db7139d896d9f
+SHA256sum: 1ba79480a882e815f2da37c467ba7749128e7a150eacf8a29a0efd2fd9ee9491
+Size: 7436
 Filename: enigma2-plugin-extensions-easymedia-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: extensions-easymedia (translations)
@@ -2305,9 +2305,9 @@ Version: 5.9+gitr7764+123df200+123df20303-r10
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: bdbbd53552d27d47f67455fe54033f28
-SHA256sum: 54fb0f593384d85dffcebf3c2359d67aca70f48a5042818a57983586ffb96c74
-Size: 96040
+MD5Sum: 59b029a728565a9d737ebd1b50416a95
+SHA256sum: 4e1e03e2d78d733220e7d059ae7ec41cd70bae79483ab2bedb1b3daedbd2563c
+Size: 96044
 Filename: enigma2-plugin-extensions-easymedia_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: extensions-easymedia
@@ -2321,8 +2321,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: e270792bf964717da520c79176e969a0
-SHA256sum: 6b040fcc623789184bfc8955d15ad1fccd6793d84a4e6aa438d164d1db20994b
+MD5Sum: 3e65529a6f5c30505ef785d8fda30934
+SHA256sum: 83a79f5be55d846606ce8d509cf7b8cd39d37a03d91ec4c758454c759984ab61
 Size: 3584
 Filename: enigma2-plugin-extensions-eibox-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -2352,8 +2352,8 @@ Version: 5.9+gitr7764+123df200+123df20303-r10
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: dc20782edc0a7db0cadccdc7dd806d59
-SHA256sum: 7717974521a1fea00885bdf2df8d4a05bf789f7329198c374757661e07b87264
+MD5Sum: 8d5b4dd3f690d1d4351788b54e08382e
+SHA256sum: 5de1223f413d15825066ca16edcb6226a13480d8962c1c64dec6f697836fa1b4
 Size: 73506
 Filename: enigma2-plugin-extensions-eibox_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -2368,9 +2368,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 38e1085158978f5a720892d66f11f855
-SHA256sum: ae29535d8afa86f67dafbcae4727409e94339e334de928d7bf364b195952119e
-Size: 13036
+MD5Sum: f46b6a7ec030c46fb777b054a1702a05
+SHA256sum: 62791afd60b91a14cd2145960432450068f14d1921e24bd1f8a8688062e938fc
+Size: 13038
 Filename: enigma2-plugin-extensions-emailclient-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: extensions-emailclient (translations)
@@ -2400,8 +2400,8 @@ Depends: python3-email, python3-pyopenssl, python3-shell, python3-twisted-mail, 
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 2636e21cffe96e679a1e8a4e535da93e
-SHA256sum: f7fa75b12aa262c30c120dd04c15b84ae174c764150348eed372e26a6c5347ad
+MD5Sum: 1b2a4dc1bca68697192adca43ec8f83f
+SHA256sum: 98ca861b92349dab8fb2ff1b890c9f869c4932e6e57c3a9b20118f0daffb96cf
 Size: 54310
 Filename: enigma2-plugin-extensions-emailclient_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -2448,8 +2448,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: d9788ddd803fcffb4a2729f93fda6243
-SHA256sum: d0128ebc0e6aa8ef3da89647111fc0a96b40e11ebfc6581025d62210be37a50e
+MD5Sum: 58be80bf4ec26bad0fdad652acf801e4
+SHA256sum: 4fd8a05d8de38513cd85c53d3ac424d1a1f841003b589e6a40e23f05637e8e0d
 Size: 4900
 Filename: enigma2-plugin-extensions-eparted-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -2482,8 +2482,8 @@ Conflicts: eparted
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 6352371c06aca0e42f4915d103d48eda
-SHA256sum: a18fce4269cbaf7ad2321cb4af1551657486071d3bad2f5e03fa7d8b82caf62a
+MD5Sum: 19f14c2d7536d3cc17655176468d6439
+SHA256sum: 9daa522ba3e126376ff88c51f44a956f7ae3dc9e1e614d3ddb7a9cf28890bf7d
 Size: 26478
 Filename: enigma2-plugin-extensions-eparted_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -2498,9 +2498,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: a81bf977eafbcf3f3329470c8468245d
-SHA256sum: 3e12a0a54514c4d1034339ce41685ebd3a9460dc4b829ce1ac7dd6e047cb4d88
-Size: 6430
+MD5Sum: a1b7e910896cb3e77f59f3329af027c8
+SHA256sum: a1c1140ce7942cc9ae29580c6db46741dff8b288101c52711c9038f34e19646b
+Size: 6432
 Filename: enigma2-plugin-extensions-epgexport-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: extensions-epgexport (translations)
@@ -2530,8 +2530,8 @@ Depends: python3-backports-lzma
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: fe22a23002f5b2be8868827680ce9454
-SHA256sum: 7fae9f9e0b4ff6d11e88df9c95991b066e7faf473f33c2022beb8ce3ef85a264
+MD5Sum: 4dbae46d0d722230177047132d85f152
+SHA256sum: 9396120b2c8ecb916c8358398999e79d91d71b0f8634b773a077d48aafd3ea0d
 Size: 42328
 Filename: enigma2-plugin-extensions-epgexport_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -2546,8 +2546,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: e72c11cf8a986ae8e3e80652ded456d1
-SHA256sum: 5387539524f69a001c7c387c566a9a87518d800cd8e69d6e27bfa48437ca669b
+MD5Sum: 76f02da8b38867b3c92a3c49e749f54f
+SHA256sum: 5e3e129603e68088dd03636accf858d0a47ac761b2b51e6fd28024e3555e4a28
 Size: 37324
 Filename: enigma2-plugin-extensions-epgrefresh-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -2578,8 +2578,8 @@ Depends: enigma2-plugin-systemplugins-mphelp, python3-codecs, python3-xml
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 2a9d7e717cfe8cd5b86fcaf93fb86017
-SHA256sum: 2de8df43b88ab1833fbc5dfa83456b9e5e0d9f4cfffa4095202f0d598fa5c4a6
+MD5Sum: e118eb1c4b5fbd7028c4200aa288d47a
+SHA256sum: 3ab73b66845e3f7e765253931b2fa5e9523af436f3f73163fafb18933acee43d
 Size: 93690
 Filename: enigma2-plugin-extensions-epgrefresh_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -2594,8 +2594,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: c7bd239ebe9d71c4c7e02a4f87515f88
-SHA256sum: bf9d36b732b1144bb1288ccab44af3859c841295863793d05ef77590821b5db3
+MD5Sum: 3afe009738fb5b8a526c0272f7644150
+SHA256sum: 59c39778689e9923c1161d417f95144a0ef5a969af6f8132480d2fbbd464217b
 Size: 15174
 Filename: enigma2-plugin-extensions-epgsearch-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -2626,8 +2626,8 @@ Depends: enigma2-plugin-systemplugins-toolkit
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: a41783becdd5ac3f699e83285120d10d
-SHA256sum: 7d5b9e2bedf7e4723d017204c90c4498a7b8f5e0363131504c35ed79e1f7cea1
+MD5Sum: fb2113f246a3470f9e9c5b00a9280d1b
+SHA256sum: 168c94e6bb6697a0c494f5f38a2cae06b810b27ca787fb85aaa737f63958a608
 Size: 77228
 Filename: enigma2-plugin-extensions-epgsearch_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -2722,8 +2722,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 43213cf6befe982060e5c84b95dc8de2
-SHA256sum: b7bc52720d81335b24cd0d2f43bfb4f1b56d21855b896d4acedb2e2d470debd6
+MD5Sum: 0c05c1a6d751093d585ff9357959c35f
+SHA256sum: 11d20cb026993bc6bb36439e1930101b80caf1e3faecd9d054faee5f10d1c759
 Size: 3346
 Filename: enigma2-plugin-extensions-eurotictv-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -2754,8 +2754,8 @@ Depends: gstreamer1.0-bad-fragmented
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: d609c3f165a8bbe3d90f3aa456589d00
-SHA256sum: bc78ad577507358f36544e0c4b294867d838a5426e6592437f9e2c8da10f1f48
+MD5Sum: 61e0ced152ca6726cfde62736354bf6d
+SHA256sum: 314090118b1505c78a9c06ffaaa148e9f664c1213da49c9d9750360b5b2f7889
 Size: 57396
 Filename: enigma2-plugin-extensions-eurotictv_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -2802,9 +2802,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 84a5b7eafbf40308260260c61c86e02d
-SHA256sum: 6b10c5de121bd43083db9d288dd4d9a09fea4eac13ff6547da2eacf09b7f69e2
-Size: 3784
+MD5Sum: 62acc1a4f78fffd9fe43a292cd69ac70
+SHA256sum: 26664c2a353806364eca89d9001a57c7d5714af7101c45e5b44ab167c4df44d0
+Size: 3786
 Filename: enigma2-plugin-extensions-filebrowser-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: extensions-filebrowser (translations)
@@ -2833,9 +2833,9 @@ Version: 5.9+gitr7764+123df200+123df20303-r10
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 29d83ba77aada8ad7fa2e4d8138ddc73
-SHA256sum: a0ce9744cbab7873aee08d2972edf421681999fde556677ea45bf244ee345de6
-Size: 14778
+MD5Sum: 9e4a7b3223733556ef2bb8c34e2216bc
+SHA256sum: 18f4afbc5495822d979b99b4b1983f619f8f540aec543c92b808439c546083a2
+Size: 14780
 Filename: enigma2-plugin-extensions-filebrowser_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: extensions-filebrowser
@@ -2881,8 +2881,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 1e3008613e56272c73d8fc32431148b5
-SHA256sum: 0a20059ab2d3398e3ecaf7f19ee6e073e94f7a49a52d867b4b1f2a69fc3f5059
+MD5Sum: 4d461429ff013019cb2b42e4776e87fe
+SHA256sum: 9cb6cc0f1b5aa80112a240f48672183225ef3467e8a3440cc9acfc497f7635d0
 Size: 5908
 Filename: enigma2-plugin-extensions-flashexpander-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -2912,9 +2912,9 @@ Version: 5.9+gitr7764+123df200+123df20303-r10
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 755c89c64d0436a3a75f36e8d3c16b05
-SHA256sum: c59b29a7808590bdd915bd16b797544f564706eb6aa94afb48ba96edbc8c069a
-Size: 19496
+MD5Sum: e8f76548fe0a203f8aef95775d40207a
+SHA256sum: 14780a4ce99d9d7ae16b4e9bd2bb026916f5649421eb8e30fe2657c70a247cb7
+Size: 19498
 Filename: enigma2-plugin-extensions-flashexpander_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: extensions-flashexpander
@@ -2928,8 +2928,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 07640ce937cebd5595edfbbc47cefd1d
-SHA256sum: 515176f580cc18bc414fd11b6e351b15a73ba22eb6b72e62cfe34ca1a9e834fa
+MD5Sum: 036bbab681dcf86986fa0e40e71bdbfd
+SHA256sum: 535444c2f416b5a063b12952a5717e5d069382e98dde21acfc1b6e8477efc164
 Size: 23464
 Filename: enigma2-plugin-extensions-fritzcall-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -2960,8 +2960,8 @@ Depends: python3-html, python3-twisted-web
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 0e6abe4beccd0c9ebaf2c3d96ba0bd36
-SHA256sum: 2c934e3dc2f60d506322a2cc1676ddc3f0d7a2a4909608033be1e7508f16bb7c
+MD5Sum: a6baa2002909deb577cafa5005da1be3
+SHA256sum: 3c42af22f38417a9d6a9f5ba82bc4930da4897ee1fbbbbb1344ccbbf18647850
 Size: 411554
 Filename: enigma2-plugin-extensions-fritzcall_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -3007,9 +3007,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 5123b677cb00f2bdb3eab84ae7d7e58c
-SHA256sum: c5ebfcd2b401d4435c6b2f6bf0fc06ec97fea0142b72c12bb238baf8628c4f4d
-Size: 10960
+MD5Sum: 95fce0f048f3c18c9a7a85257d20288e
+SHA256sum: 92c2666fd8cb0596327beb83ff1f00369090d44464c7effd481d9f7e36b45150
+Size: 10962
 Filename: enigma2-plugin-extensions-ftpbrowser-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: extensions-ftpbrowser (translations)
@@ -3039,8 +3039,8 @@ Depends: enigma2-plugin-systemplugins-toolkit, python3-shell, python3-twisted-pr
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 83078d588bb3288b6f186c087daa9853
-SHA256sum: 74a18e5ad90e02e6e93fa190db78b05cf74aba0a92fa2a49b0df7d9d66b0068f
+MD5Sum: a8413ffb4b0f76c39e7193f58910f13e
+SHA256sum: 4ff4f89a0ff974d1c6476bc500eda95fe84c55e9a6a822c3dc36f9316438d79a
 Size: 48182
 Filename: enigma2-plugin-extensions-ftpbrowser_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -3151,9 +3151,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: bad00d4846869c3fae3bc078d92f6725
-SHA256sum: aca9112ce7000c0ad2f4990967d3d4f2da1d2d5e175827ee0e50f195897e512f
-Size: 29394
+MD5Sum: 3cd628da5f9c15ccc40cc327fb64350a
+SHA256sum: 46d9c9456b442ecfd77b8c0282c9dad6c849bad71193ce3822dfd2ec2f240ff7
+Size: 29396
 Filename: enigma2-plugin-extensions-imdb-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: extensions-imdb (translations)
@@ -3183,9 +3183,9 @@ Depends: python3-requests, python3-twisted-core
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 2e9cd4e28e86fe63fa7146e4aa1e48ff
-SHA256sum: 71408021d029112fef38f603b6e1a5a4cb51ed308f5847d26ef41571d76bc8a0
-Size: 74544
+MD5Sum: 117480e0c5bf5c8a8c4a02c85d30b0f6
+SHA256sum: 092e205899df6bd41d3a369a41045730b4977d74a089d1ea28e07e5220619968
+Size: 74546
 Filename: enigma2-plugin-extensions-imdb_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: extensions-imdb
@@ -3199,8 +3199,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: fe80c21b67526a85cc98a9e57e1d5682
-SHA256sum: d4a515e9d0e4735d1a9a4388fb6f526a2495c2f0d19ce684ba12e44f2c913e23
+MD5Sum: d3a483cfe23e93ee903a547730d83983
+SHA256sum: 1efdf7ee15beb823d60bd18b151046a154013c78d42b7f7f78b043e0f9acd264
 Size: 9232
 Filename: enigma2-plugin-extensions-infobartunerstate-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -3231,8 +3231,8 @@ Depends: python3-shell
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: e408d488c3381c3fe7e892c2966de1e5
-SHA256sum: ac9526e3ddb182f9d5fa2b18929bf1a80745c7fb895ac9561d641bed1fdf260e
+MD5Sum: b978d6583aeff83aa0c4f04102548188
+SHA256sum: 9a3723998426ec167a17c169b422210119fdf1dd0b8beecae6eb8bad319ae16d
 Size: 63850
 Filename: enigma2-plugin-extensions-infobartunerstate_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -3247,9 +3247,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: be9e506cf2a67c714551b70009a6d90b
-SHA256sum: 9d3507243791e6d301918b22a871babd8f58c9b92808e3b8bf564a6a053e42ea
-Size: 8944
+MD5Sum: a5f3b4487377d4a9ee7346c6b93c9bf8
+SHA256sum: e5a9fb8cc9e142bc74215aa67a848e361afc2bc7a523c66d092ec1461d738438
+Size: 8942
 Filename: enigma2-plugin-extensions-kiddytimer-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: extensions-kiddytimer (translations)
@@ -3278,9 +3278,9 @@ Version: 5.9+gitr7764+123df200+123df20303-r10
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: bda7636cfbc5c2c463b2b9cd4bba7768
-SHA256sum: d780e4860df02cf8dba85e4e7d4eb37f3a61a16fa148c3bbd8d868c20b8407bb
-Size: 111510
+MD5Sum: 4888423fc2bf19c6fa9b19a6df65189c
+SHA256sum: 703a318ea34137459171b837792143d3086c80336023818418663b1528ea59e5
+Size: 111508
 Filename: enigma2-plugin-extensions-kiddytimer_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: extensions-kiddytimer
@@ -3294,8 +3294,8 @@ Depends: enigma2-oe-alliance-plugins
 Section: base
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: b1842b7f76023beb131a026fa38bf8f5
-SHA256sum: 7307a313b0ee5cdd347b9e00b14812d534b3b7efad2655a3c97e560f6406e8bc
+MD5Sum: 5ce4c1c4c03224becd0b0509a3d3973e
+SHA256sum: 8be17db222c0f367b75dff408bb65ac0245e33f64a81f5bc0bdbfd30f07bf6e9
 Size: 125886
 Filename: enigma2-plugin-extensions-lcd4linux-po_5.9+gitr3735+45b4cd10+45b4cd1be2-r2_sf8008.ipk
 Source: enigma2-oe-alliance-plugins.bb
@@ -3326,9 +3326,9 @@ Depends: dpflib, enigma2-oe-alliance-plugins, enigma2-plugin-extensions-lcd4linu
 Section: base
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: 67ce78cd0f1bbf2f5f9378b9761b15e9
-SHA256sum: 32b798cadd51633345fd18b1907168a284d6ab077e690ba93fb2881e840c03ed
-Size: 1252536
+MD5Sum: 0f8746636c15daa92072f6009e95ace1
+SHA256sum: f5e8b1bdb1d510956304dd57b6a40c67ce2c5d66980670f8b3efbdb1c7077e27
+Size: 1252538
 Filename: enigma2-plugin-extensions-lcd4linux_5.9+gitr3735+45b4cd10+45b4cd1be2-r2_sf8008.ipk
 Source: enigma2-oe-alliance-plugins.bb
 Description: extensions-lcd4linux
@@ -3405,8 +3405,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 127e0b8e331b56f738b8d199a0e1852f
-SHA256sum: 7812ef42d2468ed52f589dcae4c09e1037d0bdb8bb4028a4a44070393dcf155c
+MD5Sum: 5ce93dc005824d4a6a21afc9f48127e5
+SHA256sum: f533d2fb3be37230e0eb1f931b59f6efc5265b8e19a7b9f8304b504696438d9d
 Size: 5280
 Filename: enigma2-plugin-extensions-mediadownloader-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -3437,8 +3437,8 @@ Depends: python3-netclient, python3-shell, python3-twisted-web
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 4af21972eeb2cdd767acec0d62e2c096
-SHA256sum: 9529b1cef7d4c618ac65f7c44405d1297d0a5ccc2cc8660ad104ae9097734def
+MD5Sum: ec502f0041363b2a5c43f61994fbe07d
+SHA256sum: 6c669130ec65dcd7a9e0f6ea4fb4ad8d8e05480f03597208bf7416f1f42f76c8
 Size: 17900
 Filename: enigma2-plugin-extensions-mediadownloader_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -3549,8 +3549,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 330d420c8aaa7fd89f930e2afb86dede
-SHA256sum: 405b64fa5fc3dd2beb136f455012adeedbb3e75e0a76f4e15206a15ef0851c83
+MD5Sum: 5d599dc8ad8652868e894af6faf970b1
+SHA256sum: bf1982cf4a04b90e60aae328538aaae320025ed5e79cc5b41285f400a4d24e28
 Size: 10802
 Filename: enigma2-plugin-extensions-merlinmusicplayer-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -3581,8 +3581,8 @@ Depends: python3-mutagen, python3-sqlite3, python3-twisted-web
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 0a15dfedcfcb8aeb3b0a7549bfdf2645
-SHA256sum: fbc6ac28391ef53fb7c7905342986d7361c35b4177da622372bf6afc2acf3945
+MD5Sum: 22d7fb8c7d2cf9b8b7ec7184a7a1544d
+SHA256sum: 197d798d7cd8da58097a9d0e567f8c493421293e609b4ded1fceaadb62438945
 Size: 1023894
 Filename: enigma2-plugin-extensions-merlinmusicplayer_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -3597,8 +3597,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 0df8c361864e03ac5435a874aaca319c
-SHA256sum: 050be140672613b1804aacecd72dff0edcd561c9a4526c2077734476a988e713
+MD5Sum: 1efdbe1f9e7f846c9cd1fc14a55d263d
+SHA256sum: 6b92455515fa4a3273a87e81c3be49d494f49bf96a5ff7325402d3bae69610dc
 Size: 4566
 Filename: enigma2-plugin-extensions-mosaic-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -3629,9 +3629,9 @@ Depends: aio-grab
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: fdfb5043f050afb063f990edb7cee812
-SHA256sum: 2c0f8956da6a80ed42565f4ad9dcfb50008234ee2694c8e1266b04580eb5e75a
-Size: 15654
+MD5Sum: b231b028db56360d58621fa1f2f62e7c
+SHA256sum: 63d1c11df08dfe861f9ce8e8ea998a343c08a1f7e38a637cd6842a34bf3862ca
+Size: 15652
 Filename: enigma2-plugin-extensions-mosaic_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: extensions-mosaic
@@ -3645,8 +3645,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 705f6a74498dad459c687fdfaa6e8f14
-SHA256sum: 6e19c188643c963999e2ad78f2325005e6a87503444ab34421b23e429944c61e
+MD5Sum: 39fd79fcf349dac8f8e6bad1a764b689
+SHA256sum: ac747318957cd93d12e1ff21ea4d17954114573bccd516d07f4a18120589676d
 Size: 10098
 Filename: enigma2-plugin-extensions-moviecut-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -3677,9 +3677,9 @@ Depends: libc6 (>= 2.40+git0+7073164add), libgcc1 (>= 14.2.0), libstdc++6 (>= 14
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 2f3816b3c6662f34d07f01eb9ece1bf5
-SHA256sum: daa2ff2a55ee54a45d576313a37a8fb0957faeb389b2e15376f5bcbcfcfef8a1
-Size: 31648
+MD5Sum: 0dfd7d3211ebc94b5b30b52facff85ec
+SHA256sum: c4128f259460e21069dae379c9b656cb36b0d4162d840ba889557865eab7a441
+Size: 31652
 Filename: enigma2-plugin-extensions-moviecut_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: extensions-moviecut
@@ -3693,8 +3693,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 0200dca9d05c6ee108424af30aa4660a
-SHA256sum: 5d83be5191b97a1784e64b5183339737c44f6a24c20b7ec5159596068d4c313d
+MD5Sum: f0eaa633325e7f82316b22746ba0001f
+SHA256sum: 374129f24353bec6bbbfb797258a822843d3bcbe443ef50110f2ed0141629dc7
 Size: 5566
 Filename: enigma2-plugin-extensions-movieretitle-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -3724,8 +3724,8 @@ Version: 5.9+gitr7764+123df200+123df20303-r10
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: e478245a639e7ab4f15a8254dde47f5a
-SHA256sum: 57bb0f3b4701676b9d0837796f489e988b39c2d8350638d0b09774c06c71523f
+MD5Sum: 017c5c9d747874865fe7cc0703f5b293
+SHA256sum: 84c972878568122a1c8dea657a43f9ce9f6b77fddb53e6e56106726d5aded511
 Size: 15224
 Filename: enigma2-plugin-extensions-movieretitle_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -3772,8 +3772,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 5983e2247bc38ce53ed06655bf39f676
-SHA256sum: 89de474e1a96cb3c1f2a07052d495c89198d5a3f26ea89ed08ae2c52b4901d97
+MD5Sum: 8598b6c4df52d53f2ebf47717c13cdd3
+SHA256sum: 06e891000ebdaff0ef1e01e94d25a4e22d68c05337230871289d99e370783db8
 Size: 5120
 Filename: enigma2-plugin-extensions-movietagger-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -3803,9 +3803,9 @@ Version: 5.9+gitr7764+123df200+123df20303-r10
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 19518298bec0c3e68ed5e5ae2c8d5289
-SHA256sum: 7a75ac860051283bb6f12057de369c3511ef7cc3df7a5e7eac79c2879914d1ae
-Size: 14952
+MD5Sum: 389c68cec943ad21bd413b2ad7708745
+SHA256sum: fe0f78107a45d7b31914fabcb911a61ba09065d40f448f9d477034ff81328f5b
+Size: 14954
 Filename: enigma2-plugin-extensions-movietagger_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: extensions-movietagger
@@ -3850,9 +3850,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: bf509c831a4a73d912af1dc20af03b6b
-SHA256sum: 6d6beb08e2dcc5a84111dcaee1570be0098921d478fd344e3ee668835c316ca5
-Size: 7914
+MD5Sum: 1d2c741ba4cd29c8c5f70187c2f76ed4
+SHA256sum: 553f284f8d7508c4ea0759d55c142976af8f824472cb7ebfa60dea432625cc8f
+Size: 7916
 Filename: enigma2-plugin-extensions-ncidclient-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: extensions-ncidclient (translations)
@@ -3882,8 +3882,8 @@ Depends: python3-html, python3-twisted-web
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: f22dcd0994db463581d0c574ae1b7391
-SHA256sum: bc9997fb045445d33c1f97a87bb05394c876a2b45ae3e4360f761ffcfd84a9e8
+MD5Sum: 7a63db3e3c1f186721be8bf1a29a294f
+SHA256sum: a1a262e1156631e7085e06ada6b6310db70e656671c32eb929bfd6d3db0671e6
 Size: 141522
 Filename: enigma2-plugin-extensions-ncidclient_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -3961,8 +3961,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: f6b3b4f27252d5f2128982fb290d4ac8
-SHA256sum: 09d828abca6d1ecdbaaf820156f362e07511e1168aca841f6592cb3cae08975d
+MD5Sum: 23f7d8eccd68da76c4b48a02169c59b2
+SHA256sum: e42a9f53562c458e6ed500a1b93597f129331a6370b130d4f55b01954e4a7950
 Size: 6170
 Filename: enigma2-plugin-extensions-ofdb-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -3993,8 +3993,8 @@ Depends: python3-html, python3-twisted-web
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: d2d51bb8ee9d7966b953782041712204
-SHA256sum: 4fc9df2e5363c9c3dfd3f794f84db9e96b1a5df1f9436449b8b65ea787a3dd7f
+MD5Sum: a5d9e2dc0c8fb1aa111b470145fb6469
+SHA256sum: 9b0175b7717b2f5323f2ef72cea7775180eab7d89f586cbd92a98549e1f88050
 Size: 33532
 Filename: enigma2-plugin-extensions-ofdb_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -4009,9 +4009,9 @@ Depends: enigma2-oe-alliance-plugins
 Section: base
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: 1c20d55994b7689c21ddf5627e727266
-SHA256sum: f28b8ba0fb3c326f40d50b6573650b7fcf64e7713a2db1f8696aa304a98a7b03
-Size: 15854
+MD5Sum: b64ec9b305d1617ec9b42abf2564cc7c
+SHA256sum: 3f76c0ebc12511cf750b72cb89a9da06930e875794c9f87fca9d2d7b9c7d49e3
+Size: 15856
 Filename: enigma2-plugin-extensions-ondemand-po_5.9+gitr3735+45b4cd10+45b4cd1be2-r2_sf8008.ipk
 Source: enigma2-oe-alliance-plugins.bb
 Description: extensions-ondemand (translations)
@@ -4041,9 +4041,9 @@ Depends: enigma2-oe-alliance-plugins, python3-beautifulsoup4, python3-dnspython,
 Section: base
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: 7961be6b236f4919632456cb2ec46432
-SHA256sum: 382f8bb6627e4c5aaebe3ae90ffc4f26b6d0e74637b6afb388b01dc6cb9879c5
-Size: 827534
+MD5Sum: e6a9d8f74e55b9c75eac811b3c463845
+SHA256sum: acf2e02f38d9da9d7330482fdcaef136dccb52c42c7f87934bacc0cc568a0809
+Size: 827532
 Filename: enigma2-plugin-extensions-ondemand_5.9+gitr3735+45b4cd10+45b4cd1be2-r2_sf8008.ipk
 Source: enigma2-oe-alliance-plugins.bb
 Description: extensions-ondemand
@@ -4182,8 +4182,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 2311fa09e77286d6d039ac769a157f94
-SHA256sum: 07702efd200c8ef0abc1c5b45060cca42db00d1a63256fdb9b6b259f1f7e88a5
+MD5Sum: 54841ed13486e8f9ccddd82593742fe1
+SHA256sum: 4bf5c425f870a250743acd7f481b9ca51d0da4138b3d52c76bb4e1f2fa567b7e
 Size: 5316
 Filename: enigma2-plugin-extensions-permanentclock-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -4213,9 +4213,9 @@ Version: 5.9+gitr7764+123df200+123df20303-r10
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 95fd68302b6cd647a633c92704c62e46
-SHA256sum: a8a45e7224640c81603502bb1541215e35bf6cc3c40ca276efde90af55755031
-Size: 38626
+MD5Sum: a95d16a4ead5c39e3b43a516a33df33b
+SHA256sum: 32a5775d2ab7e6da739794d34ee98e71ccacc5c95ef9690ca46fa6d0a1caab20
+Size: 38624
 Filename: enigma2-plugin-extensions-permanentclock_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: extensions-permanentclock
@@ -4229,8 +4229,8 @@ Depends: enigma2-oe-alliance-plugins
 Section: base
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: ed0f4f337a6f199922ce9b09ada5af4c
-SHA256sum: 3c6e31631039af6ff39eaeff27eeedcb7f58892c971dfdc7554b4f4b9f993e69
+MD5Sum: df69cb3364735f74556af59b0da5b5b2
+SHA256sum: 1dbfc7ad46512791e88b194d25f2e02a5574d4dfef63513d5a34a754725e59f3
 Size: 5408
 Filename: enigma2-plugin-extensions-piconmanager-po_5.9+gitr3735+45b4cd10+45b4cd1be2-r2_sf8008.ipk
 Source: enigma2-oe-alliance-plugins.bb
@@ -4261,9 +4261,9 @@ Depends: enigma2-oe-alliance-plugins
 Section: base
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: dcf489ec9ac6f6b43fa0f5b6e304acd5
-SHA256sum: f85ac4bba290b4fbe115214327bb09cdd98aa7c925bf8086af702f54b4f4c9b7
-Size: 43942
+MD5Sum: e6ca2b7366dce81035f13d2231650855
+SHA256sum: 5a5c181452390d0f4e3ef667792b6ec7ba8804ae979fe9a0d6795eb3d6b67ce6
+Size: 43944
 Filename: enigma2-plugin-extensions-piconmanager_5.9+gitr3735+45b4cd10+45b4cd1be2-r2_sf8008.ipk
 Source: enigma2-oe-alliance-plugins.bb
 Description: extensions-piconmanager
@@ -4277,8 +4277,8 @@ Depends: enigma2-oe-alliance-plugins
 Section: base
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: 40942e77e7b10bcf7f03162c1a85883d
-SHA256sum: 9dc125a038b0e3d960e842529592d63ea06f5c69b5246ccf31070bf91f057197
+MD5Sum: 1e6e4e6629708e5c017e8c9359bffb1a
+SHA256sum: 17578dd8cc874ff0d37f1c3a211bb3af217bcfb9a4337994b5726c60998d35de
 Size: 4224
 Filename: enigma2-plugin-extensions-piconsupdater-po_5.9+gitr3735+45b4cd10+45b4cd1be2-r2_sf8008.ipk
 Source: enigma2-oe-alliance-plugins.bb
@@ -4309,9 +4309,9 @@ Depends: enigma2-oe-alliance-plugins, pngquant, python3-compression, python3-io,
 Section: base
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: dea33330b8ca3880a2de441e6b480588
-SHA256sum: 32cf1f4e1cb525c25b0e092e7d6e37b3121e8f319a8f1beea6c051112eb72355
-Size: 39566
+MD5Sum: 4d7c5b8e6f186fed7073f54c7fc7f49a
+SHA256sum: ffe9e5ea9edec34da3e4e29a8515a876e55235839169d2d0c1d25e059f44f1a6
+Size: 39564
 Filename: enigma2-plugin-extensions-piconsupdater_5.9+gitr3735+45b4cd10+45b4cd1be2-r2_sf8008.ipk
 Source: enigma2-oe-alliance-plugins.bb
 Description: extensions-piconsupdater
@@ -4357,9 +4357,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: b4ef882a5d3036263fda37bb3490044d
-SHA256sum: 51669048ec84783871ef5eb7a16e3ec48887c71bbfbb2de7a4988f90ad316ad0
-Size: 5000
+MD5Sum: 1eea9ec5ad984685486bce81e6c10376
+SHA256sum: 908d3b45ac7db2d5ca3c9d4781db8edf3533c2e7e90028f1d81dac890d30cf9f
+Size: 4998
 Filename: enigma2-plugin-extensions-podcast-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: extensions-podcast (translations)
@@ -4389,9 +4389,9 @@ Depends: python3-twisted-web
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 70b7e9192922898205d22f4f06317507
-SHA256sum: 7644d4017ed04b4b70001943a3b2dacaca43afe82639928fc4377ed4df252cfc
-Size: 24636
+MD5Sum: e3864966de182dfdae1f18403e2a694d
+SHA256sum: 07bda8a0214d6f9bdd6dd36a533684a82b50437a4d327b614320812cf65ca020
+Size: 24638
 Filename: enigma2-plugin-extensions-podcast_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: extensions-podcast
@@ -4405,8 +4405,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 0bb4edc271b743dbf6763ddfc6279c01
-SHA256sum: 13e950cf5ca93a9606c5f68639fa64baea222a612c2949c7d750cdf20d8c5bbb
+MD5Sum: 0116a1b16bce0d96816b76d961cc5524
+SHA256sum: f8057b4be2c4f175710b05a84a76f1a2c903c99650bab4c9405fcee461fb06dc
 Size: 3976
 Filename: enigma2-plugin-extensions-porncenter-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -4437,8 +4437,8 @@ Depends: python3-twisted-web
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 207b8d770c55469e9e08c28d9ca6c4e6
-SHA256sum: ba3139e0b5b41c1d1a969cf669733a9f46e66f9f7d78e007288b3a3bf7891172
+MD5Sum: 58d6096fc4719540f341fa813984809b
+SHA256sum: 0cb817bdc883947a9b1476eabee194e43ded9b38f565b1ceb28422acbc7b367f
 Size: 103224
 Filename: enigma2-plugin-extensions-porncenter_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -4453,8 +4453,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 99e9adad6fd3778498dfd8fb834553aa
-SHA256sum: 897f4841ee81dba43df35551d2df73a701fc6c95261a601272aebc0190dba2e7
+MD5Sum: c376614f19332a283c4e235d9a72d4c8
+SHA256sum: 8a8e07374c37f81e341cb46c881291ea651aacaf1de476fb4e8965bf7120ad1c
 Size: 7056
 Filename: enigma2-plugin-extensions-pushservice-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -4485,9 +4485,9 @@ Depends: openssl, python3-email, python3-io, python3-pyopenssl, python3-twisted-
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: abc119c5307239fe33b65288b7970896
-SHA256sum: f60b14b5a33762ebe839facf611434e5db44be34ec6a7d21ca04a60801586920
-Size: 72478
+MD5Sum: c1faaa7c1b9268342e2863ad5ffdf7fd
+SHA256sum: 999e8cc5b6e6fcd837e326bed5c694981342bab12941c169f747739981019248
+Size: 72482
 Filename: enigma2-plugin-extensions-pushservice_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: extensions-pushservice
@@ -4501,8 +4501,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 97d19da7a23f1278b7884dcbea136307
-SHA256sum: 3f913c5795153c7d65c5c506ca6d11abc5e25f982408fbe49c832526623637fc
+MD5Sum: fdce35c2784492340658bc6c302e2570
+SHA256sum: 7a20224c771058159ed71e5caf97edcc7ddb6800ab0ef423f3e4aab7848dc5a2
 Size: 7118
 Filename: enigma2-plugin-extensions-quickbutton-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -4532,8 +4532,8 @@ Version: 5.9+gitr7764+123df200+123df20303-r10
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 1322415e169ca0afac4206c6407077ac
-SHA256sum: 4ee775c61a593cb79eb5e3b52bd67fd9e5dd1a5e84a7dabab64665ca86eee92d
+MD5Sum: 5ea2f4642dca0a041bd75175fe06663a
+SHA256sum: fbebe83cfb04e172e6278a308f6a79f523803288e7865d617f759dc1ca3f4105
 Size: 19164
 Filename: enigma2-plugin-extensions-quickbutton_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -4579,8 +4579,8 @@ Depends: enigma2-oe-alliance-plugins
 Section: base
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: 7049d376fabb9933d24b8b870f1012bf
-SHA256sum: 93f9cf05186c57e2f73b2dd8cb7d7805a88c3ad66a8ab51f400bb9ede67b6973
+MD5Sum: 5c155808f571b14fa437b58cff2eaf8d
+SHA256sum: 539106b1b14bfc20c020b654c19fea995b6874a8063a9340374ae85bb476ce19
 Size: 8996
 Filename: enigma2-plugin-extensions-remotechannelstreamconverter-po_5.9+gitr3735+45b4cd10+45b4cd1be2-r2_sf8008.ipk
 Source: enigma2-oe-alliance-plugins.bb
@@ -4612,9 +4612,9 @@ Replaces: enigma2-plugin-extensions-remotestreamconvert
 Section: base
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: 49212f01578fadcec712fd32eb9abd40
-SHA256sum: da6d3d2f0a9842751b79563d2c6b674830228633b6658c0f5d58821b45effe83
-Size: 31382
+MD5Sum: a31bd0e811de35b8fbb62337c8501b04
+SHA256sum: 02e9f682c300029719167c0ef284864b01b2f1bb421b865e2e01cf568efeec10
+Size: 31386
 Filename: enigma2-plugin-extensions-remotechannelstreamconverter_5.9+gitr3735+45b4cd10+45b4cd1be2-r2_sf8008.ipk
 Source: enigma2-oe-alliance-plugins.bb
 Description: extensions-remotechannelstreamconverter
@@ -4660,9 +4660,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 5f8c1f310c25a01444ef6cd3a4545302
-SHA256sum: 1a140dc8f132688a8c461f131ee40555a717eb43af367548707663b9795280c7
-Size: 11742
+MD5Sum: b59b2cb23505694e1592f8e22d577048
+SHA256sum: 8f01afe1d068d58d8ddd762f9bc1ce5d58fca10691d8c34222b7d89684835221
+Size: 11744
 Filename: enigma2-plugin-extensions-rsdownloader-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: extensions-rsdownloader (translations)
@@ -4692,8 +4692,8 @@ Depends: python3-compression, python3-pycrypto, python3-twisted-web
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 9f46a590fcffc27af315a76b2b6b4847
-SHA256sum: f55dcb94a41b10babed20dc26ff026c502240202cde62a7e99846ee51e6cfd27
+MD5Sum: 3698ff504f01f610a46e9e8ed95591fa
+SHA256sum: 187f1a70d892c4665f6142cdc1da339afe726f444f431c66cf7d517d23f530c9
 Size: 56804
 Filename: enigma2-plugin-extensions-rsdownloader_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -4740,8 +4740,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 1959c0e87ec9e352d97869e333e56a46
-SHA256sum: ebe4848cffbcfac3b56787a3b0a435708196b24cb88b3b9a76ec2139e9fc485d
+MD5Sum: 61247211b5d676fffa73b2c75dcea370
+SHA256sum: ac933c513c879d99a5291e87690868428fefd3b154b6d6571ea953963f218013
 Size: 5590
 Filename: enigma2-plugin-extensions-series2folder-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -4788,8 +4788,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 6c051e8325313140fa281e7b6f7cdac9
-SHA256sum: 5f4a0e1a44570462f325630810cb3cc617882afe674e0872c7f9188f679aba8e
+MD5Sum: 8e304b79ffb82e0dcc0cbe3dc1565a4f
+SHA256sum: e8265fdbc8364d845f1ecd59345eae8fefdf9a738efaf6058a6011ee6c83f77b
 Size: 12008
 Filename: enigma2-plugin-extensions-seriesplugin-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -4820,9 +4820,9 @@ Depends: python3-difflib, python3-json, python3-xml, python3-xmlrpc
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 3f57de10381bd67898254167dac5381a
-SHA256sum: e8fdb80f2ca9047b7050a7c4e4df340ada0701ebea8a7c67c052b25c8881d0d1
-Size: 148856
+MD5Sum: f847493bfebb20021b74574acc1a7321
+SHA256sum: 37a3ffd8014021e0748c205d8fa3e429fbf4e50e07f3d60b0978ba73804d7250
+Size: 148858
 Filename: enigma2-plugin-extensions-seriesplugin_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: extensions-seriesplugin
@@ -4883,9 +4883,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 5bf95bc3d5f8d86d24c99eda4d0ab655
-SHA256sum: afd31d2326913ebef406d7d346d91c6ea914ef3c142428ccfb731802fd65f98e
-Size: 10944
+MD5Sum: f516d7000d9fac316d74ab98867ddb7d
+SHA256sum: 2089978a9b8c838edbe4fb70233f07fc654074e0a1ee325599adbf66de615ac0
+Size: 10940
 Filename: enigma2-plugin-extensions-shoutcast-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: extensions-shoutcast (translations)
@@ -4915,9 +4915,9 @@ Depends: python3-twisted-web, streamripper
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 54b95ef1f7beb843ca76fb97e708c0c2
-SHA256sum: b9c94dc69ab868f6c43c005daa41366985f3e04b0e6c14f9287831f10a590092
-Size: 55698
+MD5Sum: eae879f44c66ee013f89874ddf7cbd0c
+SHA256sum: 7e904df33f25fe566fc0d905ca2cb2a6dfeb71bbc3fd1414391e6f1e33f41066
+Size: 55700
 Filename: enigma2-plugin-extensions-shoutcast_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: extensions-shoutcast
@@ -4931,9 +4931,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: b3dd0a20dbf72b41910b68ab82395a52
-SHA256sum: a10bda1784b47ec843b288c36f182d8dcfceefa739ca7956e1d5bf7640cdebdc
-Size: 7730
+MD5Sum: e9f8859640a077b1f0dabc031e9926d1
+SHA256sum: ea50dd97fa18db070257830556c71ffd8d388f7c353fa45468b1498eb9282a7d
+Size: 7734
 Filename: enigma2-plugin-extensions-showclock-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: extensions-showclock (translations)
@@ -4962,9 +4962,9 @@ Version: 5.9+gitr7764+123df200+123df20303-r10
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 836f7fc8735bb1d326f03eaf777641bc
-SHA256sum: af180163e90fae9bbbaf590a0b50bcebb17ead41e8d174f01998a40f72eee378
-Size: 21322
+MD5Sum: 16aad3ea4a15b1f71747ef2c4cb9b2eb
+SHA256sum: 75e955c4c54d820f6c132f260074fc4e1120a3bde898a8d1d99aa875654eb2a8
+Size: 21324
 Filename: enigma2-plugin-extensions-showclock_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: extensions-showclock
@@ -4978,8 +4978,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: dc9c08780670065f266ac14b258f6cdf
-SHA256sum: 5782d3122f00c9e978d2a265eaaea5f2e65aa0c02d637925b79b94cb5c752582
+MD5Sum: 58da3477430bc7d0a43d60c708eed8f8
+SHA256sum: 4dba2fabc80746c8a24416815b3f427e79da7d80618c344cb682ab6a65f8ca79
 Size: 14330
 Filename: enigma2-plugin-extensions-simplerss-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -5010,8 +5010,8 @@ Depends: enigma2-plugin-extensions-mediadownloader, enigma2-plugin-systemplugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 6c1acd3fd5a5e385a0649d03f6cd1af7
-SHA256sum: 9382ce3a1da32a59a3605cf4ccad50b50597528290287786292c213df26167d0
+MD5Sum: b34ed72573cd850ebf9724f0584c1151
+SHA256sum: d2a36a5d53a882a9ded52cf3263f3be9de6c5a9b686024f4b14da30381bf363b
 Size: 108128
 Filename: enigma2-plugin-extensions-simplerss_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -5330,9 +5330,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 9d1773bef4206c4da9c33a84c6a3b8fd
-SHA256sum: 7b525ffd3c9468f350922746f4cbe1b4b7f05756e3701ceb1bb33571db665182
-Size: 5746
+MD5Sum: 29438a8d376bd489bfed2725960fb517
+SHA256sum: 4360368eca8cac202912832359d5cc61bbb8879304f3f0488776de80a6828bd7
+Size: 5744
 Filename: enigma2-plugin-extensions-tageditor-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: extensions-tageditor (translations)
@@ -5361,9 +5361,9 @@ Version: 5.9+gitr7764+123df200+123df20303-r10
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: dae951bd32bde61ff3f74e22340754d9
-SHA256sum: 04a051b63f632b9a896380d2b062eeaa466a611d724ffecffd8c47fae89a7e0b
-Size: 15772
+MD5Sum: bd1467820ed490697f8ed3167c9e2581
+SHA256sum: acad6f417976c421fcc5730c2bccbf2f36941838179e25b528e19287bf2db9ba
+Size: 15768
 Filename: enigma2-plugin-extensions-tageditor_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: extensions-tageditor
@@ -5409,8 +5409,8 @@ Depends: enigma2-oe-alliance-plugins
 Section: base
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: 7fef0a025609a76581d38f118bf2edb4
-SHA256sum: dc2ccea8411f8c5a0acf73b876be04fd95ba4d78b9deaad136847f508eb2749a
+MD5Sum: 482572a417f6258b75cceafc2bcdbbc3
+SHA256sum: f1bfdcec8379d3113ef056a05a4354ffdcb992391dfc9caf34707aaac97ca750
 Size: 8732
 Filename: enigma2-plugin-extensions-tmdb-po_5.9+gitr3735+45b4cd10+45b4cd1be2-r2_sf8008.ipk
 Source: enigma2-oe-alliance-plugins.bb
@@ -5441,8 +5441,8 @@ Depends: enigma2-oe-alliance-plugins, python3-json, python3-requests, python3-tm
 Section: base
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: e8f9ec89c81a1a6471be2bfad6f3d61c
-SHA256sum: 7bb00e988aa15a3e7bb3c053a45a16aabf665e0945927e7f7b008c7455a345e8
+MD5Sum: 80316ea788642bf131a1301b199a4b62
+SHA256sum: 8dd8442a409aecdf1bb2d4dfacddead2088afbb6eb95cf9fe0adfcc477915131
 Size: 209798
 Filename: enigma2-plugin-extensions-tmdb_5.9+gitr3735+45b4cd10+45b4cd1be2-r2_sf8008.ipk
 Source: enigma2-oe-alliance-plugins.bb
@@ -5457,8 +5457,8 @@ Depends: enigma2-oe-alliance-plugins
 Section: base
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: 345e8546c556af7bd4dc91bbd651fefc
-SHA256sum: 0ae788d653b9e81396eef8222f2bfe3bfe5c8bb638bc7932f32560a0a2fa27eb
+MD5Sum: 2122ca3bf2ceb963de58b48c8076e9a3
+SHA256sum: e6d41dbb78eed33da9fb929904ba8a3a0e4412a9f31ed74d067ac48a25f0e508
 Size: 4730
 Filename: enigma2-plugin-extensions-tunerserver-po_5.9+gitr3735+45b4cd10+45b4cd1be2-r2_sf8008.ipk
 Source: enigma2-oe-alliance-plugins.bb
@@ -5489,9 +5489,9 @@ Depends: enigma2-oe-alliance-plugins
 Section: base
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: f81bad0d1eacc2dae0e25c6312c5391b
-SHA256sum: 67f86f7f89be34dc0ac20f459072388037146587dc6704be62b10708e3be6ddb
-Size: 11856
+MD5Sum: 68aaaf8502ab1ce1dabb822f2e0023b7
+SHA256sum: 9613dc1fbc3090070bb1e26c2e4d5b5c9f584054644209d1e9320d4a2a12dab5
+Size: 11854
 Filename: enigma2-plugin-extensions-tunerserver_5.9+gitr3735+45b4cd10+45b4cd1be2-r2_sf8008.ipk
 Source: enigma2-oe-alliance-plugins.bb
 Description: extensions-tunerserver
@@ -5664,8 +5664,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 3b64ce26e3450c3ca3886839e402a0cd
-SHA256sum: b29730f1a72e62ea9e7be34cc681493cc17d03363626b774073034466cb648de
+MD5Sum: b55cff310ef244bacf9f6cdf182ee1a5
+SHA256sum: 12a065d2d922f66e7c2ab236362b13aa9df79047cc4a044e66854df2a08415a2
 Size: 14982
 Filename: enigma2-plugin-extensions-vlcplayer-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -5695,9 +5695,9 @@ Version: 5.9+gitr7764+123df200+123df20303-r10
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 7661850033c48256e5bd6aa4305d9104
-SHA256sum: 3a6d0809012b59bc6620c865811e2587f91b7481c39de8d3f45001d957d5c79f
-Size: 65178
+MD5Sum: 2d783757bc22450dcff5291ffb5fae08
+SHA256sum: 589961fd24dba73b91fbc178ec2fcb90fe3de5f3b2ede9b9c0aeb5629c661f19
+Size: 65180
 Filename: enigma2-plugin-extensions-vlcplayer_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: extensions-vlcplayer
@@ -5711,9 +5711,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: f59f071ea56fdc8d94dfb9caaa256517
-SHA256sum: 772e0203292545c768b3c8cc3c06a201aebdc2b80a88303c28a7927ff273c04c
-Size: 9144
+MD5Sum: b82cc0ab077fe685ded87532de241cee
+SHA256sum: f7e01695328bf87d7baa71c31c86133a715ebe236cfa207ed3fb7117033b4560
+Size: 9146
 Filename: enigma2-plugin-extensions-weatherplugin-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: extensions-weatherplugin (translations)
@@ -5743,8 +5743,8 @@ Depends: python3-twisted-web
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: a4df1f990023d080b60edb32ded93aee
-SHA256sum: 77834f51a7949fbed87504567200fcc5e0d8bfe8027afacd0b173a7b3c488ecf
+MD5Sum: 4485abd1e9d0d397335b4320f2cd268a
+SHA256sum: 10654b8065b846b5e4562859487af4345fce3e60dd2adcb0f27c3ca0753f7e1b
 Size: 74884
 Filename: enigma2-plugin-extensions-weatherplugin_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -5855,8 +5855,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: f83a45c329510e133d3d3c36501be8e7
-SHA256sum: 9299487fc1ce9c175946f533a503e9db372e168978c539d8ad90530feebc8aa5
+MD5Sum: 4df4f8f969e68644dd116c9b746c44d7
+SHA256sum: 14e57f67b1e9b2202887f04228897165d12b900be5f4ef80e1a7e7830b4e2e3c
 Size: 5080
 Filename: enigma2-plugin-extensions-werbezapper-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -5886,9 +5886,9 @@ Version: 5.9+gitr7764+123df200+123df20303-r10
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 11b28a9f4db0875d74626ff570ace691
-SHA256sum: 5e6827d58c2f44535175b3cd71db1828ea1d90c3940e3b063f59a32fa4f57600
-Size: 14164
+MD5Sum: 741dd061520e53e5d28e94686c110be9
+SHA256sum: 4e61d67010487ad78b072f8787e9cfc4aaae774a773d092b40661a8c566ad158
+Size: 14166
 Filename: enigma2-plugin-extensions-werbezapper_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: extensions-werbezapper
@@ -5902,8 +5902,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 36cee811c34b961411536668e9fd4439
-SHA256sum: 5d106ea9b0d03075cbf23f6712166747772a415c1eb97b7db58679da72c1a32a
+MD5Sum: be0cf939d5efe9bde993d3896708dbf8
+SHA256sum: 22f2048dd8b36e08c34c15b9acbc0e3b7a5cb24be93439718816e3ca38257698
 Size: 5660
 Filename: enigma2-plugin-extensions-zaphistorybrowser-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -5933,9 +5933,9 @@ Version: 5.9+gitr7764+123df200+123df20303-r10
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 90d8fe3973680bb2bb47a8f2516c7dc4
-SHA256sum: 33137c28df6c5a4809b40192dd63a65dca8b1b489b04c4c20d9bac9c3d605e08
-Size: 15496
+MD5Sum: 49a618efa16faf6cc0e047ba413bb251
+SHA256sum: 0fe7f1df8f8d0680c7c59f626ac162d0bdf876618906749ff38b3ca6b8f81d8f
+Size: 15498
 Filename: enigma2-plugin-extensions-zaphistorybrowser_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: extensions-zaphistorybrowser
@@ -5949,9 +5949,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 49a2d7df9241a544bb3c0523b7944531
-SHA256sum: 765e170df8abed377510fa1ce5746b0d41cc653999252868effffecba4c6169b
-Size: 5094
+MD5Sum: 62d21119f93f92238f1d71b9844faa64
+SHA256sum: 5d16fa8bcb4fb48e232ad275cbddfa5659492eb15badec004d5ab35cff50571e
+Size: 5096
 Filename: enigma2-plugin-extensions-zapstatistic-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: extensions-zapstatistic (translations)
@@ -5980,8 +5980,8 @@ Version: 5.9+gitr7764+123df200+123df20303-r10
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: b722a60afde5933fb31b2e0bc9a12f71
-SHA256sum: d7b4e53b18518ea81bf6afd3786a9a31d114d9452165b2bb50e9e0d9ee47030b
+MD5Sum: feea77dcc821c30ee5172c59d8e4e713
+SHA256sum: f17ad3a7e0b1170b62d3499b45f8e8ed1893294bd23f91db42a62f9f287e4279
 Size: 17102
 Filename: enigma2-plugin-extensions-zapstatistic_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -6121,8 +6121,8 @@ Depends: enigma2-oe-alliance-plugins
 Section: base
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: 4a68223527f365c84d69c8a7a94c225a
-SHA256sum: 88b332973d280588d3d75ae3429206d45cd71868ac05f0da40176b8e08f65d97
+MD5Sum: 73707d66d45972ef4b096ce2ade24098
+SHA256sum: 469140ef61bd4583ffb1ba6dd7c474eea41af80b9ab12b2d5dd343aebb4a87c5
 Size: 8076
 Filename: enigma2-plugin-systemplugins-3gmodemmanager-po_5.9+gitr3735+45b4cd10+45b4cd1be2-r2_sf8008.ipk
 Source: enigma2-oe-alliance-plugins.bb
@@ -6153,8 +6153,8 @@ Depends: enigma2-oe-alliance-plugins, kernel-module-bsd-comp, kernel-module-cdc-
 Section: base
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: da0895a5a50d0a6ccfbd3f5f6a2ad522
-SHA256sum: 6303fe7881c2a6b171f6fbc307896ebe291574426d972f99cf53167346e67619
+MD5Sum: 4df9d3f9096977d51ffed992dc0030c1
+SHA256sum: 4f3995dc75e3255539b40f440eeb4465689f7cc76b697b74a789d04a1133f554
 Size: 40908
 Filename: enigma2-plugin-systemplugins-3gmodemmanager_5.9+gitr3735+45b4cd10+45b4cd1be2-r2_sf8008.ipk
 Source: enigma2-oe-alliance-plugins.bb
@@ -6169,8 +6169,8 @@ Depends: enigma2-oe-alliance-plugins
 Section: base
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: 08f83e7fc1f30a231a26fd5a1e1cfd5b
-SHA256sum: 36e155e8dc9266c9320015c40e4fa39e25416290553ca36a17b42a405543ff75
+MD5Sum: 9c43511ef778337af4989bdff5098c8c
+SHA256sum: a622fef6ace55423800e989ff2c1518022910b506892ffcb653633bbdb39471d
 Size: 5470
 Filename: enigma2-plugin-systemplugins-abmcustommiximporter-po_5.9+gitr3735+45b4cd10+45b4cd1be2-r2_sf8008.ipk
 Source: enigma2-oe-alliance-plugins.bb
@@ -6201,8 +6201,8 @@ Depends: enigma2-oe-alliance-plugins
 Section: base
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: 6d053195f6fb922bb5d2cfdaa816ef48
-SHA256sum: 550c2d5fac17a966cd2b2f6d614a1ec62318a35d919601c42421da17bdf53405
+MD5Sum: b72f151a0f7497cbd249611b10d0ef7c
+SHA256sum: f64474f4efd66470a285cffaa32df0e1398be3ce0ff4924a3f554e0202b3d0fa
 Size: 17716
 Filename: enigma2-plugin-systemplugins-abmcustommiximporter_5.9+gitr3735+45b4cd10+45b4cd1be2-r2_sf8008.ipk
 Source: enigma2-oe-alliance-plugins.bb
@@ -6217,9 +6217,9 @@ Depends: enigma2-oe-alliance-plugins
 Section: base
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: bb511f30bc3e56d11cb96a2a8607f625
-SHA256sum: 4184c15329f09b137328d767982be7223369ba8300021657ca6d07541250b616
-Size: 2738
+MD5Sum: 6f1d2ddc88c662d9d8ff69fbf812cef1
+SHA256sum: e515d431b0c28bc80ea71d74c86b45e063fe415701be421758431b2863b79f78
+Size: 2740
 Filename: enigma2-plugin-systemplugins-aboutboxbranding-po_5.9+gitr3735+45b4cd10+45b4cd1be2-r2_sf8008.ipk
 Source: enigma2-oe-alliance-plugins.bb
 Description: systemplugins-aboutboxbranding (translations)
@@ -6249,8 +6249,8 @@ Depends: enigma2-oe-alliance-plugins
 Section: base
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: c091b198f4b452d822ab85deb8fee82e
-SHA256sum: a5802118b459d3ea0a5319801e5beca2eab4d303674c19fd8becfa6e79a584e9
+MD5Sum: c8c7b85b25ef9f2ce7c5da2ba9cf7ae3
+SHA256sum: 0ed6378ffdd3f04584aa6b2b43ad5805d9447cd7e5c17a598c00652a44bb10c0
 Size: 6492
 Filename: enigma2-plugin-systemplugins-aboutboxbranding_5.9+gitr3735+45b4cd10+45b4cd1be2-r2_sf8008.ipk
 Source: enigma2-oe-alliance-plugins.bb
@@ -6265,8 +6265,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: c71f21d18801a9f2fbe2962bce4ae67d
-SHA256sum: 8d74c0cffc59275356413815b869de84424641835286357a043791b9e9f15610
+MD5Sum: b3ea85dc1106f106a8377f67a9063ff2
+SHA256sum: 7e8efc59c6495c8924dea7419c573f2c8fb0b98a27040eac14a3b6d2e34a6baf
 Size: 8080
 Filename: enigma2-plugin-systemplugins-advhdmi-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -6297,8 +6297,8 @@ Depends: enigma2-plugin-systemplugins-hdmicec
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 97e344438d00a61fe34de4f174343093
-SHA256sum: 7a8a3deb97b978b3bcbcc8fac7b72aff83a68c8b95659f5dfbc264b546561001
+MD5Sum: c4ea817dd66727ec92dd40d629441b40
+SHA256sum: ec7cc07feece55a80b327c426b77ae2d66f1412b2122d4feb85ca413a17438c5
 Size: 27610
 Filename: enigma2-plugin-systemplugins-advhdmi_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -6345,8 +6345,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 8716adbe0c0786ec3582c916d6d32330
-SHA256sum: ce595c777290c48e4297d0aa39aec644cb0112d996cfe15d00e1c79bdc650a30
+MD5Sum: ac0ae977d85cbca8568d3d4884fa110d
+SHA256sum: e3e99f88b93139ff6b0e4fc2791366998060672ac9c1f88fc9fe4783fbc8a4d2
 Size: 6644
 Filename: enigma2-plugin-systemplugins-aspectratioswitch-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -6378,8 +6378,8 @@ Conflicts: enigma2-plugin-extensions-aspectratioswitch
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 0fe21770b6459092cc9a7b14a8337bb7
-SHA256sum: 63a6e8bbc782828e9cd45bfcd51a4dac614316852417b8f787e96bbab10faa4a
+MD5Sum: acba932bb8465e91f9fdd5f4a175fb9d
+SHA256sum: 1f9721685cb686a986d3d8cb494d5d55b73c80910986d891f8d9d7098f0c6b10
 Size: 16688
 Filename: enigma2-plugin-systemplugins-aspectratioswitch_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -6394,9 +6394,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 3b800f85eee36cddb3e8df1ab94405c4
-SHA256sum: 47f2d40f6503d4761899943dfdd21dcc3087a6c75284e2cbac257bc47ddbe1f5
-Size: 9294
+MD5Sum: 2b7b01816b44ede881dc88c03742aa14
+SHA256sum: 25f9af3e21e113f49b2a4404f6d42f199d964520c5b8245a0cce3a116af1128b
+Size: 9292
 Filename: enigma2-plugin-systemplugins-automaticcleanup-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-automaticcleanup (translations)
@@ -6426,8 +6426,8 @@ Conflicts: enigma2-plugin-systemplugins-automatictimerlistcleanup
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: f23a40269ecc18f34601b2c0febb449f
-SHA256sum: 7477e031d6cf7d1af0bcb367cf925d2708c08bcf538932a79903a28ace20db6d
+MD5Sum: 8a55d1a6f2892534939b1268805d858c
+SHA256sum: 40ce5adbafedfa322e347194f3a7ea0caec7eb49d2b6e246ad77507c162db4b2
 Size: 23444
 Filename: enigma2-plugin-systemplugins-automaticcleanup_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -6442,8 +6442,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 50492f8ce4927f416468a8daa873d992
-SHA256sum: 44007d54f8e8d925a5282339b0f395b6ccfd4bf69eaf166dff97089b86bdbd3d
+MD5Sum: 5f7b683ad51bfae36fc53ffc9cf8193f
+SHA256sum: 3f33c2cfb44eaae14d6cf5bda1870b6cd004786bbaf19e4ac3587c23107fbae7
 Size: 6454
 Filename: enigma2-plugin-systemplugins-automaticvolumeadjustment-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -6473,8 +6473,8 @@ Version: 5.9+gitr7764+123df200+123df20303-r10
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 4ca11298b0fee5964536acb4b52913d5
-SHA256sum: d3f0bf7cb38d202f121d2b307c14af7ab52f660dfe647af33ee169da2bfd8156
+MD5Sum: c61b3f4cec0f81a9ab50992e812b0955
+SHA256sum: 775e4a90c340485b3e6c9b4c969255624c6ce09a1f45a5ff723c322ac5bf2ed3
 Size: 24880
 Filename: enigma2-plugin-systemplugins-automaticvolumeadjustment_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -6489,9 +6489,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 37a51ff179fd8d3cff7ff8b29143184e
-SHA256sum: fbdacbf15efa5da828803ff4876ac3f860ba834f6bc4894e5920519c7cf73ea5
-Size: 11802
+MD5Sum: fb9b48dcd789badbb8428ffdf186fbce
+SHA256sum: e0f31bad666432d31bfd0c62d35698d53d682ffee28a08a60c5d49ca321300b6
+Size: 11800
 Filename: enigma2-plugin-systemplugins-autoresolution-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-autoresolution (translations)
@@ -6521,9 +6521,9 @@ Recommends: enigma2-plugin-systemplugins-videomode
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: e086722cfe79396e527fc3e039a54187
-SHA256sum: f5ce5cc4a4cb554360631c7c0a196eb7d89850b50911e30499993b10de780ec5
-Size: 38074
+MD5Sum: d9cfd90047061d00e8edd79f7a5ddb95
+SHA256sum: 714ae9135c8de860f5712ae7c6c91484c26332941da7b8ac4abd8d1f4f4443da
+Size: 38072
 Filename: enigma2-plugin-systemplugins-autoresolution_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-autoresolution
@@ -6537,9 +6537,9 @@ Depends: enigma2-oe-alliance-plugins
 Section: base
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: d08c0a2ebb1aed1accb5e6d510666762
-SHA256sum: e27b0400b72fcd07ba70ba77b6d4a4a8bd57dc00a3b1029fa0df519bc143a85d
-Size: 50374
+MD5Sum: 2c99c33b442ecc688b3c6c370e696f8d
+SHA256sum: 9ff377428624d54415da07e851d521f17b6f79f6d0690361c6a7072abf91face
+Size: 50376
 Filename: enigma2-plugin-systemplugins-blindscan-po_5.9+gitr3735+45b4cd10+45b4cd1be2-r2_sf8008.ipk
 Source: enigma2-oe-alliance-plugins.bb
 Description: systemplugins-blindscan (translations)
@@ -6570,9 +6570,9 @@ Recommends: virtual-blindscan-dvbs
 Section: base
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: 6bc63a661fb68496a770d7126764a002
-SHA256sum: 2bbd07cb37a1579689df0efd0da53289cc4858762981a0dac2baa88e10a0e64d
-Size: 125524
+MD5Sum: de4a48237c1cad7c5dd5ad11669a076a
+SHA256sum: 972579991b59dab8a06c7f45d5850e66c218b2dbe59ee6dd955bc316c745de82
+Size: 125526
 Filename: enigma2-plugin-systemplugins-blindscan_5.9+gitr3735+45b4cd10+45b4cd1be2-r2_sf8008.ipk
 Source: enigma2-oe-alliance-plugins.bb
 Description: systemplugins-blindscan
@@ -6618,8 +6618,8 @@ Depends: enigma2-oe-alliance-plugins
 Section: base
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: e62edfa4c3b0bc9c3320627d49766907
-SHA256sum: 88fe70794b0c389d97a6d997aafdfe2b15c305fd7cbac970602db46134a0ea95
+MD5Sum: d0a3e630ff79a4ca20407c97ed2d0010
+SHA256sum: dcc5af0f08e7ea416d0c9494c42bf2b6314cc6a8dd3641b37d1ec98af93c0fb4
 Size: 13200
 Filename: enigma2-plugin-systemplugins-channelsimporter-po_5.9+gitr3735+45b4cd10+45b4cd1be2-r2_sf8008.ipk
 Source: enigma2-oe-alliance-plugins.bb
@@ -6650,8 +6650,8 @@ Depends: enigma2-oe-alliance-plugins
 Section: base
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: 5a9ef23fc71af51452a3ee0a06329e92
-SHA256sum: 81ec34c37542028264dbea5e22ab8b40cd8c6a36c40c135d94fdeb7d5f8b7d41
+MD5Sum: efee54a752faa729f8cc87977d9dcd82
+SHA256sum: f63e46a55fd8616645441374f379176657dd850957084bdc1db165372bf5bf70
 Size: 35698
 Filename: enigma2-plugin-systemplugins-channelsimporter_5.9+gitr3735+45b4cd10+45b4cd1be2-r2_sf8008.ipk
 Source: enigma2-oe-alliance-plugins.bb
@@ -6826,9 +6826,9 @@ Depends: enigma2-oe-alliance-plugins
 Section: base
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: db657b2f6fb75a90979d69878b5ceebb
-SHA256sum: 69785b933503334dd7a3638bc224f8a8a433375253acd1bf58b4ada7d94001a1
-Size: 3118
+MD5Sum: c0c398ab1305c44262ce35d4fe5ffa87
+SHA256sum: 9d1b75fb3a6139152f888e8d2d77e206fe6bcd80b8a5ede63629f6860978eb30
+Size: 3116
 Filename: enigma2-plugin-systemplugins-fempa-po_5.9+gitr3735+45b4cd10+45b4cd1be2-r2_sf8008.ipk
 Source: enigma2-oe-alliance-plugins.bb
 Description: systemplugins-fempa (translations)
@@ -6842,9 +6842,9 @@ Depends: enigma2-oe-alliance-plugins
 Section: base
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: c18e2f853e2f2f36ea41ae97b047d3f1
-SHA256sum: 9006ad1c91291e2c619b9f0839563e86d7686bbb184e99827eceb3462615fe63
-Size: 3162
+MD5Sum: 338f882790f9a9b25ccfa83eaf6564d5
+SHA256sum: 0d9b1c6ce4efa96168c1e37fa6c8bcc9029360819f8703d4d42510a63b844823
+Size: 3160
 Filename: enigma2-plugin-systemplugins-fempa_5.9+gitr3735+45b4cd10+45b4cd1be2-r2_sf8008.ipk
 Source: enigma2-oe-alliance-plugins.bb
 Description: systemplugins-fempa
@@ -6954,9 +6954,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 75a758c6467e1dc171c8cfd4b2e177e4
-SHA256sum: ecb58ea543854d7e9a54760f756de4433530e24bce39a33b55623e4e6a2ee92d
-Size: 25830
+MD5Sum: ecec27f48c620a6eac845d7d51125775
+SHA256sum: 640d9f600c7de3dbc1b5739d3a903a8953cf603b750349c8602208a7b968e443
+Size: 25826
 Filename: enigma2-plugin-systemplugins-mphelp-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-mphelp (translations)
@@ -6986,9 +6986,9 @@ Depends: python3-xml
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: d513c4fa574c73323e8d8cd7d87a5fc4
-SHA256sum: 3d4887624671f628ba349e60c4c0f240b8d96c1de0631b370671d072db89aa75
-Size: 32538
+MD5Sum: edd14412f1ca0ce27e9077a2f6490a00
+SHA256sum: 8cdd1370b41c279ed2750462121cb653d1b71f39ab716cf13b0472d72debc7e5
+Size: 32534
 Filename: enigma2-plugin-systemplugins-mphelp_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-mphelp
@@ -7002,8 +7002,8 @@ Depends: enigma2-oe-alliance-plugins
 Section: base
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: 11015e3f9e2901275a17235403ead08b
-SHA256sum: d73d88b4063d2ab36fef4b8db8655a58057c44304aa23bdf02b44866c3785279
+MD5Sum: 3965c4475c8079fd97f32467279d13e4
+SHA256sum: f562f6c47d060e4fc8c7c28cbbe979ef6b62f13f63ac945b1c40dac1d2382e43
 Size: 9088
 Filename: enigma2-plugin-systemplugins-multitranscodingsetup-po_5.9+gitr3735+45b4cd10+45b4cd1be2-r2_sf8008.ipk
 Source: enigma2-oe-alliance-plugins.bb
@@ -7034,8 +7034,8 @@ Depends: enigma2-oe-alliance-plugins
 Section: base
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: 1401a0ea589dc7652b0eaadf4220b5c0
-SHA256sum: d05d7040373b74f40be41e2a440dae9ad0bc9bef41607ff53509f22ec1bb46a8
+MD5Sum: 675e0a1cbddc9e6d26dcd0a278d01cad
+SHA256sum: 7dd0debe48f8c55828f2c9058ec314d69f66f1a26a18df0b147bff782b848e8a
 Size: 24554
 Filename: enigma2-plugin-systemplugins-multitranscodingsetup_5.9+gitr3735+45b4cd10+45b4cd1be2-r2_sf8008.ipk
 Source: enigma2-oe-alliance-plugins.bb
@@ -7050,9 +7050,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 880eebc11300bbb1d8967bb2be5de264
-SHA256sum: 7f7e4c92d19cd3df9ad9ce4af9a0a50d26618f199d478c5585e128dc4c7ed1c7
-Size: 23582
+MD5Sum: b36dc6052c280873c169d30f1278aa6c
+SHA256sum: cc3d1d4bb94547953a389e3b0de3a1289719ba3296bd240822039f0e5eeaacba
+Size: 23578
 Filename: enigma2-plugin-systemplugins-networkbrowser-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-networkbrowser (translations)
@@ -7082,9 +7082,9 @@ Depends: autofs, libc6 (>= 2.40+git0+7073164add), libtirpc3 (>= 1.3.5), smbclien
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 7eb3ed8bcb82f113dacdc221a17904db
-SHA256sum: bf6619a8fd26ffaf5eda7e87a60b16970e99c775781265c53e8ae09762df668f
-Size: 108146
+MD5Sum: 70047558719a994f0500a3c62b1fc035
+SHA256sum: c9910b61845ec21ce55c5764d2674b60a8a368b85080c0e51429fe6d34ffd619
+Size: 108142
 Filename: enigma2-plugin-systemplugins-networkbrowser_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-networkbrowser
@@ -7321,8 +7321,8 @@ Depends: enigma2-oe-alliance-plugins
 Section: base
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: 840b613e6186f8ad0ecdeb11615f44d6
-SHA256sum: 73990fa87cc4178bb356d31ca93a8070125a38866aadff28834edca82bd469f7
+MD5Sum: 5df109088457ce2892bf7825034a32b2
+SHA256sum: 56ca3e31c4efbd509046fcb79d22b1a015cef62a996ad1c571604d9ad9ffbe8f
 Size: 7188
 Filename: enigma2-plugin-systemplugins-satipclient-po_5.9+gitr3735+45b4cd10+45b4cd1be2-r2_sf8008.ipk
 Source: enigma2-oe-alliance-plugins.bb
@@ -7353,8 +7353,8 @@ Depends: enigma2-oe-alliance-plugins, satipclient
 Section: base
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: 7cae98b0baec81c62945f0c1a34f671f
-SHA256sum: b78cdbb61870f2a1ff6f52cd12148049d89d6f41701eec4fac5ecd1eea96f2b9
+MD5Sum: 272949c0c6fb439d1a065c6791392f44
+SHA256sum: 83b39bfedee00ee42a3bfcdb58b887f1c362137fcf505a6a157d8c0daee36b62
 Size: 25488
 Filename: enigma2-plugin-systemplugins-satipclient_5.9+gitr3735+45b4cd10+45b4cd1be2-r2_sf8008.ipk
 Source: enigma2-oe-alliance-plugins.bb
@@ -7417,9 +7417,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 0eaa3dbb11079120f95c1f31a11655f8
-SHA256sum: 0cfc722a7c20006486f6f9925b9b74b8dc38488a08910a90f17cd53e29112b1b
-Size: 4708
+MD5Sum: bebc75269c2fcb4c75225c45d6416d4e
+SHA256sum: de9c3d8a56df2bab0cc0108fc96f2e884bc3aca13594fbda803ba288ca69be4a
+Size: 4706
 Filename: enigma2-plugin-systemplugins-setpasswd-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-setpasswd (translations)
@@ -7449,9 +7449,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 6953914962c3323cfb492a60a386c383
-SHA256sum: c0627e14270cf5b83b6f21382f45cf73358e13ccf112bbe5f640ce248a56ee08
-Size: 10472
+MD5Sum: 6f8447a0271db3aa572d7ae4f63086b5
+SHA256sum: 73ad0284844ed3ad5098be8546ff769c6d4055fcc5a002032578217e23a21a58
+Size: 10474
 Filename: enigma2-plugin-systemplugins-setpasswd_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-setpasswd
@@ -7497,8 +7497,8 @@ Depends: enigma2-oe-alliance-plugins
 Section: base
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: 083cfbf1dc993771e562de62d66c8e1e
-SHA256sum: a48e8917f5d229bdc00dfd5cb0ee646d4bb20382984ee49faa8e4407f428e37c
+MD5Sum: 6dad2dd284cf5844075db3e9a944d805
+SHA256sum: 46502462dddff9f62eac7a3ebc79e0438b8f64a66508bdd9aa6ebbc9df75a07e
 Size: 3762
 Filename: enigma2-plugin-systemplugins-streamtv-po_5.9+gitr3735+45b4cd10+45b4cd1be2-r2_sf8008.ipk
 Source: enigma2-oe-alliance-plugins.bb
@@ -7513,9 +7513,9 @@ Depends: enigma2-oe-alliance-plugins
 Section: base
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: e887efb58668bbc812feb26803d7dffe
-SHA256sum: 585f421b5eac9ab4304173db0af7b11892c5836f99ba9b4890416894f634adf0
-Size: 3888
+MD5Sum: 826c5f91d7e365dd0e327a7cd7cedf5f
+SHA256sum: c9c24fcb7c063c20660c11a2fe39dd134df602a8fc88cbb617c0d61db80c6056
+Size: 3886
 Filename: enigma2-plugin-systemplugins-streamtv_5.9+gitr3735+45b4cd10+45b4cd1be2-r2_sf8008.ipk
 Source: enigma2-oe-alliance-plugins.bb
 Description: systemplugins-streamtv
@@ -7561,8 +7561,8 @@ Depends: enigma2-oe-alliance-plugins
 Section: base
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: 378ec9439f3d9ff66ddd14493f8e77d9
-SHA256sum: 428e72917d3b0bc088aaaff1f785810bad71f9a2265e5a82bec06356e8b2c290
+MD5Sum: dfbaa872feb65574a76baba498aac843
+SHA256sum: 2350b94e5a1d88b3e618aed603f29bbfe13b66a1fbe4ee56817021678ea1fb69
 Size: 7490
 Filename: enigma2-plugin-systemplugins-vfdcontrol-po_5.9+gitr3735+45b4cd10+45b4cd1be2-r2_sf8008.ipk
 Source: enigma2-oe-alliance-plugins.bb
@@ -7593,8 +7593,8 @@ Depends: enigma2-oe-alliance-plugins
 Section: base
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: 6fe6c94eb583872036a9d7df15d67051
-SHA256sum: fb4e2073fccfa07350e37c4f761948af6b56f4ac5f3f968b23524825ddd69de1
+MD5Sum: 1cdc81652336c38fc2beee8291d36047
+SHA256sum: c5d21cceb40ae21e5717874469283dde9339ac0782619bdad89edaff564654c0
 Size: 18854
 Filename: enigma2-plugin-systemplugins-vfdcontrol_5.9+gitr3735+45b4cd10+45b4cd1be2-r2_sf8008.ipk
 Source: enigma2-oe-alliance-plugins.bb
@@ -7641,9 +7641,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 962f0c27d33d8ad72260c122936f9bbf
-SHA256sum: f869ac6e2f3a14114248c99151b8a8c9608e2f551a8f7ddbed0f8a6ab071e795
-Size: 3184
+MD5Sum: 78df5f65fa2494a799fe55b222cf39e7
+SHA256sum: ffe14abdc7a96de2e471587aea90997c1491e231fd79710e4a4797dca5a55f9e
+Size: 3186
 Filename: enigma2-plugin-systemplugins-videocolorspace-po_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-videocolorspace (translations)
@@ -7672,9 +7672,9 @@ Version: 5.9+gitr7764+123df200+123df20303-r10
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 33e908054e323f47ed7dc3ba2b90b61c
-SHA256sum: 18ad27f8cef9a295ca7add19ce254b77edc05f267ea35df2916130d4bae1f3c9
-Size: 8756
+MD5Sum: b7f0a4b237c5bf42e650bf36722c167f
+SHA256sum: 74088f08bfd40e31b9e8c0cace12e627dc4c2b6aac2f2c21d9c537d104f60402
+Size: 8758
 Filename: enigma2-plugin-systemplugins-videocolorspace_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-videocolorspace
@@ -7819,8 +7819,8 @@ Conflicts: enigma2-plugin-extensions-vps
 Section: base
 Architecture: sf8008
 Maintainer: OE-Alliance team
-MD5Sum: 54b462bf91fbe59692c480908a16d874
-SHA256sum: 8a6fdd9adade41a8c6d1feedb3d9679bbab6203556b70be6576bb3b3863d3f22
+MD5Sum: ce6a51227456c3c4fe0b100478f82f20
+SHA256sum: 86a6a392db98f5b4827608eddeb506350dc8147195504604ed397da39e124f21
 Size: 63330
 Filename: enigma2-plugin-systemplugins-vps_5.9+gitr7764+123df200+123df20303-r10_sf8008.ipk
 Source: enigma2-plugins.bb
@@ -7899,8 +7899,8 @@ Depends: enigma2-oe-alliance-plugins
 Section: base
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: 07da6b3337bd9422694726632a58099c
-SHA256sum: 45d50312d54d1c466126e6fc57c82f22da991b83d4ee7e2d9a43dd23e2e07b81
+MD5Sum: d3920b8c31444fa48e6f86f3c98e239c
+SHA256sum: b913d82f29b4bcc9aafb9be1aa620b760055204bb53194f53cc394fe6b0893c0
 Size: 7008
 Filename: enigma2-plugin-systemplugins-xmlupdate-po_5.9+gitr3735+45b4cd10+45b4cd1be2-r2_sf8008.ipk
 Source: enigma2-oe-alliance-plugins.bb
@@ -10675,6 +10675,24 @@ HomePage: http://www.realtek.com.tw
 License: GPL-2.0-only
 Priority: optional
 
+Package: kernel-module-8852cu-4.4.35
+Version: 1.0-r0
+Depends: kernel-4.4.35, kernel-module-cfg80211-4.4.35
+Provides: kernel-module-8852cu
+Section: kernel/modules
+Architecture: sf8008
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 197716b6e2e4c3a89226f58f312e4f33
+SHA256sum: 0b7dc373a08b2bbd5dda013a64f7a18958af27b816ff596248bb94dd609a4b2e
+Size: 1859876
+Filename: kernel-module-8852cu-4.4.35_1.0-r0_sf8008.ipk
+Source: rtl8852cu.bb
+Description: 8852cu kernel module
+OE: rtl8852cu
+HomePage: http://www.realtek.com.tw
+License: GPL-2.0-only
+Priority: optional
+
 Package: kernel-module-88x2bu-4.4.35
 Version: 1.0.0.9-r0
 Depends: kernel-4.4.35, kernel-module-cfg80211-4.4.35
@@ -10707,6 +10725,24 @@ Filename: kernel-module-88x2cu-4.4.35_1.0-r0_sf8008.ipk
 Source: rt8822cu.bb
 Description: 88x2cu kernel module
 OE: rt8822cu
+HomePage: http://www.realtek.com.tw
+License: GPL-2.0-only
+Priority: optional
+
+Package: kernel-module-88xxau-4.4.35
+Version: 5.6.4.2-r0
+Depends: kernel-4.4.35, kernel-module-cfg80211-4.4.35
+Provides: kernel-module-88xxau
+Section: kernel/modules
+Architecture: sf8008
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 5f9d67d2975968a16dc6dd131aefb60b
+SHA256sum: 0b766ea8874a632e07575cf033e10785deff2dcb0750529cfa522b350056d16e
+Size: 944984
+Filename: kernel-module-88xxau-4.4.35_5.6.4.2-r0_sf8008.ipk
+Source: rtl88xxau_5.6.4.2.bb
+Description: 88xxau kernel module
+OE: rtl88xxau
 HomePage: http://www.realtek.com.tw
 License: GPL-2.0-only
 Priority: optional
@@ -19885,9 +19921,9 @@ Depends: libc6 (>= 2.40+git0+7073164add), libgcc1 (>= 14.2.0), libkodiplatform, 
 Section: base
 Architecture: sf8008
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 6841a5f8956a77f46c72e4a95f165b1d
-SHA256sum: c1fdfe6dbc518d513beb3353f9c553cb45e4b0eb9dfc607e3d5819f0abfa21e2
-Size: 862732
+MD5Sum: d7d46aa719d2f886cccced3e0fcfdd74
+SHA256sum: 8a33fb2202f22ce6908e6513cd5f185b1d428886ee7f2bab1c2d9c5f469ae26a
+Size: 862636
 Filename: kodi-addon-pvr-demo_22.4.0+git0+c2f610fee1-r0_sf8008.ipk
 Source: kodi-addon-pvr-demo.bb
 Description: Kodi Media Center PVR plugins
@@ -19933,9 +19969,9 @@ Depends: libc6 (>= 2.40+git0+7073164add), libgcc1 (>= 14.2.0), libkodiplatform, 
 Section: base
 Architecture: sf8008
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 9ce0006e5e6b50b4beb69eb30ea65939
-SHA256sum: 8c776fc9e2efc5b66fae816620c528a3d57236060400e226c633bfd321992524
-Size: 7114288
+MD5Sum: f9e61dbd11326687c99042874ffff382
+SHA256sum: b2301d99f53b6826552be2b84ce19bdc98a30a5c8b8e4a301847e2bc4a9640aa
+Size: 7114094
 Filename: kodi-addon-pvr-dvblink_22.2.0+git0+98e63d10fa-r0_sf8008.ipk
 Source: kodi-addon-pvr-dvblink.bb
 Description: Kodi Media Center PVR plugins
@@ -19981,9 +20017,9 @@ Depends: libc6 (>= 2.40+git0+7073164add), libgcc1 (>= 14.2.0), libkodiplatform, 
 Section: base
 Architecture: sf8008
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: f30728ad9cf6d9e530930a490979ee0d
-SHA256sum: 37b7a85545c55505c5102f3d3456068a5b5931cc28bbd7c4b78e9ff231152586
-Size: 2000992
+MD5Sum: a66651cce55bbfdf146c7ad873772411
+SHA256sum: 12b5f316206b7477bfab6fb4b3e56ace6ca9f9fb7573958b2070752d32d4d2aa
+Size: 3586870
 Filename: kodi-addon-pvr-dvbviewer_22.2.0+git0+390a9507ce-r0_sf8008.ipk
 Source: kodi-addon-pvr-dvbviewer.bb
 Description: Kodi Media Center PVR plugins
@@ -20029,9 +20065,9 @@ Depends: libc6 (>= 2.40+git0+7073164add), libgcc1 (>= 14.2.0), libkodiplatform, 
 Section: base
 Architecture: sf8008
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: a1036ec8e9a3a7b76fbe95333bd360f0
-SHA256sum: 3da7a543cee38428d8c44f665fa2f0c3a5a33c1022a6db1a32840e015dfed081
-Size: 10083090
+MD5Sum: 751bcfd0ed6008d3754bed72f9b9d560
+SHA256sum: 52fac16253198b3dbb65e67b0204c274afb4d522892275bfa1bdd39009c1cf13
+Size: 10082984
 Filename: kodi-addon-pvr-hts_22.6.0+git0+843ae99ad7-r0_sf8008.ipk
 Source: kodi-addon-pvr-hts.bb
 Description: Kodi Media Center PVR plugins
@@ -20077,9 +20113,9 @@ Depends: libc6 (>= 2.40+git0+7073164add), libgcc1 (>= 14.2.0), libkodiplatform, 
 Section: base
 Architecture: sf8008
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 0b918b6fc689deabec1dcee8e5243b24
-SHA256sum: 9ff77aea3924a76a4c3e5b8174a46b4ae2a3c0407ad3ee21597a895c80597fc8
-Size: 18680694
+MD5Sum: e536ed269493c3747ef5264c7843c65b
+SHA256sum: 5962a09141127053027c605e80903391dfa6e613cc9f66ab283ab5fda97fccf6
+Size: 18680734
 Filename: kodi-addon-pvr-iptvsimple_22.4.1+git0+a5f312c206-r0_sf8008.ipk
 Source: kodi-addon-pvr-iptvsimple.bb
 Description: Kodi Media Center PVR plugins
@@ -20125,9 +20161,9 @@ Depends: libc6 (>= 2.40+git0+7073164add), libgcc1 (>= 14.2.0), libkodiplatform, 
 Section: base
 Architecture: sf8008
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 32d44e74c5923545d168ce592c344f27
-SHA256sum: c0854bc83900c6b03dc16b03d2c49f6d18a8257282dbdaaf2745d84ae9e55b2e
-Size: 17667934
+MD5Sum: ad679820db8b2d7999a2bb16246ea6fb
+SHA256sum: fac878c388f5897a6c176becfaa0bcb621f477044b4197a282b1033c6dcce175
+Size: 17667932
 Filename: kodi-addon-pvr-mythtv_22.0.0+git0+3e9e710aa0-r0_sf8008.ipk
 Source: kodi-addon-pvr-mythtv.bb
 Description: Kodi Media Center PVR plugins
@@ -20173,9 +20209,9 @@ Depends: libc6 (>= 2.40+git0+7073164add), libgcc1 (>= 14.2.0), libkodiplatform, 
 Section: base
 Architecture: sf8008
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 86bc7dab7ef034d3b80bd5937c259a18
-SHA256sum: 4aaf1a0c899d08548c7cc9d8a4084f5aa97ca3c9c63e25763849876261a0dd29
-Size: 11722074
+MD5Sum: b103ad8701778a4e2439814f74fa761e
+SHA256sum: 2561f18650b0c42bca1fb3c1add4f8d5e18c0c33dedcd5548b208e29f91172be
+Size: 11722092
 Filename: kodi-addon-pvr-nextpvr_22.4.0+git0+80f2cd62e8-r0_sf8008.ipk
 Source: kodi-addon-pvr-nextpvr.bb
 Description: Kodi Media Center PVR plugins
@@ -20221,9 +20257,9 @@ Depends: libc6 (>= 2.40+git0+7073164add), libgcc1 (>= 14.2.0), libkodiplatform, 
 Section: base
 Architecture: sf8008
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 44afc3015724582d23bb46fbe4567558
-SHA256sum: a56310306d99d28deb3a25f7f46da7855d55e068ba8d3dabd4b9c4fd13958db3
-Size: 440532
+MD5Sum: dd26989773c57faff9ea381008ac3065
+SHA256sum: 3b8210956a43f4cd978032ddd58b66e268b9ba7a8ffa0a31eb0f6166012164c3
+Size: 440490
 Filename: kodi-addon-pvr-njoy_22.2.0+git0+25088daf72-r0_sf8008.ipk
 Source: kodi-addon-pvr-njoy.bb
 Description: Kodi Media Center PVR plugins
@@ -20269,9 +20305,9 @@ Depends: libc6 (>= 2.40+git0+7073164add), libgcc1 (>= 14.2.0), libkodiplatform, 
 Section: base
 Architecture: sf8008
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: a1c25fdb15cf32c27e0ce99939fb01c2
-SHA256sum: 250e2134f612f30f43334e8b6032634f04f0cf45fca90c071bd7adc17ca9397b
-Size: 6675908
+MD5Sum: 2d471f643021b475253c5223d7406ca7
+SHA256sum: 7916e0c7ee51d4b4a7fba1015d3d054772b0b14b93aba1cef4d9bfde8aac9e11
+Size: 6675680
 Filename: kodi-addon-pvr-vbox_22.2.0+git0+25909cefd9-r0_sf8008.ipk
 Source: kodi-addon-pvr-vbox.bb
 Description: Kodi Media Center PVR plugins
@@ -20317,9 +20353,9 @@ Depends: libc6 (>= 2.40+git0+7073164add), libgcc1 (>= 14.2.0), libkodiplatform, 
 Section: base
 Architecture: sf8008
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: cb7a9a0f5367d735f99e3b43defa77bb
-SHA256sum: 259fdd52d0bba5703ed36466a91451b855acbcec181060c9d5bbe6e5eef6dc38
-Size: 2169828
+MD5Sum: cb03e8ce71420ee86deb0468b34f2f62
+SHA256sum: 63b6ffb5d71f4b82d2131f27fc80adda4ad87a21e9c3ad15463417e23e915555
+Size: 3926258
 Filename: kodi-addon-pvr-vdr.vnsi_22.2.0+git0+724f744646-r0_sf8008.ipk
 Source: kodi-addon-pvr-vdr.vnsi.bb
 Description: Kodi Media Center PVR plugins
@@ -20365,9 +20401,9 @@ Depends: libc6 (>= 2.40+git0+7073164add), libgcc1 (>= 14.2.0), libkodiplatform, 
 Section: base
 Architecture: sf8008
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 00d373f8ff497139885469e449b806db
-SHA256sum: b8217109411ccc1b491ee3f9f74f65a38c8e6c29701a05717ea97f7ddcb7e91d
-Size: 29251068
+MD5Sum: aecbda060bf16a85d40f5d76958cb3ad
+SHA256sum: f434f41272a98402e0af5c6db54aef5370d2ef70c73ef8f2112e21f2e60343f2
+Size: 29251666
 Filename: kodi-addon-pvr-vuplus_22.3.1+git0+47e0d52150-r0_sf8008.ipk
 Source: kodi-addon-pvr-vuplus.bb
 Description: Kodi Media Center PVR plugins
@@ -20413,9 +20449,9 @@ Depends: libc6 (>= 2.40+git0+7073164add), libgcc1 (>= 14.2.0), libkodiplatform, 
 Section: base
 Architecture: sf8008
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: af2c329cce783037403693c4302dae64
-SHA256sum: e3cc5975a41a9e14532280abce5b9ef79515d8d0c6a5752f00c5f63d4b1a3961
-Size: 1209498
+MD5Sum: a0a45cfd76c8ea5b4ca3faf6dce03acd
+SHA256sum: fa4e2339565d1f2c8f45cfe4830647321164beffe1e9aac1471819dade5dcb5c
+Size: 1209522
 Filename: kodi-addon-pvr-wmc_22.2.0+git0+36686b6e31-r0_sf8008.ipk
 Source: kodi-addon-pvr-wmc.bb
 Description: Kodi Media Center PVR plugins
@@ -22176,64 +22212,64 @@ License: MIT
 Priority: optional
 
 Package: oe-alliance-branding-dbg
-Version: 5.9+git1158+a46db6b0+a46db6bc00-r20250211-sf8008
+Version: 5.9+git1158+a46db6b0+a46db6bc00-r20250214-sf8008
 Recommends: glibc-dbg
 Section: devel
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: e936554eb1149ca2e008ecbb6684eab7
-SHA256sum: 18d938811a2f71120202a4e490543f7b220e0518e4c511cda9dbd02f6da62dee
-Size: 93672
-Filename: oe-alliance-branding-dbg_5.9+git1158+a46db6b0+a46db6bc00-r20250211-sf8008_sf8008.ipk
+MD5Sum: fd01d9b734a4836771aea19f52018e06
+SHA256sum: 00f3a01483fbbcf9253a4b1efac056f87d56599a76805c13f83d168bb060e9ef
+Size: 93704
+Filename: oe-alliance-branding-dbg_5.9+git1158+a46db6b0+a46db6bc00-r20250214-sf8008_sf8008.ipk
 Source: oe-alliance-branding.bb
-Description: oe-alliance-branding version 5.9+git-r20250211-sf8008 - Debugging files
+Description: oe-alliance-branding version 5.9+git-r20250214-sf8008 - Debugging files
 OE: oe-alliance-branding
 License: GPL-2.0-or-later
 Priority: optional
 
 Package: oe-alliance-branding-dev
-Version: 5.9+git1158+a46db6b0+a46db6bc00-r20250211-sf8008
-Recommends: glibc-dev, oe-alliance-branding (= 5.9+git1158+a46db6b0+a46db6bc00-r20250211-sf8008), python3-dev
+Version: 5.9+git1158+a46db6b0+a46db6bc00-r20250214-sf8008
+Recommends: glibc-dev, oe-alliance-branding (= 5.9+git1158+a46db6b0+a46db6bc00-r20250214-sf8008), python3-dev
 Section: devel
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: 55852c2a72858a563eea748f9973cc9e
-SHA256sum: 321a842f60aa0e8825a85b49c753b0a5e67277470a797ac08d3543d1d4ec6452
+MD5Sum: 77fdd910627f88353155e1471bd2372e
+SHA256sum: 58e8eb835eeb48df6f5a365793d23c2ba2f6d8f81e8305e47f4e727fb5253033
 Size: 644
-Filename: oe-alliance-branding-dev_5.9+git1158+a46db6b0+a46db6bc00-r20250211-sf8008_sf8008.ipk
+Filename: oe-alliance-branding-dev_5.9+git1158+a46db6b0+a46db6bc00-r20250214-sf8008_sf8008.ipk
 Source: oe-alliance-branding.bb
-Description: oe-alliance-branding version 5.9+git-r20250211-sf8008 - Development files
+Description: oe-alliance-branding version 5.9+git-r20250214-sf8008 - Development files
 OE: oe-alliance-branding
 License: GPL-2.0-or-later
 Priority: optional
 
 Package: oe-alliance-branding-src
-Version: 5.9+git1158+a46db6b0+a46db6bc00-r20250211-sf8008
+Version: 5.9+git1158+a46db6b0+a46db6bc00-r20250214-sf8008
 Section: devel
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: 54679301dff76eac8c637e43a04d9ec0
-SHA256sum: 210ab60715a2ce4f744daa00e2f6f3d47ce4daafb6900f6aa6a43966e9fb4b4a
+MD5Sum: ccb79da2079dfc5d4f6a44e81e3258e6
+SHA256sum: d715f36284142647b05ad3e23eebc1d9ef39ee68cf998f7105249455ff6a07fc
 Size: 4362
-Filename: oe-alliance-branding-src_5.9+git1158+a46db6b0+a46db6bc00-r20250211-sf8008_sf8008.ipk
+Filename: oe-alliance-branding-src_5.9+git1158+a46db6b0+a46db6bc00-r20250214-sf8008_sf8008.ipk
 Source: oe-alliance-branding.bb
-Description: oe-alliance-branding version 5.9+git-r20250211-sf8008 - Source files
+Description: oe-alliance-branding version 5.9+git-r20250214-sf8008 - Source files
 OE: oe-alliance-branding
 License: GPL-2.0-or-later
 Priority: optional
 
 Package: oe-alliance-branding
-Version: 5.9+git1158+a46db6b0+a46db6bc00-r20250211-sf8008
+Version: 5.9+git1158+a46db6b0+a46db6bc00-r20250214-sf8008
 Depends: libc6 (>= 2.40+git0+7073164add)
 Section: base
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: 5f237022f0ffe3b2e64e7a293798431b
-SHA256sum: ecbe7a388a0991d71aa278e3742d22621e0d9d73de3ce14c67c35f806ecccb85
-Size: 704990
-Filename: oe-alliance-branding_5.9+git1158+a46db6b0+a46db6bc00-r20250211-sf8008_sf8008.ipk
+MD5Sum: 659aff1f2da5ab0d0d37e50b655a5304
+SHA256sum: 23b6f6dddc72df26b10182b0f58b00d5b8984a306179371685be209249eba727
+Size: 704986
+Filename: oe-alliance-branding_5.9+git1158+a46db6b0+a46db6bc00-r20250214-sf8008_sf8008.ipk
 Source: oe-alliance-branding.bb
-Description: oe-alliance-branding version 5.9+git-r20250211-sf8008
+Description: oe-alliance-branding version 5.9+git-r20250214-sf8008
 OE: oe-alliance-branding
 License: GPL-2.0-or-later
 Priority: optional
@@ -22371,9 +22407,9 @@ Conflicts: distro-feed-configs
 Section: base
 Architecture: sf8008
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: a949f3ea30fd1f37a216de4d1531b2e6
-SHA256sum: 98ce6f20771d0a944fec4b0ee7e0910be6a4a0c3e1d142e6790ce8e11d8dfc3e
-Size: 982
+MD5Sum: 12ce5b9369eb792aa621fff71abeac96
+SHA256sum: 16b6a968dea82a3e4a2e54c07861a6fdb2f1592cfd16254a3c714048dac7f21a
+Size: 978
 Filename: oe-alliance-feeds-configs_1.0-r3_sf8008.ipk
 Source: oe-alliance-feeds-configs.bb
 Description: Configuration files for online package repositories aka feeds
@@ -25541,6 +25577,108 @@ HomePage: http://www.realtek.com/
 License: GPL-2.0-only
 Priority: optional
 
+Package: rtl8852cu-dbg
+Version: 1.0-r0
+Section: devel
+Architecture: sf8008
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 10407e15427ace56c8a0f359f551b6e9
+SHA256sum: 873c0a0955fe12a3960ca5e22f0e2b02d60f3b19a4b5c9bf4e776c83da14fccc
+Size: 573158
+Filename: rtl8852cu-dbg_1.0-r0_sf8008.ipk
+Source: rtl8852cu.bb
+Description: Realtek rtw8852cu - Debugging files
+OE: rtl8852cu
+HomePage: http://www.realtek.com.tw
+License: GPL-2.0-only
+Priority: optional
+
+Package: rtl8852cu-dev
+Version: 1.0-r0
+Recommends: kernel-4.4.35-dev, kernel-module-8852cu-4.4.35-dev, kernel-module-cfg80211-4.4.35-dev, rtl8852cu (= 1.0-r0)
+Section: devel
+Architecture: sf8008
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 35a2a4b8ccd69e32a33b002e7f22966d
+SHA256sum: dce6ae0e6f4ca6d360d351ff23d6ddb2433be4bb81ef04270e54705b5e2c6661
+Size: 664
+Filename: rtl8852cu-dev_1.0-r0_sf8008.ipk
+Source: rtl8852cu.bb
+Description: Realtek rtw8852cu - Development files
+OE: rtl8852cu
+HomePage: http://www.realtek.com.tw
+License: GPL-2.0-only
+Priority: optional
+
+Package: rtl8852cu
+Version: 1.0-r0
+Depends: kernel-module-8852cu-4.4.35
+Section: kernel/modules
+Architecture: sf8008
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: cbec8d57eb202ad378c4d08186432e43
+SHA256sum: 690369b891af388fff286e9472bbe74f3e9c719078f4205858967c027e8c7653
+Size: 556
+Filename: rtl8852cu_1.0-r0_sf8008.ipk
+Source: rtl8852cu.bb
+Description: Realtek rtw8852cu
+OE: rtl8852cu
+HomePage: http://www.realtek.com.tw
+License: GPL-2.0-only
+Priority: optional
+
+Package: rtl88xxau-dbg
+Version: 5.6.4.2-r0
+Section: devel
+Architecture: sf8008
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 3f83586d2a5ae2ad33fe1bcb1ce8150e
+SHA256sum: b110581044461cb4e7095458e8fbe4977e4b56f14fbe7babcb4fbd45637062d3
+Size: 268276
+Filename: rtl88xxau-dbg_5.6.4.2-r0_sf8008.ipk
+Source: rtl88xxau_5.6.4.2.bb
+Description: Ralink 8812AU / 8821AU v5.6.4.2 - Debugging files
+OE: rtl88xxau
+HomePage: http://www.realtek.com.tw
+License: GPL-2.0-only
+Priority: optional
+
+Package: rtl88xxau-dev
+Version: 5.6.4.2-r0
+Recommends: kernel-4.4.35-dev, kernel-module-88xxau-4.4.35-dev, kernel-module-cfg80211-4.4.35-dev, rtl88xxau (= 5.6.4.2-r0)
+Section: devel
+Architecture: sf8008
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: f2dd2fa5685ded32f8bf5aa06e28584c
+SHA256sum: d70af026e2d22f9da14690de9db52f98869acce5c31a5ea6c86954d632b30e27
+Size: 684
+Filename: rtl88xxau-dev_5.6.4.2-r0_sf8008.ipk
+Source: rtl88xxau_5.6.4.2.bb
+Description: Ralink 8812AU / 8821AU v5.6.4.2 - Development files
+OE: rtl88xxau
+HomePage: http://www.realtek.com.tw
+License: GPL-2.0-only
+Priority: optional
+
+Package: rtl88xxau
+Version: 5.6.4.2-r0
+Depends: kernel-module-88xxau-4.4.35
+Replaces: kernel-module-8812au, kernel-module-8814au
+Conflicts: kernel-module-8812au, kernel-module-8814au
+Section: kernel/modules
+Architecture: sf8008
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: f957049fcda3cf607d3d2ab98dc152bb
+SHA256sum: 3dda8938f1f506ee9226f92a933805db018980a8d20b756bc1ebd586e94ad1ba
+Size: 608
+Filename: rtl88xxau_5.6.4.2-r0_sf8008.ipk
+Source: rtl88xxau_5.6.4.2.bb
+Description: Ralink 8812AU / 8821AU v5.6.4.2
+OE: rtl88xxau
+HomePage: http://www.realtek.com.tw
+License: GPL-2.0-only
+Priority: optional
+
 Package: satipclient-dbg
 Version: 1.0+git97+1c2ef4c0+1c2ef4c136-r0
 Recommends: glibc-dbg, libgcc-dbg, libstdc++-dbg
@@ -25642,9 +25780,9 @@ Recommends: alsa-lib-dbg, bluez5-dbg, dbus-lib-dbg, exiv2-dbg, freetype-dbg, fri
 Section: devel
 Architecture: sf8008
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: d4ea31f71d530e6cb3548f946cbd958b
-SHA256sum: 5991adf5219736d54838dbac8d84e0f35a6b319bd6ad35aff394f4797c5f0fa9
-Size: 223773258
+MD5Sum: d39d934049cf65f5ab7adcff12ae7d5b
+SHA256sum: 5d26d705db42964e8746aaf4899b37554eb3c0ebac1af8de5ec66b42dfd5bcf2
+Size: 223773260
 Filename: stb-kodi-sf8008-dbg_22.0+gitr0+12245d0921-r0_sf8008.ipk
 Source: stb-kodi-sf8008_22.bb
 Description: Kodi Media Center - Debugging files
@@ -25691,8 +25829,8 @@ Recommends: alsa-plugins, glibc-charmap-ibm437, glibc-charmap-ibm850, glibc-char
 Section: base
 Architecture: sf8008
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 81e43d07715290ee8ceddca2ab149408
-SHA256sum: 80b6e15d2da0fd95d674089c88e94bc78a728beda70a747f3c5ad9d0887621c7
+MD5Sum: 957bf46b3c61f777309836edda8dc94e
+SHA256sum: f8685983c184fa587bc25a8a4fde10655c20bca7fad6f4e9d6c01d53d8b29c76
 Size: 28312826
 Filename: stb-kodi-sf8008_22.0+gitr0+12245d0921-r0_sf8008.ipk
 Source: stb-kodi-sf8008_22.bb
