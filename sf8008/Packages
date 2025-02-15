@@ -295,16 +295,16 @@ License: LGPL-2.1-only
 Priority: optional
 
 Package: enigma-info
-Version: 5.9-r20250214-sf8008
+Version: 5.9-r20250215-sf8008
 Replaces: enigma-kernel-module
 Conflicts: enigma-kernel-module
 Section: base
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: cf15cb37fc89329a6e45fe7f089c9639
-SHA256sum: e70813d18e4af2b7afc83b2ac2175ad085be86485516c0df8e7fe59127b08140
-Size: 1348
-Filename: enigma-info_5.9-r20250214-sf8008_sf8008.ipk
+MD5Sum: 2b093cf8e82c535f2534eea12d77bf8c
+SHA256sum: 9819db39558e5303d868ae7178ad91d3207a29024be0a46ec851100008db3d70
+Size: 1350
+Filename: enigma-info_5.9-r20250215-sf8008_sf8008.ipk
 Source: enigma-info.bb
 Description: enigma.info used by BoxInfo
 OE: enigma-info
@@ -19921,9 +19921,9 @@ Depends: libc6 (>= 2.40+git0+7073164add), libgcc1 (>= 14.2.0), libkodiplatform, 
 Section: base
 Architecture: sf8008
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: d7d46aa719d2f886cccced3e0fcfdd74
-SHA256sum: 8a33fb2202f22ce6908e6513cd5f185b1d428886ee7f2bab1c2d9c5f469ae26a
-Size: 862636
+MD5Sum: 7e760526567d227765068a8789d371f6
+SHA256sum: 0cec0eeed8fbe1f97c96d6650eb3b71d920b8b2d2a87bb7f4c313b7ce7d96bef
+Size: 862794
 Filename: kodi-addon-pvr-demo_22.4.0+git0+c2f610fee1-r0_sf8008.ipk
 Source: kodi-addon-pvr-demo.bb
 Description: Kodi Media Center PVR plugins
@@ -19969,9 +19969,9 @@ Depends: libc6 (>= 2.40+git0+7073164add), libgcc1 (>= 14.2.0), libkodiplatform, 
 Section: base
 Architecture: sf8008
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: f9e61dbd11326687c99042874ffff382
-SHA256sum: b2301d99f53b6826552be2b84ce19bdc98a30a5c8b8e4a301847e2bc4a9640aa
-Size: 7114094
+MD5Sum: 602e9f433c7960c0d4b4424075ad2ec7
+SHA256sum: 1864323a0ccc02c293d6508231200b877d65d324d1654297764a7342e799a502
+Size: 7114008
 Filename: kodi-addon-pvr-dvblink_22.2.0+git0+98e63d10fa-r0_sf8008.ipk
 Source: kodi-addon-pvr-dvblink.bb
 Description: Kodi Media Center PVR plugins
@@ -20017,9 +20017,9 @@ Depends: libc6 (>= 2.40+git0+7073164add), libgcc1 (>= 14.2.0), libkodiplatform, 
 Section: base
 Architecture: sf8008
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: a66651cce55bbfdf146c7ad873772411
-SHA256sum: 12b5f316206b7477bfab6fb4b3e56ace6ca9f9fb7573958b2070752d32d4d2aa
-Size: 3586870
+MD5Sum: 7829f2e2c5e2a9a008f085a09e49fda0
+SHA256sum: 139243dec190a8faa1aa7c926a631bc7596e4e72b353ac56cbc95e63a9744679
+Size: 3587000
 Filename: kodi-addon-pvr-dvbviewer_22.2.0+git0+390a9507ce-r0_sf8008.ipk
 Source: kodi-addon-pvr-dvbviewer.bb
 Description: Kodi Media Center PVR plugins
@@ -20065,9 +20065,9 @@ Depends: libc6 (>= 2.40+git0+7073164add), libgcc1 (>= 14.2.0), libkodiplatform, 
 Section: base
 Architecture: sf8008
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 751bcfd0ed6008d3754bed72f9b9d560
-SHA256sum: 52fac16253198b3dbb65e67b0204c274afb4d522892275bfa1bdd39009c1cf13
-Size: 10082984
+MD5Sum: 75cc3a0d87f48b6f4d3ba0b40943d643
+SHA256sum: 678df7f7f3914a5d5ee1997321d4789b5c92194beba3b9cde70b1f693100e0d1
+Size: 10083018
 Filename: kodi-addon-pvr-hts_22.6.0+git0+843ae99ad7-r0_sf8008.ipk
 Source: kodi-addon-pvr-hts.bb
 Description: Kodi Media Center PVR plugins
@@ -20113,9 +20113,9 @@ Depends: libc6 (>= 2.40+git0+7073164add), libgcc1 (>= 14.2.0), libkodiplatform, 
 Section: base
 Architecture: sf8008
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: e536ed269493c3747ef5264c7843c65b
-SHA256sum: 5962a09141127053027c605e80903391dfa6e613cc9f66ab283ab5fda97fccf6
-Size: 18680734
+MD5Sum: 5b1456963f5848df36db50822ec32459
+SHA256sum: ab8817ed10c163f1fed7830f8eca881eff9f46a5e28706ef681d29149cb2c158
+Size: 18680962
 Filename: kodi-addon-pvr-iptvsimple_22.4.1+git0+a5f312c206-r0_sf8008.ipk
 Source: kodi-addon-pvr-iptvsimple.bb
 Description: Kodi Media Center PVR plugins
@@ -20161,9 +20161,9 @@ Depends: libc6 (>= 2.40+git0+7073164add), libgcc1 (>= 14.2.0), libkodiplatform, 
 Section: base
 Architecture: sf8008
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: ad679820db8b2d7999a2bb16246ea6fb
-SHA256sum: fac878c388f5897a6c176becfaa0bcb621f477044b4197a282b1033c6dcce175
-Size: 17667932
+MD5Sum: a69ab0c19b1c674985b031825c3c32eb
+SHA256sum: 804e4533088f6161184afe99bca375c76399c232af8c334529106aa9898819d6
+Size: 17667928
 Filename: kodi-addon-pvr-mythtv_22.0.0+git0+3e9e710aa0-r0_sf8008.ipk
 Source: kodi-addon-pvr-mythtv.bb
 Description: Kodi Media Center PVR plugins
@@ -20209,9 +20209,9 @@ Depends: libc6 (>= 2.40+git0+7073164add), libgcc1 (>= 14.2.0), libkodiplatform, 
 Section: base
 Architecture: sf8008
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: b103ad8701778a4e2439814f74fa761e
-SHA256sum: 2561f18650b0c42bca1fb3c1add4f8d5e18c0c33dedcd5548b208e29f91172be
-Size: 11722092
+MD5Sum: aa31f14a77865e53bf09cef1bba80528
+SHA256sum: 878c75249855f05203a9b2ef2193c685771007c604e4e6ec4af2d56fe4537bb7
+Size: 11722110
 Filename: kodi-addon-pvr-nextpvr_22.4.0+git0+80f2cd62e8-r0_sf8008.ipk
 Source: kodi-addon-pvr-nextpvr.bb
 Description: Kodi Media Center PVR plugins
@@ -20257,9 +20257,9 @@ Depends: libc6 (>= 2.40+git0+7073164add), libgcc1 (>= 14.2.0), libkodiplatform, 
 Section: base
 Architecture: sf8008
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: dd26989773c57faff9ea381008ac3065
-SHA256sum: 3b8210956a43f4cd978032ddd58b66e268b9ba7a8ffa0a31eb0f6166012164c3
-Size: 440490
+MD5Sum: fced1a1d771738694921a51ba57f78fc
+SHA256sum: 93b1be40f4f1cc5f9cfb18d26f14398da51e1ddc117a8b35ae30bd2754aa2862
+Size: 440500
 Filename: kodi-addon-pvr-njoy_22.2.0+git0+25088daf72-r0_sf8008.ipk
 Source: kodi-addon-pvr-njoy.bb
 Description: Kodi Media Center PVR plugins
@@ -20305,9 +20305,9 @@ Depends: libc6 (>= 2.40+git0+7073164add), libgcc1 (>= 14.2.0), libkodiplatform, 
 Section: base
 Architecture: sf8008
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 2d471f643021b475253c5223d7406ca7
-SHA256sum: 7916e0c7ee51d4b4a7fba1015d3d054772b0b14b93aba1cef4d9bfde8aac9e11
-Size: 6675680
+MD5Sum: 060be5eb80eda3b49444060d229e61bc
+SHA256sum: d2e9c3c895ede2859290ac0f82274533bf9d208de5ec5a25c1c65c625b47d0ee
+Size: 6675750
 Filename: kodi-addon-pvr-vbox_22.2.0+git0+25909cefd9-r0_sf8008.ipk
 Source: kodi-addon-pvr-vbox.bb
 Description: Kodi Media Center PVR plugins
@@ -20353,9 +20353,9 @@ Depends: libc6 (>= 2.40+git0+7073164add), libgcc1 (>= 14.2.0), libkodiplatform, 
 Section: base
 Architecture: sf8008
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: cb03e8ce71420ee86deb0468b34f2f62
-SHA256sum: 63b6ffb5d71f4b82d2131f27fc80adda4ad87a21e9c3ad15463417e23e915555
-Size: 3926258
+MD5Sum: 5f4cc3c2d71f343d1fea1e3c8f28b19a
+SHA256sum: d72edf59414cf36b9f17666dee21bd32fa37ca5181d3c451b4eac9cb6f587284
+Size: 3926992
 Filename: kodi-addon-pvr-vdr.vnsi_22.2.0+git0+724f744646-r0_sf8008.ipk
 Source: kodi-addon-pvr-vdr.vnsi.bb
 Description: Kodi Media Center PVR plugins
@@ -20401,9 +20401,9 @@ Depends: libc6 (>= 2.40+git0+7073164add), libgcc1 (>= 14.2.0), libkodiplatform, 
 Section: base
 Architecture: sf8008
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: aecbda060bf16a85d40f5d76958cb3ad
-SHA256sum: f434f41272a98402e0af5c6db54aef5370d2ef70c73ef8f2112e21f2e60343f2
-Size: 29251666
+MD5Sum: 383c49ac1ec1e971b5fa87ad9dbe187c
+SHA256sum: b432ac1673b1c71242cf34cc9fa422da43e69a150e570f8b7c765acf1cfc7e46
+Size: 29252096
 Filename: kodi-addon-pvr-vuplus_22.3.1+git0+47e0d52150-r0_sf8008.ipk
 Source: kodi-addon-pvr-vuplus.bb
 Description: Kodi Media Center PVR plugins
@@ -20449,9 +20449,9 @@ Depends: libc6 (>= 2.40+git0+7073164add), libgcc1 (>= 14.2.0), libkodiplatform, 
 Section: base
 Architecture: sf8008
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: a0a45cfd76c8ea5b4ca3faf6dce03acd
-SHA256sum: fa4e2339565d1f2c8f45cfe4830647321164beffe1e9aac1471819dade5dcb5c
-Size: 1209522
+MD5Sum: e46664522d350c97f7ac2ca84a417ee6
+SHA256sum: 061a0dd9b50f8454aa772676331619ae02f86c6f447a08d6b8999772e12b2eed
+Size: 1209304
 Filename: kodi-addon-pvr-wmc_22.2.0+git0+36686b6e31-r0_sf8008.ipk
 Source: kodi-addon-pvr-wmc.bb
 Description: Kodi Media Center PVR plugins
@@ -22212,64 +22212,64 @@ License: MIT
 Priority: optional
 
 Package: oe-alliance-branding-dbg
-Version: 5.9+git1158+a46db6b0+a46db6bc00-r20250214-sf8008
+Version: 5.9+git1158+a46db6b0+a46db6bc00-r20250215-sf8008
 Recommends: glibc-dbg
 Section: devel
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: fd01d9b734a4836771aea19f52018e06
-SHA256sum: 00f3a01483fbbcf9253a4b1efac056f87d56599a76805c13f83d168bb060e9ef
+MD5Sum: 672009e616739fef6ad524b6bb5c555f
+SHA256sum: b7c289004b7078830ae50eeb6ca6242e7811fe6c96c3a261d986ea05a5a9f740
 Size: 93704
-Filename: oe-alliance-branding-dbg_5.9+git1158+a46db6b0+a46db6bc00-r20250214-sf8008_sf8008.ipk
+Filename: oe-alliance-branding-dbg_5.9+git1158+a46db6b0+a46db6bc00-r20250215-sf8008_sf8008.ipk
 Source: oe-alliance-branding.bb
-Description: oe-alliance-branding version 5.9+git-r20250214-sf8008 - Debugging files
+Description: oe-alliance-branding version 5.9+git-r20250215-sf8008 - Debugging files
 OE: oe-alliance-branding
 License: GPL-2.0-or-later
 Priority: optional
 
 Package: oe-alliance-branding-dev
-Version: 5.9+git1158+a46db6b0+a46db6bc00-r20250214-sf8008
-Recommends: glibc-dev, oe-alliance-branding (= 5.9+git1158+a46db6b0+a46db6bc00-r20250214-sf8008), python3-dev
+Version: 5.9+git1158+a46db6b0+a46db6bc00-r20250215-sf8008
+Recommends: glibc-dev, oe-alliance-branding (= 5.9+git1158+a46db6b0+a46db6bc00-r20250215-sf8008), python3-dev
 Section: devel
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: 77fdd910627f88353155e1471bd2372e
-SHA256sum: 58e8eb835eeb48df6f5a365793d23c2ba2f6d8f81e8305e47f4e727fb5253033
+MD5Sum: ec72ebbbe0dca320310946733c5c2d18
+SHA256sum: 81962adb4e485f25eaf9ca55eaa68a79b490af2dd5cfed4414189b4dff33fcec
 Size: 644
-Filename: oe-alliance-branding-dev_5.9+git1158+a46db6b0+a46db6bc00-r20250214-sf8008_sf8008.ipk
+Filename: oe-alliance-branding-dev_5.9+git1158+a46db6b0+a46db6bc00-r20250215-sf8008_sf8008.ipk
 Source: oe-alliance-branding.bb
-Description: oe-alliance-branding version 5.9+git-r20250214-sf8008 - Development files
+Description: oe-alliance-branding version 5.9+git-r20250215-sf8008 - Development files
 OE: oe-alliance-branding
 License: GPL-2.0-or-later
 Priority: optional
 
 Package: oe-alliance-branding-src
-Version: 5.9+git1158+a46db6b0+a46db6bc00-r20250214-sf8008
+Version: 5.9+git1158+a46db6b0+a46db6bc00-r20250215-sf8008
 Section: devel
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: ccb79da2079dfc5d4f6a44e81e3258e6
-SHA256sum: d715f36284142647b05ad3e23eebc1d9ef39ee68cf998f7105249455ff6a07fc
+MD5Sum: e43f536d753ac341cb806bc3c70c9f9c
+SHA256sum: 05a5c423c88a55e4936729ca02f232fd9a97eed3808a4647bb6318bba3d45b77
 Size: 4362
-Filename: oe-alliance-branding-src_5.9+git1158+a46db6b0+a46db6bc00-r20250214-sf8008_sf8008.ipk
+Filename: oe-alliance-branding-src_5.9+git1158+a46db6b0+a46db6bc00-r20250215-sf8008_sf8008.ipk
 Source: oe-alliance-branding.bb
-Description: oe-alliance-branding version 5.9+git-r20250214-sf8008 - Source files
+Description: oe-alliance-branding version 5.9+git-r20250215-sf8008 - Source files
 OE: oe-alliance-branding
 License: GPL-2.0-or-later
 Priority: optional
 
 Package: oe-alliance-branding
-Version: 5.9+git1158+a46db6b0+a46db6bc00-r20250214-sf8008
+Version: 5.9+git1158+a46db6b0+a46db6bc00-r20250215-sf8008
 Depends: libc6 (>= 2.40+git0+7073164add)
 Section: base
 Architecture: sf8008
 Maintainer: oe-alliance team
-MD5Sum: 659aff1f2da5ab0d0d37e50b655a5304
-SHA256sum: 23b6f6dddc72df26b10182b0f58b00d5b8984a306179371685be209249eba727
+MD5Sum: 0cddc3712c561f7cbe909e1cae60213d
+SHA256sum: e86b74948141f6868c30b39af252b1899d34ef783c11861563596504745be164
 Size: 704986
-Filename: oe-alliance-branding_5.9+git1158+a46db6b0+a46db6bc00-r20250214-sf8008_sf8008.ipk
+Filename: oe-alliance-branding_5.9+git1158+a46db6b0+a46db6bc00-r20250215-sf8008_sf8008.ipk
 Source: oe-alliance-branding.bb
-Description: oe-alliance-branding version 5.9+git-r20250214-sf8008
+Description: oe-alliance-branding version 5.9+git-r20250215-sf8008
 OE: oe-alliance-branding
 License: GPL-2.0-or-later
 Priority: optional
@@ -25775,15 +25775,15 @@ License: MIT
 Priority: optional
 
 Package: stb-kodi-sf8008-dbg
-Version: 22.0+gitr0+12245d0921-r0
-Recommends: alsa-lib-dbg, bluez5-dbg, dbus-lib-dbg, exiv2-dbg, freetype-dbg, fribidi-dbg, fstrcmp-dbg, giflib-dbg, glibc-dbg, harfbuzz-dbg, lcms-dbg, libass-dbg, libavahi-client-dbg, libavahi-common-dbg, libavcodec-dbg, libavfilter-dbg, libavformat-dbg, libavutil-dbg, libbluray-dbg, libcap-dbg, libcdio-dbg, libcec-dbg, libcrypto-dbg, libcurl-dbg, libgcc-dbg, libinput-dbg, libiso9660-dbg, libjpeg-turbo-dbg, libmicrohttpd-dbg, libnfs-dbg, libpcre2-dbg, libplist-dbg, libpng-dbg, libpostproc-dbg, libpulse-dbg, libpulse-simple-dbg, libpython3-dbg, libsqlite3-dbg, libstdc++-dbg, libswresample-dbg, libswscale-dbg, libtinyxml-dbg, libtinyxml2-dbg, libudev-dbg, libudfread-dbg, libxkbcommon-dbg, libxml2-dbg, libxslt-dbg, lzo-dbg, octagon-opengl-hisi3798mv200-dbg, taglib-dbg, util-linux-libuuid-dbg, zlib-dbg
+Version: 22.0+gitr0+12245d0921-r2
+Recommends: alsa-lib-dbg, bluez5-dbg, dbus-lib-dbg, exiv2-dbg, freetype-dbg, fribidi-dbg, fstrcmp-dbg, giflib-dbg, glib-2.0-dbg, glibc-dbg, gstreamer1.0-dbg, harfbuzz-dbg, lcms-dbg, libass-dbg, libavahi-client-dbg, libavahi-common-dbg, libavcodec-dbg, libavfilter-dbg, libavformat-dbg, libavutil-dbg, libbluray-dbg, libcap-dbg, libcdio-dbg, libcec-dbg, libcrypto-dbg, libcurl-dbg, libgcc-dbg, libgstpbutils-1.0-dbg, libinput-dbg, libiso9660-dbg, libjpeg-turbo-dbg, libmicrohttpd-dbg, libnfs-dbg, libpcre2-dbg, libplist-dbg, libpng-dbg, libpostproc-dbg, libpulse-dbg, libpulse-simple-dbg, libpython3-dbg, libsqlite3-dbg, libstdc++-dbg, libswresample-dbg, libswscale-dbg, libtinyxml-dbg, libtinyxml2-dbg, libudev-dbg, libudfread-dbg, libxkbcommon-dbg, libxml2-dbg, libxslt-dbg, lzo-dbg, octagon-opengl-hisi3798mv200-dbg, taglib-dbg, util-linux-libuuid-dbg, zlib-dbg
 Section: devel
 Architecture: sf8008
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: d39d934049cf65f5ab7adcff12ae7d5b
-SHA256sum: 5d26d705db42964e8746aaf4899b37554eb3c0ebac1af8de5ec66b42dfd5bcf2
-Size: 223773260
-Filename: stb-kodi-sf8008-dbg_22.0+gitr0+12245d0921-r0_sf8008.ipk
+MD5Sum: 2796a0df1548455ba7a7b950ce7b8b7a
+SHA256sum: f096433f4cf6c246d01b8fd5ebd405860c635cfd49aaa4def28897dd4ba85769
+Size: 224899064
+Filename: stb-kodi-sf8008-dbg_22.0+gitr0+12245d0921-r2_sf8008.ipk
 Source: stb-kodi-sf8008_22.bb
 Description: Kodi Media Center - Debugging files
 OE: stb-kodi-sf8008
@@ -25791,15 +25791,15 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: stb-kodi-sf8008-dev
-Version: 22.0+gitr0+12245d0921-r0
-Recommends: alsa-lib-dev, avahi-dev, bluez5-dev, bzip2-dev, crossguid-dev, curl-dev, dbus-lib-dev, exiv2-dev, faad2-dev, ffmpeg-dev, flatbuffers-dev, fmt-dev, fontconfig-dev, freetype-dev, fribidi-dev, fstrcmp-dev, giflib-dev, glib-2.0-dev, glibc-dev, gstreamer1.0-dev, gstreamer1.0-plugins-base-dev, harfbuzz-dev, lcms-dev, libass-dev, libavahi-client-dev, libavahi-common-dev, libavcodec-dev, libavfilter-dev, libavformat-dev, libavutil-dev, libbluray-dev, libcap-dev, libcdio-dev, libcec-dev, libcrypto-dev, libcurl-dev, libdcadec-dev, libgcc-dev, libinput-dev, libiso9660-dev, libjpeg-turbo-dev, libmicrohttpd-dev, libnfs-dev, libpcre-dev, libpcre2-dev, libplist-dev, libpng-dev, libpostproc-dev, libpulse-dev, libpulse-simple-dev, libpython3-dev, libsqlite3-dev, libsquish-dev, libssh-dev, libstdc++-dev, libswresample-dev, libswscale-dev, libtinyxml-dev, libtinyxml2-dev, libudev-dev, libudfread-dev, libxkbcommon-dev, libxml2-dev, libxslt-dev, lzo-dev, mpeg2dec-dev, octagon-libs-sf8008-dev, octagon-opengl-hisi3798mv200-dev, pulseaudio-dev, python3-dev, rapidjson-dev, samba-dev, spdlog-dev, sqlite3-dev, stb-kodi-sf8008 (= 22.0+gitr0+12245d0921-r0), taglib-dev, util-linux-libuuid-dev, wavpack-dev, zlib-dev
+Version: 22.0+gitr0+12245d0921-r2
+Recommends: alsa-lib-dev, avahi-dev, bluez5-dev, bzip2-dev, crossguid-dev, curl-dev, dbus-lib-dev, exiv2-dev, faad2-dev, ffmpeg-dev, flatbuffers-dev, fmt-dev, fontconfig-dev, freetype-dev, fribidi-dev, fstrcmp-dev, giflib-dev, glib-2.0-dev, glibc-dev, gstreamer1.0-dev, gstreamer1.0-plugins-base-dev, harfbuzz-dev, lcms-dev, libass-dev, libavahi-client-dev, libavahi-common-dev, libavcodec-dev, libavfilter-dev, libavformat-dev, libavutil-dev, libbluray-dev, libcap-dev, libcdio-dev, libcec-dev, libcrypto-dev, libcurl-dev, libdcadec-dev, libgcc-dev, libgstpbutils-1.0-dev, libinput-dev, libiso9660-dev, libjpeg-turbo-dev, libmicrohttpd-dev, libnfs-dev, libpcre-dev, libpcre2-dev, libplist-dev, libpng-dev, libpostproc-dev, libpulse-dev, libpulse-simple-dev, libpython3-dev, libsqlite3-dev, libsquish-dev, libssh-dev, libstdc++-dev, libswresample-dev, libswscale-dev, libtinyxml-dev, libtinyxml2-dev, libudev-dev, libudfread-dev, libxkbcommon-dev, libxml2-dev, libxslt-dev, lzo-dev, mpeg2dec-dev, octagon-libs-sf8008-dev, octagon-opengl-hisi3798mv200-dev, pulseaudio-dev, python3-dev, rapidjson-dev, samba-dev, spdlog-dev, sqlite3-dev, stb-kodi-sf8008 (= 22.0+gitr0+12245d0921-r2), taglib-dev, util-linux-libuuid-dev, wavpack-dev, zlib-dev
 Section: devel
 Architecture: sf8008
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 0b042d63c989b0bbffb2886cf707bab0
-SHA256sum: 35accd3161ec8cf40ea11f08acd9265d8976e4727fb74359d3ee5148bb428414
-Size: 294250
-Filename: stb-kodi-sf8008-dev_22.0+gitr0+12245d0921-r0_sf8008.ipk
+MD5Sum: 177897759258128a29a5ab3f09505d17
+SHA256sum: 3cb743b84016c380b98fa2f937744f4d7a7b6674e60a793d73490e281e790207
+Size: 294258
+Filename: stb-kodi-sf8008-dev_22.0+gitr0+12245d0921-r2_sf8008.ipk
 Source: stb-kodi-sf8008_22.bb
 Description: Kodi Media Center - Development files
 OE: stb-kodi-sf8008
@@ -25807,14 +25807,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: stb-kodi-sf8008-doc
-Version: 22.0+gitr0+12245d0921-r0
+Version: 22.0+gitr0+12245d0921-r2
 Section: doc
 Architecture: sf8008
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 119088d6890b53ec83dfa3330014b452
-SHA256sum: 243d67255f17b24424e8c2f756696eafb7e63c80209c4991e97431864b1b8d9b
-Size: 6922
-Filename: stb-kodi-sf8008-doc_22.0+gitr0+12245d0921-r0_sf8008.ipk
+MD5Sum: 9debcc454f287fef8370ebedcab2d62c
+SHA256sum: b9ddad5116305ff6bc98e99e3902031578e01fbb44c820e52e8bf609775f6372
+Size: 6924
+Filename: stb-kodi-sf8008-doc_22.0+gitr0+12245d0921-r2_sf8008.ipk
 Source: stb-kodi-sf8008_22.bb
 Description: Kodi Media Center - Documentation files
 OE: stb-kodi-sf8008
@@ -25822,17 +25822,17 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: stb-kodi-sf8008
-Version: 22.0+gitr0+12245d0921-r0
-Depends: bluez5 (>= 5.50), exiv2 (>= 0.28.2), fstrcmp (>= 0.7), lcms (>= 2.16), libasound2 (>= 1.2.12), libass9 (>= 0.17.3), libavahi-client3 (>= 0.8), libavahi-common3 (>= 0.8), libavcodec61 (>= 7.0.2), libavfilter10 (>= 7.0.2), libavformat61 (>= 7.0.2), libavutil59 (>= 7.0.2), libbluray (>= v1.3.4+git3051+bb5bc100+bb5bc108ec), libc6 (>= 2.40+git0+7073164add), libcap (>= 2.70), libcdio19 (>= 2.1.0), libcec6 (>= 6.0.2), libcrypto3 (>= 3.3.1), libcurl4 (>= 8.10.1), libdbus-1-3 (>= 1.14.10), libfreetype6 (>= 2.11.0), libfribidi0 (>= 1.0.15), libgcc1 (>= 14.2.0), libgif7 (>= 5.2.2), libharfbuzz0 (>= 9.0.0), libinput10 (>= 1.26.1), libiso9660-11 (>= 2.1.0), libjpeg62 (>= 3.0.1), liblzo2-2 (>= 2.10), libmicrohttpd12 (>= 1.0.1), libnfs11.0.0 (>= 4.0.0+git0+030814506e), libpcre2 (>= 10.44), libplist-2.0-4 (>= 2.3.0+git0+2cd858c679), libpng16-16 (>= 1.6.44), libpostproc58 (>= 7.0.2), libpulse-simple0 (>= 17.0), libpulse0 (>= 17.0), libpython3.12-1.0 (>= 3.12.6), libsqlite3-0 (>= 3.46.1), libstdc++6 (>= 14.2.0), libswresample5 (>= 7.0.2), libswscale8 (>= 7.0.2), libtag2 (>= 2.0.2), libtinyxml2-10 (>= 10.0.0), libtinyxml2.6.2 (>= 2.6.2), libudev1 (>= 3.2.14), libudfread0 (>= 1.0.0+git108+b3e69360+b3e6936a23), libuuid1 (>= 2.40.2), libxkbcommon0 (>= 1.7.0), libxml2 (>= 2.13.3), libxslt (>= 1.1.42), libz1 (>= 1.3.1), octagon-libs-sf8008, octagon-opengl-hisi3798mv200 (>= 1.0)
+Version: 22.0+gitr0+12245d0921-r2
+Depends: bluez5 (>= 5.50), exiv2 (>= 0.28.2), fstrcmp (>= 0.7), gstreamer1.0 (>= 1.24.8), lcms (>= 2.16), libasound2 (>= 1.2.12), libass9 (>= 0.17.3), libavahi-client3 (>= 0.8), libavahi-common3 (>= 0.8), libavcodec61 (>= 7.0.2), libavfilter10 (>= 7.0.2), libavformat61 (>= 7.0.2), libavutil59 (>= 7.0.2), libbluray (>= v1.3.4+git3051+bb5bc100+bb5bc108ec), libc6 (>= 2.40+git0+7073164add), libcap (>= 2.70), libcdio19 (>= 2.1.0), libcec6 (>= 6.0.2), libcrypto3 (>= 3.3.1), libcurl4 (>= 8.10.1), libdbus-1-3 (>= 1.14.10), libfreetype6 (>= 2.11.0), libfribidi0 (>= 1.0.15), libgcc1 (>= 14.2.0), libgif7 (>= 5.2.2), libglib-2.0-0 (>= 2.82.1), libgstpbutils-1.0-0 (>= 1.24.8), libharfbuzz0 (>= 9.0.0), libinput10 (>= 1.26.1), libiso9660-11 (>= 2.1.0), libjpeg62 (>= 3.0.1), liblzo2-2 (>= 2.10), libmicrohttpd12 (>= 1.0.1), libnfs11.0.0 (>= 4.0.0+git0+030814506e), libpcre2 (>= 10.44), libplist-2.0-4 (>= 2.3.0+git0+2cd858c679), libpng16-16 (>= 1.6.44), libpostproc58 (>= 7.0.2), libpulse-simple0 (>= 17.0), libpulse0 (>= 17.0), libpython3.12-1.0 (>= 3.12.6), libsqlite3-0 (>= 3.46.1), libstdc++6 (>= 14.2.0), libswresample5 (>= 7.0.2), libswscale8 (>= 7.0.2), libtag2 (>= 2.0.2), libtinyxml2-10 (>= 10.0.0), libtinyxml2.6.2 (>= 2.6.2), libudev1 (>= 3.2.14), libudfread0 (>= 1.0.0+git108+b3e69360+b3e6936a23), libuuid1 (>= 2.40.2), libxkbcommon0 (>= 1.7.0), libxml2 (>= 2.13.3), libxslt (>= 1.1.42), libz1 (>= 1.3.1), octagon-libs-sf8008, octagon-opengl-hisi3798mv200 (>= 1.0)
 Provides: kodi, virtual-kodi
 Recommends: alsa-plugins, glibc-charmap-ibm437, glibc-charmap-ibm850, glibc-charmap-utf-8, glibc-gconv-ibm437, glibc-gconv-ibm850, glibc-gconv-unicode, glibc-gconv-utf-32, glibc-localedata-en-us, kodi-addon-inputstream-adaptive-piers, kodi-addon-inputstream-rtmp-piers, libcec, libcurl, libnfs, nss, os-release, python3, python3-compression, python3-ctypes, python3-difflib, python3-html, python3-json, python3-mechanize, python3-netclient, python3-profile, python3-pycryptodomex, python3-shell, python3-sqlite3, python3-xmlrpc, tzdata-africa, tzdata-americas, tzdata-antarctica, tzdata-arctic, tzdata-asia, tzdata-atlantic, tzdata-australia, tzdata-europe, tzdata-pacific, xkeyboard-config
 Section: base
 Architecture: sf8008
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 957bf46b3c61f777309836edda8dc94e
-SHA256sum: f8685983c184fa587bc25a8a4fde10655c20bca7fad6f4e9d6c01d53d8b29c76
-Size: 28312826
-Filename: stb-kodi-sf8008_22.0+gitr0+12245d0921-r0_sf8008.ipk
+MD5Sum: ad5719a102d96a87c8e0906042aa75be
+SHA256sum: 4a215183668b9e4f91375492ad49f02f881cdef0dfe7fbb593bb8f922719af6b
+Size: 28361952
+Filename: stb-kodi-sf8008_22.0+gitr0+12245d0921-r2_sf8008.ipk
 Source: stb-kodi-sf8008_22.bb
 Description: Kodi Media Center
 OE: stb-kodi-sf8008
