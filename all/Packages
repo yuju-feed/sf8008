@@ -5788,14 +5788,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: tuxbox-common-dbg
-Version: 1.0+git954+7d122f00+7d122f0bb7-r0
+Version: 1.0+git956+b1584a40+b1584a433e-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Alliance team
-MD5Sum: a070207794a16dc933058e46b5bd1781
-SHA256sum: 021c262de0d7fb1e2b169d3c372c3b5a879075a3f88dfd911539f822bcfcf32c
-Size: 568
-Filename: tuxbox-common-dbg_1.0+git954+7d122f00+7d122f0bb7-r0_all.ipk
+MD5Sum: d4d82cbb7f8d35f3b025c4754f768895
+SHA256sum: 53028b492392fc3b51de17d375f59c56c6cd668765e7525d005838a1cdd54497
+Size: 566
+Filename: tuxbox-common-dbg_1.0+git956+b1584a40+b1584a433e-r0_all.ipk
 Source: tuxbox-common_0.1.1.bb
 Description: Tuxbox common files - Debugging files
 OE: tuxbox-common
@@ -5803,15 +5803,15 @@ License: Proprietary
 Priority: optional
 
 Package: tuxbox-common-dev
-Version: 1.0+git954+7d122f00+7d122f0bb7-r0
-Recommends: tuxbox-common (= 1.0+git954+7d122f00+7d122f0bb7-r0)
+Version: 1.0+git956+b1584a40+b1584a433e-r0
+Recommends: tuxbox-common (= 1.0+git956+b1584a40+b1584a433e-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-Alliance team
-MD5Sum: 8c113676f02ef9cae8b991ee561d13d4
-SHA256sum: b07d64676498d3788bfb62be658e94168f091fec8d250760c9b9e8e02b7ce981
+MD5Sum: ce947227eea60b0bc5d99e4d770c5760
+SHA256sum: f0dc8765a168693757e9e21b348f7c7671c6c62e6e4b7e733c773f64d0462e02
 Size: 604
-Filename: tuxbox-common-dev_1.0+git954+7d122f00+7d122f0bb7-r0_all.ipk
+Filename: tuxbox-common-dev_1.0+git956+b1584a40+b1584a433e-r0_all.ipk
 Source: tuxbox-common_0.1.1.bb
 Description: Tuxbox common files - Development files
 OE: tuxbox-common
@@ -5819,14 +5819,14 @@ License: Proprietary
 Priority: optional
 
 Package: tuxbox-common
-Version: 1.0+git954+7d122f00+7d122f0bb7-r0
+Version: 1.0+git956+b1584a40+b1584a433e-r0
 Section: base
 Architecture: all
 Maintainer: OE-Alliance team
-MD5Sum: 7979c52d63dc2e4e23b351c624e51088
-SHA256sum: a89a844c4c6a818dc830af9634c307e8a98feeb2c2bff2a1e2818f354afb092d
-Size: 79234
-Filename: tuxbox-common_1.0+git954+7d122f00+7d122f0bb7-r0_all.ipk
+MD5Sum: fe7f3f9745cc8e5e695d4acaf00a499e
+SHA256sum: 0905484e0c51ed023a6c0bdad2c2acd3b4dcb39b947cbcbc329f5a58c7c9c46d
+Size: 79246
+Filename: tuxbox-common_1.0+git956+b1584a40+b1584a433e-r0_all.ipk
 Source: tuxbox-common_0.1.1.bb
 Description: Tuxbox common files
 OE: tuxbox-common
