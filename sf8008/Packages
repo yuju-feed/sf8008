@@ -1790,13 +1790,13 @@ Priority: optional
 
 Package: enigma2-plugin-extensions-chromium2-dev
 Version: 5.9-r1
-Recommends: enigma2-plugin-extensions-chromium2 (= 5.9-r1)
+Recommends: enigma2-plugin-extensions-chromium2 (= 5.9-r1), enigma2-plugin-extensions-netflix2-p1-dev, enigma2-plugin-extensions-netflix2-p2-dev
 Section: devel
 Architecture: sf8008
 Maintainer: Chromium
-MD5Sum: fda6552853204aab7e24209c306aa460
-SHA256sum: a011c8df9dc327fae05b97d85bdb18d70187a9e71c02406d87d0d251f61c7183
-Size: 602
+MD5Sum: 23c85042ec9a6ea51b5a7f8871240b9c
+SHA256sum: 29c82bc1293d863956d2d1596fe06ed909e5b2da068bb889191704beb56052ad
+Size: 618
 Filename: enigma2-plugin-extensions-chromium2-dev_5.9-r1_sf8008.ipk
 Source: enigma2-plugin-extensions-chromium2.bb
 Description: Chromium browser and YouTubeTV - Development files
@@ -1806,13 +1806,12 @@ Priority: optional
 
 Package: enigma2-plugin-extensions-chromium2
 Version: 5.9-r1
-Recommends: enigma2-plugin-extensions-netflix2-p1, enigma2-plugin-extensions-netflix2-p2
 Section: base
 Architecture: sf8008
 Maintainer: Chromium
-MD5Sum: 3570a1ca2e3ec7140d6fe67b2765cd08
-SHA256sum: ef6b2f1441105b5dfb6c1b1dd3a7c3cad833484de428322e52592c78be8673ca
-Size: 74648
+MD5Sum: f2cb9683ca31fcdb2723e1075c81c70a
+SHA256sum: 458967d34deaf833f937b76790392c45d8ee7a37fb9794294f3c1a1ea4abccfb
+Size: 74628
 Filename: enigma2-plugin-extensions-chromium2_5.9-r1_sf8008.ipk
 Source: enigma2-plugin-extensions-chromium2.bb
 Description: Chromium browser and YouTubeTV
