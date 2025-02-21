@@ -1774,14 +1774,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-chromium2-dbg
-Version: 5.9-r1
+Version: 5.9-r2
 Section: devel
 Architecture: sf8008
 Maintainer: Chromium
-MD5Sum: e897246ffccc6e8e26daf02f969b1824
-SHA256sum: 102155d3271bf7c973002af8f45b017fc760a31dc5363c4d03ee1b0b282183ba
+MD5Sum: f13e8eae6087cc87442111c5f25c53fa
+SHA256sum: baa0957e17bd57a18bac9dd9dd0a595b54efc988f0673bc4dc1cabd2d85bfc16
 Size: 564
-Filename: enigma2-plugin-extensions-chromium2-dbg_5.9-r1_sf8008.ipk
+Filename: enigma2-plugin-extensions-chromium2-dbg_5.9-r2_sf8008.ipk
 Source: enigma2-plugin-extensions-chromium2.bb
 Description: Chromium browser and YouTubeTV - Debugging files
 OE: enigma2-plugin-extensions-chromium2
@@ -1789,15 +1789,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-chromium2-dev
-Version: 5.9-r1
-Recommends: enigma2-plugin-extensions-chromium2 (= 5.9-r1), enigma2-plugin-extensions-netflix2-p1-dev, enigma2-plugin-extensions-netflix2-p2-dev
+Version: 5.9-r2
+Recommends: enigma2-plugin-extensions-chromium2 (= 5.9-r2), enigma2-plugin-extensions-netflix2-p1-dev, enigma2-plugin-extensions-netflix2-p2-dev
 Section: devel
 Architecture: sf8008
 Maintainer: Chromium
-MD5Sum: 23c85042ec9a6ea51b5a7f8871240b9c
-SHA256sum: 29c82bc1293d863956d2d1596fe06ed909e5b2da068bb889191704beb56052ad
+MD5Sum: 362500dc253094bf321ac278fa3ffce6
+SHA256sum: bc5cc218f6c871d2c1f2e1f459acd647b7f2e4582310e42a8e1dac271b8cce45
 Size: 618
-Filename: enigma2-plugin-extensions-chromium2-dev_5.9-r1_sf8008.ipk
+Filename: enigma2-plugin-extensions-chromium2-dev_5.9-r2_sf8008.ipk
 Source: enigma2-plugin-extensions-chromium2.bb
 Description: Chromium browser and YouTubeTV - Development files
 OE: enigma2-plugin-extensions-chromium2
@@ -1805,14 +1805,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-chromium2
-Version: 5.9-r1
+Version: 5.9-r2
+Depends: enigma2-plugin-extensions-netflix2-p1, enigma2-plugin-extensions-netflix2-p2
 Section: base
 Architecture: sf8008
 Maintainer: Chromium
-MD5Sum: f2cb9683ca31fcdb2723e1075c81c70a
-SHA256sum: 458967d34deaf833f937b76790392c45d8ee7a37fb9794294f3c1a1ea4abccfb
-Size: 74628
-Filename: enigma2-plugin-extensions-chromium2_5.9-r1_sf8008.ipk
+MD5Sum: d1e91c00dd28272faddf96dddae012ff
+SHA256sum: b591f21feb1acc3c77ba73112eec7d89576281ddcf4d44fbf6424fedf57b6761
+Size: 74646
+Filename: enigma2-plugin-extensions-chromium2_5.9-r2_sf8008.ipk
 Source: enigma2-plugin-extensions-chromium2.bb
 Description: Chromium browser and YouTubeTV
 OE: enigma2-plugin-extensions-chromium2
@@ -3923,15 +3924,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-netflix2-p1-dbg
-Version: 5.9-r1
+Version: 5.9-r2
 Recommends: glibc-dbg, libgcc-dbg
 Section: devel
 Architecture: sf8008
 Maintainer: Chromium
-MD5Sum: 12a207d007a25928f9ef33a05d575611
-SHA256sum: 199bcea37db765c45e3dcc840f819213f5803724ccdc8ae85d733992485a47dc
+MD5Sum: 0575136df9a0069cc25c262c27814e56
+SHA256sum: 94db26c05f9cce130dd7f203ec37f9b7da1fa3b56b5d43e09b2e08d384dafed2
 Size: 576
-Filename: enigma2-plugin-extensions-netflix2-p1-dbg_5.9-r1_sf8008.ipk
+Filename: enigma2-plugin-extensions-netflix2-p1-dbg_5.9-r2_sf8008.ipk
 Source: enigma2-plugin-extensions-netflix2-p1.bb
 Description: Netflix - Debugging files
 OE: enigma2-plugin-extensions-netflix2-p1
@@ -3939,15 +3940,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-netflix2-p1-dev
-Version: 5.9-r1
-Recommends: enigma2-plugin-extensions-netflix2-p1 (= 5.9-r1), glibc-dev, libgcc-dev
+Version: 5.9-r2
+Recommends: enigma2-plugin-extensions-netflix2-p1 (= 5.9-r2), glibc-dev, libgcc-dev
 Section: devel
 Architecture: sf8008
 Maintainer: Chromium
-MD5Sum: 97bba61277a093cde597c5fae034aa31
-SHA256sum: 2080b5497cd48dc6be163d0cfaf52c5a7c9532ccd86518ff80371c1198d69b3e
-Size: 604
-Filename: enigma2-plugin-extensions-netflix2-p1-dev_5.9-r1_sf8008.ipk
+MD5Sum: 220b15f33604dad636076dd56b104370
+SHA256sum: 5afc82f708f9be543c66d40ae204bcda30b57b314c4df8031aab66ece82830a7
+Size: 606
+Filename: enigma2-plugin-extensions-netflix2-p1-dev_5.9-r2_sf8008.ipk
 Source: enigma2-plugin-extensions-netflix2-p1.bb
 Description: Netflix - Development files
 OE: enigma2-plugin-extensions-netflix2-p1
@@ -3955,15 +3956,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-netflix2-p1
-Version: 5.9-r1
+Version: 5.9-r2
 Depends: libc6 (>= 2.40+git0+7073164add), libgcc1 (>= 14.2.0)
 Section: base
 Architecture: sf8008
 Maintainer: Chromium
-MD5Sum: 6d7c9c67847985c9efa79baab6e2e967
-SHA256sum: 478732d69450ff11a81ca497299f5b5badc9d025f3af6eab80083427e4edeabd
+MD5Sum: 339c3ddac8b48c56e429f7020533a47f
+SHA256sum: 5c8733d40435346d68641d575903f5b9515e645c4ae00144f47d4549dae2268c
 Size: 96546184
-Filename: enigma2-plugin-extensions-netflix2-p1_5.9-r1_sf8008.ipk
+Filename: enigma2-plugin-extensions-netflix2-p1_5.9-r2_sf8008.ipk
 Source: enigma2-plugin-extensions-netflix2-p1.bb
 Description: Netflix
 OE: enigma2-plugin-extensions-netflix2-p1
@@ -3971,15 +3972,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-netflix2-p2-dbg
-Version: 5.9-r1
+Version: 5.9-r2
 Recommends: glibc-dbg, libgcc-dbg
 Section: devel
 Architecture: sf8008
 Maintainer: Chromium
-MD5Sum: 3956c26b8d05faedf94d46ac204d919c
-SHA256sum: 1e10e319f34b19e26667ac874f48bc6d7befbd72de47e0fc383e3c9baca73c80
+MD5Sum: 8c7c42f21fbac92de7d85413182802c3
+SHA256sum: 5f70b2b0c66081b38fd672d4bcaaeb4d1ca78509ac3d6911fde18ef9f34cca3b
 Size: 576
-Filename: enigma2-plugin-extensions-netflix2-p2-dbg_5.9-r1_sf8008.ipk
+Filename: enigma2-plugin-extensions-netflix2-p2-dbg_5.9-r2_sf8008.ipk
 Source: enigma2-plugin-extensions-netflix2-p2.bb
 Description: Netflix - Debugging files
 OE: enigma2-plugin-extensions-netflix2-p2
@@ -3987,15 +3988,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-netflix2-p2-dev
-Version: 5.9-r1
-Recommends: enigma2-plugin-extensions-netflix2-p2 (= 5.9-r1), glibc-dev, libgcc-dev
+Version: 5.9-r2
+Recommends: enigma2-plugin-extensions-netflix2-p2 (= 5.9-r2), glibc-dev, libgcc-dev
 Section: devel
 Architecture: sf8008
 Maintainer: Chromium
-MD5Sum: e987f97ea20c5943e72420faa7f2c26c
-SHA256sum: 4293e70972667399414a601fddd05d64740534b405faa8336de609e76f85f9fb
+MD5Sum: 65bf1891da20024582f906862a4de073
+SHA256sum: 8df642fc7f7037df2aa26fe5efe3adbf8bb9767d656c8a55d69997fdc0f83b29
 Size: 606
-Filename: enigma2-plugin-extensions-netflix2-p2-dev_5.9-r1_sf8008.ipk
+Filename: enigma2-plugin-extensions-netflix2-p2-dev_5.9-r2_sf8008.ipk
 Source: enigma2-plugin-extensions-netflix2-p2.bb
 Description: Netflix - Development files
 OE: enigma2-plugin-extensions-netflix2-p2
@@ -4003,15 +4004,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-netflix2-p2
-Version: 5.9-r1
+Version: 5.9-r2
 Depends: libc6 (>= 2.40+git0+7073164add), libgcc1 (>= 14.2.0)
 Section: base
 Architecture: sf8008
 Maintainer: Chromium
-MD5Sum: 87d281950e77dd0709ba375b26a7f812
-SHA256sum: 5fd116268e538a9806c9364f9f5098ef98dd36240b375d2e7095362bfa614203
+MD5Sum: b24e0812d4eeba590344d017377c67dd
+SHA256sum: bdcb7c2ab4550ea6914d54f0c285b65049afaa6d4cca50f0e2556ef71e45e994
 Size: 12760890
-Filename: enigma2-plugin-extensions-netflix2-p2_5.9-r1_sf8008.ipk
+Filename: enigma2-plugin-extensions-netflix2-p2_5.9-r2_sf8008.ipk
 Source: enigma2-plugin-extensions-netflix2-p2.bb
 Description: Netflix
 OE: enigma2-plugin-extensions-netflix2-p2
