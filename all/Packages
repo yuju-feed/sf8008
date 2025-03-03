@@ -2996,100 +2996,6 @@ OE: enigma2-plugin-drivers-network-usb-rtl8822cu
 License: GPL-2.0-or-later
 Priority: optional
 
-Package: enigma2-plugin-drivers-network-usb-rtl8852cu-dbg
-Version: 1.0-r0
-Section: devel
-Architecture: all
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 21962ed76795ee63ef2169e1a2d819f6
-SHA256sum: f821347500d1c00e58751a50a18882c960585b10df3dc3b9c486040c73502a99
-Size: 618
-Filename: enigma2-plugin-drivers-network-usb-rtl8852cu-dbg_1.0-r0_all.ipk
-Source: enigma2-plugin-drivers-network-usb-rtl8852cu.bb
-Description: WiFi devices for Realtek 8852CU chipsets. - Debugging files
-OE: enigma2-plugin-drivers-network-usb-rtl8852cu
-License: GPL-2.0-or-later
-Priority: optional
-
-Package: enigma2-plugin-drivers-network-usb-rtl8852cu-dev
-Version: 1.0-r0
-Recommends: enigma2-plugin-drivers-network-usb-rtl8852cu (= 1.0-r0)
-Section: devel
-Architecture: all
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 60a35bf4a38c191cae57e1e7c30b8a52
-SHA256sum: 7fb46edea186aa9cdd3bbf0bd12f5a8ead8d64450d1948179b55975ff090bbd4
-Size: 652
-Filename: enigma2-plugin-drivers-network-usb-rtl8852cu-dev_1.0-r0_all.ipk
-Source: enigma2-plugin-drivers-network-usb-rtl8852cu.bb
-Description: WiFi devices for Realtek 8852CU chipsets. - Development files
-OE: enigma2-plugin-drivers-network-usb-rtl8852cu
-License: GPL-2.0-or-later
-Priority: optional
-
-Package: enigma2-plugin-drivers-network-usb-rtl8852cu
-Version: 1.0-r0
-Recommends: rtl8852cu
-Section: base
-Architecture: all
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 8c7ba4a2551afd3d73cce8597e59a724
-SHA256sum: 5371a78d31358fcdb3b20297088991a497313b57ca165e3a3a08b3860c819a2a
-Size: 564
-Filename: enigma2-plugin-drivers-network-usb-rtl8852cu_1.0-r0_all.ipk
-Source: enigma2-plugin-drivers-network-usb-rtl8852cu.bb
-Description: WiFi devices for Realtek 8852CU chipsets.
-OE: enigma2-plugin-drivers-network-usb-rtl8852cu
-License: GPL-2.0-or-later
-Priority: optional
-
-Package: enigma2-plugin-drivers-network-usb-rtl88xxau-dbg
-Version: 1.0-r0
-Section: devel
-Architecture: all
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 6da44f395d2ee2f3cd757d0bde4e05aa
-SHA256sum: 5077719b44e8f06397c180e13f3523f0d3a100618e2fe1df85ca2e6c8fe351af
-Size: 618
-Filename: enigma2-plugin-drivers-network-usb-rtl88xxau-dbg_1.0-r0_all.ipk
-Source: enigma2-plugin-drivers-network-usb-rtl88xxau.bb
-Description: WiFi devices for Realtek 88xxAU chipsets. - Debugging files
-OE: enigma2-plugin-drivers-network-usb-rtl88xxau
-License: GPL-2.0-or-later
-Priority: optional
-
-Package: enigma2-plugin-drivers-network-usb-rtl88xxau-dev
-Version: 1.0-r0
-Recommends: enigma2-plugin-drivers-network-usb-rtl88xxau (= 1.0-r0)
-Section: devel
-Architecture: all
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 1f1472a901caf8217143d372cde2e808
-SHA256sum: 5aa183b92d5fc23374053ff6923df7af0b27472acf37ac5334aeb35e8cd9189f
-Size: 652
-Filename: enigma2-plugin-drivers-network-usb-rtl88xxau-dev_1.0-r0_all.ipk
-Source: enigma2-plugin-drivers-network-usb-rtl88xxau.bb
-Description: WiFi devices for Realtek 88xxAU chipsets. - Development files
-OE: enigma2-plugin-drivers-network-usb-rtl88xxau
-License: GPL-2.0-or-later
-Priority: optional
-
-Package: enigma2-plugin-drivers-network-usb-rtl88xxau
-Version: 1.0-r0
-Recommends: rtl88xxau
-Section: base
-Architecture: all
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 4d46c335f3e911644e026c4714973902
-SHA256sum: b14315272e4d5217eb8a8673847b6f7b8c2a178afce1253b9f0c33c98c82ed81
-Size: 564
-Filename: enigma2-plugin-drivers-network-usb-rtl88xxau_1.0-r0_all.ipk
-Source: enigma2-plugin-drivers-network-usb-rtl88xxau.bb
-Description: WiFi devices for Realtek 88xxAU chipsets.
-OE: enigma2-plugin-drivers-network-usb-rtl88xxau
-License: GPL-2.0-or-later
-Priority: optional
-
 Package: enigma2-plugin-drivers-network-usb-smsc75xx-dbg
 Version: 1.0-r0
 Section: devel
@@ -3680,14 +3586,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-xklass-dbg
-Version: 1.34-20250204-git80+cf40deb0+cf40debd24-r1
+Version: 1.37-20250227-git82+f8e1a510+f8e1a512e2-r1
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 5c8c7dde31e57fb0723b2d75e4a68603
-SHA256sum: b36577525b9ae9b15bab4a641046dd4dddc443e170128c69f4f804d4fe893999
+MD5Sum: 370b2ece6edbd0064ec8887ebc9f284e
+SHA256sum: 93bb853d335d3617acf9b6cb971b4870263de4135c23c6f627d482d03a6a7067
 Size: 642
-Filename: enigma2-plugin-extensions-xklass-dbg_1.34-20250204-git80+cf40deb0+cf40debd24-r1_all.ipk
+Filename: enigma2-plugin-extensions-xklass-dbg_1.37-20250227-git82+f8e1a510+f8e1a512e2-r1_all.ipk
 Source: enigma2-plugin-extensions-xklass.bb
 Description: Enigma2 plugin for playing official Xtream Codes IPTV playlists. - Debugging files
 OE: enigma2-plugin-extensions-xklass
@@ -3696,15 +3602,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-xklass-dev
-Version: 1.34-20250204-git80+cf40deb0+cf40debd24-r1
-Recommends: enigma2-plugin-extensions-xklass (= 1.34-20250204-git80+cf40deb0+cf40debd24-r1), python3-pillow-dev, python3-requests-dev, wget-dev
+Version: 1.37-20250227-git82+f8e1a510+f8e1a512e2-r1
+Recommends: enigma2-plugin-extensions-xklass (= 1.37-20250227-git82+f8e1a510+f8e1a512e2-r1), python3-pillow-dev, python3-requests-dev, wget-dev
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 4938ece78d231f17c7455aa3288a3b41
-SHA256sum: 62f71249db7bfff0f4a7063ddda08062b77ff2179f0d075b6acaf6a035c314cf
+MD5Sum: 945fbd3105276cd6d7b1e0ad0ca0bab4
+SHA256sum: a434d3038e203bfc028f103b4fc13e3fdc17ec0387e1c29ac68d22dbcbc91f5f
 Size: 708
-Filename: enigma2-plugin-extensions-xklass-dev_1.34-20250204-git80+cf40deb0+cf40debd24-r1_all.ipk
+Filename: enigma2-plugin-extensions-xklass-dev_1.37-20250227-git82+f8e1a510+f8e1a512e2-r1_all.ipk
 Source: enigma2-plugin-extensions-xklass.bb
 Description: Enigma2 plugin for playing official Xtream Codes IPTV playlists. - Development files
 OE: enigma2-plugin-extensions-xklass
@@ -3713,14 +3619,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-xklass-src
-Version: 1.34-20250204-git80+cf40deb0+cf40debd24-r1
+Version: 1.37-20250227-git82+f8e1a510+f8e1a512e2-r1
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 4210296e32268a1ee1ccd73cce529b65
-SHA256sum: aed4ba671ca9d970ad67f9da84ab4a5574e3f959eb3a45ccc8b16570dd5ce03d
-Size: 97672
-Filename: enigma2-plugin-extensions-xklass-src_1.34-20250204-git80+cf40deb0+cf40debd24-r1_all.ipk
+MD5Sum: bf803d8e2c51bea02c8c476475c2670b
+SHA256sum: 9909aab12df41c6943b16ce4ca2d7fed2ab7b63bcce302aaf2c57891fe3446dc
+Size: 101260
+Filename: enigma2-plugin-extensions-xklass-src_1.37-20250227-git82+f8e1a510+f8e1a512e2-r1_all.ipk
 Source: enigma2-plugin-extensions-xklass.bb
 Description: Enigma2 plugin for playing official Xtream Codes IPTV playlists. - Source files
 OE: enigma2-plugin-extensions-xklass
@@ -3729,15 +3635,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-xklass
-Version: 1.34-20250204-git80+cf40deb0+cf40debd24-r1
+Version: 1.37-20250227-git82+f8e1a510+f8e1a512e2-r1
 Depends: python3-pillow, python3-requests, wget
 Section: base
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 149052aa6388a5e95dad42f7ed5848af
-SHA256sum: b8f52dc33db158aac21a3359c3cfe700623b2e2c7cb80b8dfc319721e12f0793
-Size: 5735722
-Filename: enigma2-plugin-extensions-xklass_1.34-20250204-git80+cf40deb0+cf40debd24-r1_all.ipk
+MD5Sum: 2ad19398f0803055216d23e6cec39b48
+SHA256sum: a2dee3fc6d9d85676a72a70d49900aab58c761ad30d685d50f7587db1d0b098d
+Size: 5773540
+Filename: enigma2-plugin-extensions-xklass_1.37-20250227-git82+f8e1a510+f8e1a512e2-r1_all.ipk
 Source: enigma2-plugin-extensions-xklass.bb
 Description: Enigma2 plugin for playing official Xtream Codes IPTV playlists.
 OE: enigma2-plugin-extensions-xklass
@@ -4081,14 +3987,14 @@ License: GPL-2.0-or-later
 Priority: required
 
 Package: enigma2-plugin-skins-pli-hd-dbg
-Version: 0.1+git46+16f75910+16f7591ca5-r0
+Version: 0.1+git48+85a2a4f0+85a2a4f22b-r0
 Section: devel
 Architecture: all
 Maintainer: littlesat
-MD5Sum: e598de660b14b746c364a54adbffffbe
-SHA256sum: 283ffec0345d559bec018e8c8c81ee9a0fdf4fe3f17905e2512440bd23a8d25b
+MD5Sum: 7a2d951aa417661ed506dfb57f710f95
+SHA256sum: 045d59a0f3156c12e7f995fdd826d153250e2551e3a7be2a54c14510ebde38ec
 Size: 564
-Filename: enigma2-plugin-skins-pli-hd-dbg_0.1+git46+16f75910+16f7591ca5-r0_all.ipk
+Filename: enigma2-plugin-skins-pli-hd-dbg_0.1+git48+85a2a4f0+85a2a4f22b-r0_all.ipk
 Source: enigma2-plugin-skins-pli-hd.bb
 Description: PLi HD skin - Debugging files
 OE: enigma2-plugin-skins-pli-hd
@@ -4096,15 +4002,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-skins-pli-hd-dev
-Version: 0.1+git46+16f75910+16f7591ca5-r0
-Recommends: enigma2-plugin-skins-pli-hd (= 0.1+git46+16f75910+16f7591ca5-r0)
+Version: 0.1+git48+85a2a4f0+85a2a4f22b-r0
+Recommends: enigma2-plugin-skins-pli-hd (= 0.1+git48+85a2a4f0+85a2a4f22b-r0)
 Section: devel
 Architecture: all
 Maintainer: littlesat
-MD5Sum: 843fa0cd681725b299629aa8973c1750
-SHA256sum: 42f247f2d24241f32f91e753c018c3eaa3c02d0914424bdb1e748a640bdfed5f
-Size: 602
-Filename: enigma2-plugin-skins-pli-hd-dev_0.1+git46+16f75910+16f7591ca5-r0_all.ipk
+MD5Sum: 601da30edb9c5767561d61935236ba1f
+SHA256sum: a54a2813f635860ea8cc0a66af559cf312a6585fe05f75c468c3116c0e6bad7c
+Size: 604
+Filename: enigma2-plugin-skins-pli-hd-dev_0.1+git48+85a2a4f0+85a2a4f22b-r0_all.ipk
 Source: enigma2-plugin-skins-pli-hd.bb
 Description: PLi HD skin - Development files
 OE: enigma2-plugin-skins-pli-hd
@@ -4112,14 +4018,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-skins-pli-hd
-Version: 0.1+git46+16f75910+16f7591ca5-r0
+Version: 0.1+git48+85a2a4f0+85a2a4f22b-r0
 Section: base
 Architecture: all
 Maintainer: littlesat
-MD5Sum: c9c2d8d98907a462fdc6fa36c34908fe
-SHA256sum: bd14f2d520b55bdc2ceac1d0782685acdeb4f188b5edea060d7a7349e6fad524
-Size: 818812
-Filename: enigma2-plugin-skins-pli-hd_0.1+git46+16f75910+16f7591ca5-r0_all.ipk
+MD5Sum: ef4f37f6371cf5f20dfc6a23a7e9a532
+SHA256sum: c0484a1d8d314d8f680ac2cc376d306bab1bb44665861de40ace69c800b17886
+Size: 818848
+Filename: enigma2-plugin-skins-pli-hd_0.1+git48+85a2a4f0+85a2a4f22b-r0_all.ipk
 Source: enigma2-plugin-skins-pli-hd.bb
 Description: PLi HD skin
 OE: enigma2-plugin-skins-pli-hd
@@ -5450,14 +5356,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: openresolv-dbg
-Version: 3.13.2+git406+655c56f0+655c56fcf1-r0
+Version: 3.13.2+git407+53794890+537948981b-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 86979d887674d39c6d631663c8b37029
-SHA256sum: 6830d2a87f82b0c6d757c97179dcd0fd3228122b2f75059767281c792797216a
-Size: 646
-Filename: openresolv-dbg_3.13.2+git406+655c56f0+655c56fcf1-r0_all.ipk
+MD5Sum: 2873af25ec7609bede9d03041f30306b
+SHA256sum: 7d476176d115351362b6f5d37c45ad14905acca0fa8a7f8073803879bbf03915
+Size: 648
+Filename: openresolv-dbg_3.13.2+git407+53794890+537948981b-r0_all.ipk
 Source: openresolv_git.bb
 Description: management framework for resolv.conf - Debugging files
 OE: openresolv
@@ -5466,15 +5372,15 @@ License: BSD-2-Clause
 Priority: optional
 
 Package: openresolv-dev
-Version: 3.13.2+git406+655c56f0+655c56fcf1-r0
-Recommends: openresolv (= 3.13.2+git406+655c56f0+655c56fcf1-r0)
+Version: 3.13.2+git407+53794890+537948981b-r0
+Recommends: openresolv (= 3.13.2+git407+53794890+537948981b-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: defd9a273f5dd984a793b67fb34833e4
-SHA256sum: 9e7b9638b9ea94ed85bf8d55ec6b122dac71bda8deba688450794769e8f2dddb
+MD5Sum: 8c7b7c3da745b110a321412e8eebdc83
+SHA256sum: b3c9684e7b5fbab24786c41fb8f1e9685e1c6015e376f6232a9554956e793f5b
 Size: 676
-Filename: openresolv-dev_3.13.2+git406+655c56f0+655c56fcf1-r0_all.ipk
+Filename: openresolv-dev_3.13.2+git407+53794890+537948981b-r0_all.ipk
 Source: openresolv_git.bb
 Description: management framework for resolv.conf - Development files
 OE: openresolv
@@ -5483,14 +5389,14 @@ License: BSD-2-Clause
 Priority: optional
 
 Package: openresolv-doc
-Version: 3.13.2+git406+655c56f0+655c56fcf1-r0
+Version: 3.13.2+git407+53794890+537948981b-r0
 Section: doc
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: f282283a7478b9c8d5267fa95ca5f3eb
-SHA256sum: c98bec37648d82a188e6ef82b715394de99a96d5a6ab5c85ab6ccf86657c3f5a
-Size: 7788
-Filename: openresolv-doc_3.13.2+git406+655c56f0+655c56fcf1-r0_all.ipk
+MD5Sum: 179e4f96d62bc488fa68fb8fc757b5f0
+SHA256sum: 2c9633f1c8e7278800b9d57075cc051051f75af6ad76c570684b1abe327d42a4
+Size: 7792
+Filename: openresolv-doc_3.13.2+git407+53794890+537948981b-r0_all.ipk
 Source: openresolv_git.bb
 Description: management framework for resolv.conf - Documentation files
 OE: openresolv
@@ -5499,16 +5405,16 @@ License: BSD-2-Clause
 Priority: optional
 
 Package: openresolv
-Version: 3.13.2+git406+655c56f0+655c56fcf1-r0
+Version: 3.13.2+git407+53794890+537948981b-r0
 Provides: resolvconf
 Conflicts: resolvconf
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: bc719075b4b003e72fbff4f982627817
-SHA256sum: 4eb6441d89d4113bf679fdb636c68d85c3d4a073eea8a227d382d60ebcc140a5
-Size: 15518
-Filename: openresolv_3.13.2+git406+655c56f0+655c56fcf1-r0_all.ipk
+MD5Sum: 9fa8e27b4a661197840e35e1d72675f8
+SHA256sum: aa12e1eab1947d5a7983c111dd06fcd63bf70f09e758aadff36b5209a7f5fb4b
+Size: 15522
+Filename: openresolv_3.13.2+git407+53794890+537948981b-r0_all.ipk
 Source: openresolv_git.bb
 Description: management framework for resolv.conf
 OE: openresolv
@@ -5788,14 +5694,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: tuxbox-common-dbg
-Version: 1.0+git956+b1584a40+b1584a433e-r0
+Version: 1.0+git958+977880d0+977880d0dd-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Alliance team
-MD5Sum: d4d82cbb7f8d35f3b025c4754f768895
-SHA256sum: 53028b492392fc3b51de17d375f59c56c6cd668765e7525d005838a1cdd54497
+MD5Sum: 862b4bea924541828cc9043c73ebc613
+SHA256sum: 00746fb7283b4cd2d6c6631b4014bf1c244cdff9b46bdbcd4a9ad6d92486dbd9
 Size: 566
-Filename: tuxbox-common-dbg_1.0+git956+b1584a40+b1584a433e-r0_all.ipk
+Filename: tuxbox-common-dbg_1.0+git958+977880d0+977880d0dd-r0_all.ipk
 Source: tuxbox-common_0.1.1.bb
 Description: Tuxbox common files - Debugging files
 OE: tuxbox-common
@@ -5803,15 +5709,15 @@ License: Proprietary
 Priority: optional
 
 Package: tuxbox-common-dev
-Version: 1.0+git956+b1584a40+b1584a433e-r0
-Recommends: tuxbox-common (= 1.0+git956+b1584a40+b1584a433e-r0)
+Version: 1.0+git958+977880d0+977880d0dd-r0
+Recommends: tuxbox-common (= 1.0+git958+977880d0+977880d0dd-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-Alliance team
-MD5Sum: ce947227eea60b0bc5d99e4d770c5760
-SHA256sum: f0dc8765a168693757e9e21b348f7c7671c6c62e6e4b7e733c773f64d0462e02
+MD5Sum: 6d9f084cbfd816824d0535cd712a7c8c
+SHA256sum: c0abcbc8a752e0388de2aa25ec64676a2b56820e6d33747a1a540ca437f9b227
 Size: 604
-Filename: tuxbox-common-dev_1.0+git956+b1584a40+b1584a433e-r0_all.ipk
+Filename: tuxbox-common-dev_1.0+git958+977880d0+977880d0dd-r0_all.ipk
 Source: tuxbox-common_0.1.1.bb
 Description: Tuxbox common files - Development files
 OE: tuxbox-common
@@ -5819,14 +5725,14 @@ License: Proprietary
 Priority: optional
 
 Package: tuxbox-common
-Version: 1.0+git956+b1584a40+b1584a433e-r0
+Version: 1.0+git958+977880d0+977880d0dd-r0
 Section: base
 Architecture: all
 Maintainer: OE-Alliance team
-MD5Sum: fe7f3f9745cc8e5e695d4acaf00a499e
-SHA256sum: 0905484e0c51ed023a6c0bdad2c2acd3b4dcb39b947cbcbc329f5a58c7c9c46d
-Size: 79246
-Filename: tuxbox-common_1.0+git956+b1584a40+b1584a433e-r0_all.ipk
+MD5Sum: 1db6dd4599345ec69b0fc4eb9bad8165
+SHA256sum: 676c86c565f270663784c6d34a5cd395b76ddd8099a6ac9fc6819cf7de8a395e
+Size: 79162
+Filename: tuxbox-common_1.0+git958+977880d0+977880d0dd-r0_all.ipk
 Source: tuxbox-common_0.1.1.bb
 Description: Tuxbox common files
 OE: tuxbox-common
