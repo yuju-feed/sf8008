@@ -4955,14 +4955,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-m3uiptv-dbg
-Version: 1.0+git459+0e5eddb0+0e5eddbe85-r0
+Version: 1.0+git462+79be7530+79be753687-r0
 Section: devel
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: c7a07156508cb53869b20fc4aac7d888
-SHA256sum: 88d749b0c76c5b92240ccac3b1d289fb15a585c632663f64967194479eb0aad6
-Size: 622
-Filename: enigma2-plugin-systemplugins-m3uiptv-dbg_1.0+git459+0e5eddb0+0e5eddbe85-r0_all.ipk
+MD5Sum: 99d70f6b4b184aab73117f8742f19fe2
+SHA256sum: b7c7203077dd81f50f418613c3d0dcff79e5856b7da6688b871404f88b854bf8
+Size: 624
+Filename: enigma2-plugin-systemplugins-m3uiptv-dbg_1.0+git462+79be7530+79be753687-r0_all.ipk
 Source: enigma2-plugin-systemplugins-m3uiptv.bb
 Description: enigma2-plugin-systemplugins-m3uiptv version 1.0+git-r0 - Debugging files
 OE: enigma2-plugin-systemplugins-m3uiptv
@@ -4971,15 +4971,15 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-m3uiptv-dev
-Version: 1.0+git459+0e5eddb0+0e5eddbe85-r0
-Recommends: enigma2-plugin-systemplugins-m3uiptv (= 1.0+git459+0e5eddb0+0e5eddbe85-r0), python3-multiprocessing-dev, python3-requests-dev, python3-zoneinfo-dev
+Version: 1.0+git462+79be7530+79be753687-r0
+Recommends: enigma2-plugin-systemplugins-m3uiptv (= 1.0+git462+79be7530+79be753687-r0), python3-multiprocessing-dev, python3-requests-dev, python3-zoneinfo-dev
 Section: devel
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: c10c204a225aa697ea496de4d518e5f7
-SHA256sum: bf8128054ce885f9885289c0e3976a1e392a9a39e8b3b5db2356e9584f1b3560
-Size: 694
-Filename: enigma2-plugin-systemplugins-m3uiptv-dev_1.0+git459+0e5eddb0+0e5eddbe85-r0_all.ipk
+MD5Sum: d0af018fd6cad0f8b3b924366feaad10
+SHA256sum: f7c29ffb8498740997591b598483d17ed8cee8e002ab8176beb4512844b98715
+Size: 696
+Filename: enigma2-plugin-systemplugins-m3uiptv-dev_1.0+git462+79be7530+79be753687-r0_all.ipk
 Source: enigma2-plugin-systemplugins-m3uiptv.bb
 Description: enigma2-plugin-systemplugins-m3uiptv version 1.0+git-r0 - Development files
 OE: enigma2-plugin-systemplugins-m3uiptv
@@ -4988,14 +4988,14 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-m3uiptv-src
-Version: 1.0+git459+0e5eddb0+0e5eddbe85-r0
+Version: 1.0+git462+79be7530+79be753687-r0
 Section: devel
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: 587e600a9056d6701523daffa14fee58
-SHA256sum: ddbee76fc5eefb5f6aaa7b5699cfbb148050896998ff0575c6050ed6a44e6869
-Size: 57826
-Filename: enigma2-plugin-systemplugins-m3uiptv-src_1.0+git459+0e5eddb0+0e5eddbe85-r0_all.ipk
+MD5Sum: 1f47e5cad0a50306e184e8a7fd872fda
+SHA256sum: 411bec0c5f5afa18fe7c0ee3cdaa0c8e48cbf0cb39ca0eafbc95c0533eeb24f8
+Size: 57866
+Filename: enigma2-plugin-systemplugins-m3uiptv-src_1.0+git462+79be7530+79be753687-r0_all.ipk
 Source: enigma2-plugin-systemplugins-m3uiptv.bb
 Description: enigma2-plugin-systemplugins-m3uiptv version 1.0+git-r0 - Source files
 OE: enigma2-plugin-systemplugins-m3uiptv
@@ -5004,15 +5004,15 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-m3uiptv
-Version: 1.0+git459+0e5eddb0+0e5eddbe85-r0
+Version: 1.0+git462+79be7530+79be753687-r0
 Depends: python3-multiprocessing, python3-requests, python3-zoneinfo
 Section: base
 Architecture: all
 Maintainer: DimitarCC
-MD5Sum: 027cd9d19622271a021767af0ca18cd4
-SHA256sum: 85e9dc01a3e45e0b49bb14206877672d8023b4214818ac794e7578a48e932d9e
-Size: 232414
-Filename: enigma2-plugin-systemplugins-m3uiptv_1.0+git459+0e5eddb0+0e5eddbe85-r0_all.ipk
+MD5Sum: b053ceb7a5b63187658772b1f771eda2
+SHA256sum: a85082f4096f116ed4867f1e5db4d49e48beda9c6381cabe28192e486ef9bc0c
+Size: 233566
+Filename: enigma2-plugin-systemplugins-m3uiptv_1.0+git462+79be7530+79be753687-r0_all.ipk
 Source: enigma2-plugin-systemplugins-m3uiptv.bb
 Description: enigma2-plugin-systemplugins-m3uiptv version 1.0+git-r0
 OE: enigma2-plugin-systemplugins-m3uiptv
@@ -5968,6 +5968,56 @@ Source: font-valis-enigma.bb
 Description: font-valis-enigma
 OE: font-valis-enigma
 HomePage: https://gisclub.tv
+License: GPL-2.0-or-later
+Priority: optional
+
+Package: gnome-common-dbg
+Version: 3.18.0-r0
+Section: devel
+Architecture: all
+Maintainer: OpenFIX
+MD5Sum: 082190fbda9a9ec6efe3430105b09e8b
+SHA256sum: b9b65ee386bf958f72b4208a6d38a743839fb88f2725d9817d1686cdeb0bef86
+Size: 590
+Filename: gnome-common-dbg_3.18.0-r0_all.ipk
+Source: gnome-common_3.18.0.bb
+Description: Common macros for building GNOME applications - Debugging files
+OE: gnome-common
+HomePage: http://www.gnome.org/
+License: GPL-2.0-or-later
+Priority: optional
+
+Package: gnome-common-dev
+Version: 3.18.0-r0
+Recommends: autoconf-archive-dev, gnome-common (= 3.18.0-r0)
+Section: devel
+Architecture: all
+Maintainer: OpenFIX
+MD5Sum: d14ccb55c7c1e39c17883904bca2f89b
+SHA256sum: 78458e1cdc362b5f521bd967a88db50003e3ce420dc5c2e0f777062f7c2337ac
+Size: 642
+Filename: gnome-common-dev_3.18.0-r0_all.ipk
+Source: gnome-common_3.18.0.bb
+Description: Common macros for building GNOME applications - Development files
+OE: gnome-common
+HomePage: http://www.gnome.org/
+License: GPL-2.0-or-later
+Priority: optional
+
+Package: gnome-common
+Version: 3.18.0-r0
+Depends: autoconf-archive
+Section: x11/gnome
+Architecture: all
+Maintainer: OpenFIX
+MD5Sum: c92f562741601788c23ca4dd4042c854
+SHA256sum: df74e4599e07d34bb8cddcf20a82e93e91230c2d903ee6ccbb5e13d735ae0dd2
+Size: 7708
+Filename: gnome-common_3.18.0-r0_all.ipk
+Source: gnome-common_3.18.0.bb
+Description: Common macros for building GNOME applications
+OE: gnome-common
+HomePage: http://www.gnome.org/
 License: GPL-2.0-or-later
 Priority: optional
 
