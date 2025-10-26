@@ -5008,9 +5008,9 @@ Version: 0.1+git0+0-r0
 Section: base
 Architecture: all
 Maintainer: littlesat
-MD5Sum: d8f6b5a33ba7423d6373c2cb6b76ad9e
-SHA256sum: 136e952d2fc224f9629c67969287f48c71f7fc6d7ee7964e81cc77760c68bd43
-Size: 2743180
+MD5Sum: 64a46ea3dd5e224e7385bfb93a4ce104
+SHA256sum: 87a9ef97f655a6236d37c40afa9397545fd8990a0670202808e1871c50bf612f
+Size: 2743240
 Filename: enigma2-plugin-skins-pli-hd_0.1+git0+0-r0_all.ipk
 Source: enigma2-plugin-skins-pli-hd.bb
 Description: PLi HD skin
